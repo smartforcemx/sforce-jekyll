@@ -69,13 +69,13 @@ window.addEventListener("scroll", function () {
 function hover(element, name) {
   element
     .querySelector("img")
-    .setAttribute("src", "../img/icons/" + name + "-white.png");
+    .setAttribute("src", "assets/img/icons/" + name + "-white.png");
 }
 
 function unhover(element, name) {
   element
     .querySelector("img")
-    .setAttribute("src", "../img/icons/" + name + "-grey.png");
+    .setAttribute("src", "assets/img/icons/" + name + "-grey.png");
 }
 // instafeed v1.4.1 
 // https://github.com/stevenschobert/instafeed.js
