@@ -83,6 +83,9 @@ footer .nav-item:hover {
 .txt-color-primary {
   color: #ef4b23;
 }
+.txt-color-semiblack {
+  color: #1d1d1d;
+}
 .txt-color-gray {
   color: #666666;
 }
