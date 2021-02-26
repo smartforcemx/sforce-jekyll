@@ -134,10 +134,10 @@ function unhover(element, name) {
           {
             name:'como_podemos_ayudarte_',
             value:dataObj.message
-          },
-          {
-            name:'captcha_response',
-            value: captcha
+          // },
+          // {
+          //   name:'captcha_response',
+          //   value: captcha
           }
         ],
         context:{
