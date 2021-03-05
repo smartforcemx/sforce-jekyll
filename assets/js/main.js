@@ -7,6 +7,33 @@ $(document).ready(function(){
       scrollTop: $(elem).offset().top -$('.sticky-top').innerHeight()
     },800);
   });
+  // $('.sf-head-collapse').click(function(){
+  //   console.log($(this));
+  // });
+
+  $('.collapse').click(function(){
+    console.log('foo',$(this));
+  });
+  $('.collapse.show').click(function(){
+    console.log('wem',$(this));
+  });
+  // $('.collapse')
+  // .on('shown.bs.collapse', function() {
+  //     console.log('foo',$(this));
+  //     // $(this)
+  //     //     .parent().parent()
+  //     //     .find(".fa-eye")
+  //     //     .removeClass("fa-eye")
+  //     //     .addClass("fa-eye-slash");
+  // })
+  // .on('hidden.bs.collapse', function() {
+  //   console.log('wem',$(this));
+  //     // $(this)
+  //     //     .parent().parent()
+  //     //     .find(".fa-eye-slash")
+  //     //     .removeClass("fa-eye-slash")
+  //     //     .addClass("fa-eye");
+  // });
 });
  
 
