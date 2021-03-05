@@ -86,7 +86,7 @@ function unhover(element, name) {
   var feed = new Instafeed({
     accessToken: 'IGQVJXWFdfODByUXlWRXNaX25GQmIxcEwxMjBLTGFrbGpJc2FOeE1WbGJfM1FMSzRyNWlkaUJxVGJNcDFNTU1fSk9WUmF2M1NGdTc1TkVobVhGcE9mNmlQam1zYkZAkLXZAvM1YxSTFtcjZAxXzloM3cxQwZDZD',
     // resolution: 'standard_resolution',
-    debug: true,
+    // debug: true,
     target:"instafeed-sf",
     template: '<div class="col-sm-12 col-md-3"><a href="{{link}}" target="_blank" id="{{id}}"><img title="{{caption}}" class="img-fluid" src="{{image}}" /></a></div>',
     sortBy: 'most-recent',
@@ -145,7 +145,7 @@ function unhover(element, name) {
           "pageName": "Sforce new web"
         }
       }
-      console.log("Form data", payload)
+      // console.log("Form data", payload)
       let uri = 'https://api.hsforms.com/submissions/v3/integration/submit/6318928/b571584e-3598-4220-8839-7843a39f6fa5'
   
       fetch(uri, {
@@ -159,15 +159,15 @@ function unhover(element, name) {
       .then(data => {
         if(data.status =='error'){
           alert('Hubo un error con el registro de su información:'+data.message);
-          console.error('Error :', data);
+          // console.error('Error :', data);
         }else{
           alert('Se ha enviado su información correctamente');
-          console.log('Success:', data);
+          // console.log('Success:', data);
         }
       })
       .catch((error) => {
         alert('Hubo un error con el registro de su información');
-        console.error('Error:', error);
+        // console.error('Error:', error);
       });
     }
   }
@@ -176,7 +176,7 @@ function unhover(element, name) {
     if (window.matchMedia("(max-width: 768px)").matches) {
         div.removeAttribute("data-ride"); 
         div.setAttribute("data-interval", "false")
-        console.log("si entro SI")
+        // console.log("si entro SI")
     } else {
         div.removeAttribute("data-interval"); 
         div.setAttribute("data-ride", "carousel")
@@ -208,7 +208,7 @@ function unhover(element, name) {
     if (window.matchMedia("(max-width: 768px)").matches) {
         div.removeAttribute("data-interval"); 
         div.setAttribute("data-interval", "false")
-        console.log("si entro SI")
+        // console.log("si entro SI")
     } else {
         div.removeAttribute("data-interval"); 
         div.setAttribute("data-interval", "3000")
