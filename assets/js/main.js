@@ -8,8 +8,21 @@ $(document).ready(function(){
     },800);
   });
 });
- 
 
+$('.sf-head-collapse').click(function(){
+  const button = $(this).find('button');
+  const aria_expanded = button.attr('aria-expanded');
+  clearCollapseIcon();
+  if(aria_expanded == 'false'){
+    button.find('img').attr("src", "/assets/img/servicios/Flecha-2.png");
+  }
+});
+
+function clearCollapseIcon(){
+  $('.sf-head-collapse').each(function(){
+    $(this).find('button').find('img').attr("src", "/assets/img/servicios/Flecha-1.png");
+  });
+}
 
 /* carousel events for customers */
 $("#nuestros-clientes").carousel({
