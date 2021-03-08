@@ -10,16 +10,19 @@ $(document).ready(function(){
 });
 
 $('.sf-head-collapse').click(function(){
-  let button = $(this).find('button');
-  let aria_expanded = button[0].getAttribute("aria-expanded");
-
+  const button = $(this).find('button');
+  const aria_expanded = button.attr('aria-expanded');
+  clearCollapseIcon();
   if(aria_expanded == 'false'){
     button.find('img').attr("src", "/assets/img/servicios/Flecha-2.png");
-  }else{
-    button.find('img').attr("src", "/assets/img/servicios/Flecha-1.png");
   }
 });
 
+function clearCollapseIcon(){
+  $('.sf-head-collapse').each(function(){
+    $(this).find('button').find('img').attr("src", "/assets/img/servicios/Flecha-1.png");
+  });
+}
 
 /* carousel events for customers */
 $("#nuestros-clientes").carousel({
