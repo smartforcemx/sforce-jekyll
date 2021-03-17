@@ -8,8 +8,21 @@ $(document).ready(function(){
     },800);
   });
 });
- 
 
+$('.sf-head-collapse').click(function(){
+  const button = $(this).find('button');
+  const aria_expanded = button.attr('aria-expanded');
+  clearCollapseIcon();
+  if(aria_expanded == 'false'){
+    button.find('img').attr("src", "/assets/img/servicios/Flecha-2.png");
+  }
+});
+
+function clearCollapseIcon(){
+  $('.sf-head-collapse').each(function(){
+    $(this).find('button').find('img').attr("src", "/assets/img/servicios/Flecha-1.png");
+  });
+}
 
 /* carousel events for customers */
 $("#nuestros-clientes").carousel({
@@ -172,14 +185,15 @@ function unhover(element, name) {
     }
   }
       
-  let div = document.querySelector("#servicios");
+  let div_services = document.querySelector("#servicios");
+  if(div_services){
     if (window.matchMedia("(max-width: 768px)").matches) {
-        div.removeAttribute("data-ride"); 
-        div.setAttribute("data-interval", "false")
+        div_services.removeAttribute("data-ride"); 
+        div_services.setAttribute("data-interval", "false")
         // console.log("si entro SI")
     } else {
-        div.removeAttribute("data-interval"); 
-        div.setAttribute("data-ride", "carousel")
+        div_services.removeAttribute("data-interval"); 
+        div_services.setAttribute("data-ride", "carousel")
         /* carousel events for services */
       $("#servicios").carousel({
         interval: 4000,
@@ -204,12 +218,15 @@ function unhover(element, name) {
         }
       });
     }
-    div = document.querySelector("#carouselPartners");
+  }
+  let div_carousel_partners = document.querySelector("#carouselPartners");
+  if(div_carousel_partners){
     if (window.matchMedia("(max-width: 768px)").matches) {
-        div.removeAttribute("data-interval"); 
-        div.setAttribute("data-interval", "false")
+        div_carousel_partners.removeAttribute("data-interval"); 
+        div_carousel_partners.setAttribute("data-interval", "false")
         // console.log("si entro SI")
     } else {
-        div.removeAttribute("data-interval"); 
-        div.setAttribute("data-interval", "3000")
+        div_carousel_partners.removeAttribute("data-interval"); 
+        div_carousel_partners.setAttribute("data-interval", "3000")
     }
+  }
