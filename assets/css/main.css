@@ -376,5 +376,12 @@ footer a, footer .btn.btn-link {
     transform: translate(-45%);
   }
 }
-
+@media (max-width: 768px) {
+  #t-accordion{
+    font-size: 15px;
+  }
+  #title{
+    font-size: 40px;
+  }
+}
 
