@@ -254,7 +254,9 @@ footer a, footer .btn.btn-link {
   width: 1.3rem;
   height:  1.3rem;
 }
-
+.sf-head-collapse{
+  background-color: #f7f7f7;
+}
 /* Finally, you can add some hover effects by modifying the color and border colors when hovering over the button. */
 
 /* .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .open > .dropdown-toggle.btn-primary {
