@@ -166,7 +166,7 @@ footer .nav-item:hover {
 }
 .jumbotron-bg {
   background-size: cover;
-  background-position: center;
+  background-position: 0% 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
