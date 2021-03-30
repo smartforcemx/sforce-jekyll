@@ -1,4 +1,9 @@
 ---
 label: foo
 hide_body: true
-fields: []
+fields:
+- name: asdf
+  type: text
+  config:
+    required: false
+  label: ffff
