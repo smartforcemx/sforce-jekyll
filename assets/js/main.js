@@ -97,7 +97,7 @@ function unhover(element, name) {
     limit = 1;
   }
   var feed = new Instafeed({
-    accessToken: 'IGQVJXWFdfODByUXlWRXNaX25GQmIxcEwxMjBLTGFrbGpJc2FOeE1WbGJfM1FMSzRyNWlkaUJxVGJNcDFNTU1fSk9WUmF2M1NGdTc1TkVobVhGcE9mNmlQam1zYkZAkLXZAvM1YxSTFtcjZAxXzloM3cxQwZDZD',
+    accessToken: 'IGQVJVamtfd1RHaVI1V2dsV1pYQ0hIR0RZAdWVJZAVRoNDBYYjNYTzdUb0hqSXdtdDJmM2kyTEFHSWhXVGJYMUlPNV9keFl2MjdzajkzZA2U3OGw3NThYM2huZAC1teVZAseVBOZAjNDT3VHelRGejdlb193UAZDZD',
     // resolution: 'standard_resolution',
     // debug: true,
     target:"instafeed-sf",
