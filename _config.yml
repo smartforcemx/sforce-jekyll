@@ -38,8 +38,8 @@ plugins:
 #   slides:
 #     output: true
 
-include:
-  - _includes
+# include:
+#   - _includes
 
 # Exclude from processing.
 # The following items will not be processed, by default.
