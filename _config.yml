@@ -35,8 +35,7 @@ plugins:
   - jekyll-feed
 # example collection
 # collections:
-#   slides:
-#     output: true
+#   - translates
 
 # include:
 #   - _includes
