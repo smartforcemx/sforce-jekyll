@@ -6,7 +6,7 @@
             </div>
             <div class="col-sm-12 col-md-4">
                 <div class="m-3">
-                    <p>Smart Force es una empresa fundada en 2020, dedicada a la automatización de procesos.
+                    <p>{{site.data.footer[page.lang]['descripcion']['text']}}
                     </p>
                     <p>
                         <a class="nav-item" href="mailto:contacto@smart-force.com">contacto@smart-force.com</a>
@@ -27,21 +27,21 @@
             <div class="col-sm-12 col-md-4">
                 <ul class="nav flex-column">
                     <li class="nav-item">
-                        <a class="nav-link" href="nosotros">Acerca de nosotros</a>
+                        <a class="nav-link" href="{{site.data.footer[page.lang]['nosotros_link']['url']}}">{{site.data.footer[page.lang]['nosotros_link']['text']}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Terminos y condiciones</a>
+                        <a class="nav-link" href="{{site.data.footer[page.lang]['terminos_link']['url']}}">{{site.data.footer[page.lang]['terminos_link']['text']}}</a>
                     </li>
                     <li class="nav-item">
                         <button type="button" class="btn btn-link nav-link" data-toggle="modal"
-                            data-target="#politicasModal">Politica de privacidad</button>
+                            data-target="#politicasModal">{{site.data.footer[page.lang]['politicas_link']['text']}}</button>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Mapa del sitio</a>
+                        <a class="nav-link" href="{{site.data.footer[page.lang]['mapa_sitio_link']['url']}}">{{site.data.footer[page.lang]['mapa_sitio_link']['text']}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-outline-primary border-primary dinpro-bold m-3" href="#"><span
-                                class="text-white">Quiero más información </span><i
+                        <a class="btn btn-outline-primary border-primary dinpro-bold m-3" href="{{site.data.footer[page.lang]['mas_info_link']['url']}}"><span
+                                class="text-white">{{site.data.footer[page.lang]['mas_info_link']['text']}} &nbsp;</span><i
                                 class="fas fa-arrow-right"></i></a>
                     </li>
                 </ul>
@@ -56,7 +56,7 @@
         </div>
     </div>
     <div class="col bg-black">
-        <div class="text-center text-light">SMART FORCE TODOS LOS DERECHOS RESERVADOS 2020</div>
+        <div class="text-center text-light">SMART FORCE {{site.data.footer[page.lang]['derechos_reservados']['text']}} 2020</div>
     </div>
 
 </footer>
@@ -65,7 +65,7 @@
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="politicasModalLabel">Politicas de privacidad</h5>
+                <h5 class="modal-title" id="politicasModalLabel">{{site.data.footer[page.lang]['politicas_link']['text']}}</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -143,7 +143,7 @@ C. Visite el siguiente link: http://www.ifai.org.mx
             </pre>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">{{site.data.footer[page.lang]['btn_cerrar']['text']}}</button>
             </div>
         </div>
     </div>
