@@ -40,6 +40,8 @@ plugins:
 
 # include:
 #   - _includes
+lang: es 
+languages: ["es", "en"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
