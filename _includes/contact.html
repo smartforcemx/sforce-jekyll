@@ -2,20 +2,19 @@
     <div class="container py-5" id="contactanos">
         <div class="row text-justify">
             <div class="col-sm-12 col-md-6 dinpro-light px-4 py-3">
-                <h4 class="txt-color-primary good-times-rg">HABLEMOS</h4>
-                <h4>Agenda una asesoria con nuestros expertos y empieza a transformar tu negocio.</h4>
-                <h4>Si estas interesado en formar parte de nuestras alianzas, un colaborador revisará tu
-                    solicitud.
+                <h4 class="txt-color-primary good-times-rg">{{site.data.contact[page.lang]['hablemos_titulo']['text']}}</h4>
+                <h4>{{site.data.contact[page.lang]['hablemos1_titulo']['text']}}</h4>
+                <h4>{{site.data.contact[page.lang]['hablemos1_1_titulo']['text']}}
                 </h4>
 
                 <button type="button" class="btn btn-outline-primary border-black dinpro-bold mt-4 mb-4"
-                    data-toggle="modal" data-target="#politicasModal">política de privacidad <i
+                    data-toggle="modal" data-target="#politicasModal">{{site.data.contact[page.lang]['hablemos1_2_titulo']['text']}} <i
                         class="fas fa-arrow-right"></i></button>
 
             </div>
             <div class="col-sm-12 col-md-6 dinpro-bold py-3">
                 <form onsubmit="event.preventDefault(); submitForm();" >
-                    <h4>LLENA LOS CAMPOS CON TUS DATOS</h4>
+                    <h4>{{site.data.contact[page.lang]['datos_titulo']['text']}}</h4>
                     <div class="form-row dinpro-regular">
                         <div class="form-group col-md-6">
                             <input type="text" class="form-control" placeholder="Nombre" name="firstname"
@@ -38,7 +37,7 @@
                                 placeholder="Correo electrónico">
                         </div>
                     </div>
-                    <h4>¿CÓMO TE PODEMOS AYUDAR?</h4>
+                    <h4>{{site.data.contact[page.lang]['datos1_titulo']['text']}}</h4>
                     <div class="form-row">
                         <div class="form-group w-100">
                             <textarea class="form-control" placeholder="Mensaje" name="message" required
@@ -54,7 +53,7 @@
                             </script>
                         </div>
                     </div>
-                    <button type="submit" value="Submit" class="btn btn-outline-primary float-right border-primary">enviar <i
+                    <button type="submit" value="Submit" class="btn btn-outline-primary float-right border-primary">{{site.data.contact[page.lang]['datos1_1_titulo']['text']}} <i
                             class="fas fa-arrow-right"></i></button>
                 </form>
             </div>
