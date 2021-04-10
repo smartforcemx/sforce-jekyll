@@ -1,0 +1,11 @@
+es:
+  noticias_titulo:
+    text: "ÚLTIMAS NOTICIAS"
+  noticias1_titulo:
+    text: "siguenos "
+
+en:
+  noticias_titulo:
+    text: "LAST NEWS"
+  noticias1_titulo:
+    text: "follow us "
