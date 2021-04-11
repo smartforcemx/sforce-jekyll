@@ -17,30 +17,30 @@
                     <h4>{{site.data.contact[page.lang]['datos_titulo']['text']}}</h4>
                     <div class="form-row dinpro-regular">
                         <div class="form-group col-md-6">
-                            <input type="text" class="form-control" placeholder="Nombre" name="firstname"
+                            <input type="text" class="form-control" placeholder="{{site.data.contact[page.lang]['nombre_titulo']['text']}}" name="firstname"
                                 required id="inputName">
                         </div>
                         <div class="form-group col-md-6">
-                            <input type="text" class="form-control" placeholder="Apellido" name="lastname"
+                            <input type="text" class="form-control" placeholder="{{site.data.contact[page.lang]['apellido_titulo']['text']}}" name="lastname"
                                 required id="inputLastName">
                         </div>
                         <div class="form-group col-md-6">
-                            <input type="tel" class="form-control" placeholder="Teléfono celular"
-                                name="mobilephone" required id="inputCellphone">
+                            <input type="tel" class="form-control" placeholder="{{site.data.contact[page.lang]['telefono_titulo']['text']}}" name="mobilephone" 
+                                required id="inputCellphone">
                         </div>
                         <div class="form-group col-md-6">
-                            <input type="text" class="form-control" id="inputCompany" placeholder="Empresa"
-                                name="company" required>
+                            <input type="text" class="form-control" id="inputCompany" placeholder="{{site.data.contact[page.lang]['empresa_titulo']['text']}}" name="company" 
+                                required>
                         </div>
                         <div class="form-group col-md-12">
                             <input type="email" class="form-control" id="inputEmail" name="email" required
-                                placeholder="Correo electrónico">
+                                placeholder="{{site.data.contact[page.lang]['correo_titulo']['text']}}">
                         </div>
                     </div>
                     <h4>{{site.data.contact[page.lang]['datos1_titulo']['text']}}</h4>
                     <div class="form-row">
                         <div class="form-group w-100">
-                            <textarea class="form-control" placeholder="Mensaje" name="message" required
+                            <textarea class="form-control" placeholder="{{site.data.contact[page.lang]['mensaje_titulo']['text']}}" name="message" required
                                 id="inputMessage"></textarea>
                         </div>
                     </div>
