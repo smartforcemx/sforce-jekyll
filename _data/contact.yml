@@ -1,0 +1,35 @@
+es:
+  hablemos_titulo:
+    text: "HABLEMOS"
+  hablemos1_titulo:
+    text: "Agenda una asesoria con nuestros expertos
+    y empieza a transformar tu negocio."
+  hablemos1_1_titulo:
+    text: "Si estas interesado en formar parte de 
+    nuestras alianzas, un colaborador revisará tu 
+    solicitud."
+  hablemos1_2_titulo:
+    text: "política de privacidad "
+  datos_titulo:
+    text: "LLENA LOS CAMPOS CON TUS DATOS"
+  datos1_titulo:
+    text: "¿CÓMO TE PODEMOS AYUDAR?"
+  datos1_1_titulo:
+    text: "enviar "
+en:
+  hablemos_titulo:
+    text: "Let’s talk"
+  hablemos1_titulo:
+    text: "Schedule a meeting with our experts and 
+    begin your business’ digital."
+  hablemos1_1_titulo:
+    text: "If you are interested in being part of our 
+    partnerships, we will evaluate your application."
+  hablemos1_2_titulo:
+    text: "privacy policy "
+  datos_titulo:
+    text: "FILL OUT THE FORM WITHYOUR DATA"
+  datos1_titulo:
+    text: "HOW CAN WE HELP?"
+  datos1_1_titulo:
+    text: "send "

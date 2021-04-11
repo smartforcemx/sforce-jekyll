@@ -26,12 +26,14 @@
             </div>
             <div class="col-sm-12 col-md-6 text-justify dinpro-regular">
                 <h3 class="txt-color-primary good-times-rg pt-5 pb-sm-3">
-                    Nuestros socios
+                    {{site.data.partners[page.lang]['socios_titulo']['text']}}
                 </h3>
-                <h5>Somos aliados de la mejor plataforma de RPA del mercado. la más implementada en el mundo.
+                <h5>
+                    {{site.data.partners[page.lang]['socios_descripcion']['text']}}
                 </h5>
                 <button type="submit"
-                    class="btn btn-outline-primary float-right border-primary dinpro-bold m-sm-6">Casos de éxito
+                    class="btn btn-outline-primary float-right border-primary dinpro-bold m-sm-6">
+                    {{site.data.partners[page.lang]['socios_link']['text']}}
                     <i class="fas fa-arrow-right"></i></button>
             </div>
         </div>
