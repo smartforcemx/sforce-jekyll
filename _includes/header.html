@@ -11,9 +11,15 @@
                 <a href="https://www.youtube.com/channel/UC5cmjrzpOQK0YVaFz4Yzr8g" target="_blank"><img class="h-75 sf-grey-img"
                         src="{{ site.baseurl }}/assets/img/icons/youtube-white.png" alt=""> </a>
                 <div class="float-right">
+                    {% if page.lang == 'es' %}
                     <span class="language-selection pt-4 dinpro-bold">Seleccionar idioma</span>
-                    <a href=""> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img"> </a>
-                    <a href=""> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img unselected"> </a>
+                    <a href="/"> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img"> </a>
+                    <a href="/en/"> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img unselected"> </a>
+                    {% else %}
+                    <span class="language-selection pt-4 dinpro-bold">Select language</span>
+                    <a href="/"> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img unselected"> </a>
+                    <a href="/en/"> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img"> </a>
+                    {% endif %}
                 </div>
             </div>
             <div class="col-sm-6 col-md-6 col-lg-3 d-none d-md-block">
@@ -27,11 +33,12 @@
                         src="{{ site.baseurl }}/assets/img/icons/youtube-white.png" alt=""> </a>
             </div>
             <div class="col-sm-6 col-md-6 offset-lg-6 col-lg-3 d-none d-md-block">
-                <span class="language-selection pt-4 dinpro-bold">Seleccionar idioma</span>
                 {% if page.lang == 'es' %}
+                <span class="language-selection pt-4 dinpro-bold">Seleccionar idioma</span>
                 <a href="/"> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img"> </a>
                 <a href="/en/"> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img unselected"> </a>
                 {% else %}
+                <span class="language-selection pt-4 dinpro-bold">Select language</span>
                 <a href="/"> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img unselected"> </a>
                 <a href="/en/"> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img"> </a>
                 {% endif %}
