@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: _variables/config.yml
+  path: _data/config.yml
   label: Config Variables
 - type: directory
   path: _includes
