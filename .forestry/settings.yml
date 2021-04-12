@@ -11,6 +11,12 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: directory
+  path: data
+  label: Data
+  create: all
+  match: "**/*"
+  new_doc_ext: ".yml"
 upload_dir: assets/img
 public_path: "/uploads"
 front_matter_path: ''
