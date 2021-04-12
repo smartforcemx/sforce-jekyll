@@ -16,6 +16,19 @@ es:
     text: "¿CÓMO TE PODEMOS AYUDAR?"
   datos1_1_titulo:
     text: "enviar "
+  nombre_titulo:
+    text: "Nombre"
+  apellido_titulo:
+    text: "Apellido"
+  telefono_titulo:
+    text: "Teléfono celular"
+  empresa_titulo:
+    text: "Empresa"
+  correo_titulo:
+    text: "Correo electrónico"
+  mensaje_titulo:
+    text: "Mensaje"
+
 en:
   hablemos_titulo:
     text: "Let’s talk"
@@ -33,3 +46,15 @@ en:
     text: "HOW CAN WE HELP?"
   datos1_1_titulo:
     text: "send "
+  nombre_titulo:
+    text: "Firstname"
+  apellido_titulo:
+    text: "Lastname"
+  telefono_titulo:
+    text: "Cellphone"
+  empresa_titulo:
+    text: "Company"
+  correo_titulo:
+    text: "Email"
+  mensaje_titulo:
+    text: "Message"
