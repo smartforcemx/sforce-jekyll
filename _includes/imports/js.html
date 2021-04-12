@@ -1,10 +1,12 @@
 <!--Start LoadCallback, Site Key Test Included-->
 <script type="text/javascript">
+    var sf_igat = '{{site.data.config.INSTAGRAM_ACCESS_TOKEN}}';
+    var sf_plc = '{{site.data.config.PAYLOAD_CONTEXT}}';
+    var sf_hsfu = '{{site.data.config.HUBSPOT_FORM_URL}}';
     var onloadCallback = function() {
         grecaptcha.render('gridCheck', {
             // 'sitekey' : '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI',// developer mode
-            'sitekey' : {{site.data.config.GRECAPTCHA_SITEKEY}},//production mode
-            // 'sitekey' : '6LdHTkoaAAAAAHzd6yuTT7bKMmt3KUipvr-oUVg0',//production mode
+            'sitekey' : '{{site.data.config.GRECAPTCHA_SITEKEY}}',//production mode
             'callback' : verifyCallback,
             'theme' : 'dark'
         });

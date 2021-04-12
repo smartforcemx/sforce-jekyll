@@ -97,7 +97,7 @@ function unhover(element, name) {
     limit = 1;
   }
   var feed = new Instafeed({
-    accessToken: 'IGQVJVamtfd1RHaVI1V2dsV1pYQ0hIR0RZAdWVJZAVRoNDBYYjNYTzdUb0hqSXdtdDJmM2kyTEFHSWhXVGJYMUlPNV9keFl2MjdzajkzZA2U3OGw3NThYM2huZAC1teVZAseVBOZAjNDT3VHelRGejdlb193UAZDZD',
+    accessToken: sf_igat,
     // resolution: 'standard_resolution',
     // debug: true,
     target:"instafeed-sf",
@@ -106,7 +106,6 @@ function unhover(element, name) {
     limit: limit,
     });
   feed.run();
-
   let dataCaptcha = ""
   let verifyCallback = function(response) {
     document.getElementById('g-recaptcha-error').innerHTML = '';
@@ -154,13 +153,11 @@ function unhover(element, name) {
           }
         ],
         context:{
-          "pageUri": "www.mariachilabs.mx/sforce",
+          "pageUri": sf_plc,
           "pageName": "Sforce new web"
         }
       }
-      // console.log("Form data", payload)
-      let uri = 'https://api.hsforms.com/submissions/v3/integration/submit/6318928/b571584e-3598-4220-8839-7843a39f6fa5'
-  
+      let uri = sf_hsfu;
       fetch(uri, {
         method: 'POST', 
         headers: {
@@ -172,15 +169,12 @@ function unhover(element, name) {
       .then(data => {
         if(data.status =='error'){
           alert('Hubo un error con el registro de su información:'+data.message);
-          // console.error('Error :', data);
         }else{
           alert('Se ha enviado su información correctamente');
-          // console.log('Success:', data);
         }
       })
       .catch((error) => {
         alert('Hubo un error con el registro de su información');
-        // console.error('Error:', error);
       });
     }
   }
@@ -190,14 +184,12 @@ function unhover(element, name) {
     if (window.matchMedia("(max-width: 768px)").matches) {
         div_services.removeAttribute("data-ride"); 
         div_services.setAttribute("data-interval", "false")
-        // console.log("si entro SI")
     } else {
         div_services.removeAttribute("data-interval"); 
         div_services.setAttribute("data-ride", "carousel")
         /* carousel events for services */
       $("#servicios").carousel({
         interval: 4000,
-        // interval: 10000
       });
 
       $("#servicios.carousel .carousel-item").each(function () {
