@@ -61,3 +61,6 @@ languages: ["es", "en"]
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+collections:
+  variables:
+    output: true

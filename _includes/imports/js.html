@@ -3,7 +3,8 @@
     var onloadCallback = function() {
         grecaptcha.render('gridCheck', {
             // 'sitekey' : '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI',// developer mode
-            'sitekey' : '6LdHTkoaAAAAAHzd6yuTT7bKMmt3KUipvr-oUVg0',//production mode
+            'sitekey' : {{site.data.config.GRECAPTCHA_SITEKEY}},//production mode
+            // 'sitekey' : '6LdHTkoaAAAAAHzd6yuTT7bKMmt3KUipvr-oUVg0',//production mode
             'callback' : verifyCallback,
             'theme' : 'dark'
         });
@@ -20,7 +21,7 @@
 <script src="{{ site.baseurl }}/assets/js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="https://js.hs-scripts.com/6318928.js"></script>
+<script type="text/javascript" id="hs-script-loader" async defer src="https://js.hs-scripts.com/{{site.data.config.HUBSPOT_BOT_TOKEN}}.js"></script>
 <!-- End of HubSpot Embed Code -->
 <!--Start Captcha API-->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -35,11 +36,11 @@
     t.src=v;s=b.getElementsByTagName(e)[0];
     s.parentNode.insertBefore(t,s)}(window,document,'script',
     'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '3690694670985478'); 
+    fbq('init', '{{site.data.config.FACEBOOK_PIXEL_TOKEN}}'); 
     fbq('track', 'PageView');
 </script>
 <noscript>
     <img height="1" width="1" 
-    src="https://www.facebook.com/tr?id=3690694670985478&ev=PageView&noscript=1"/>
+    src="https://www.facebook.com/tr?id={{site.data.config.FACEBOOK_PIXEL_TOKEN}}&ev=PageView&noscript=1"/>
 </noscript>
 <!-- End Facebook Pixel Code -->
