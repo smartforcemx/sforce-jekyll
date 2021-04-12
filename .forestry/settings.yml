@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _variables/config.yml
   label: Config Variables
-  match: "**/*"
 - type: directory
   path: _includes
   label: Includes
@@ -26,6 +25,7 @@ sections:
   label: Data
   create: documents
   match: "**/*"
+  exclude: config.yml
   new_doc_ext: yml
 upload_dir: assets/img
 public_path: "/uploads"
