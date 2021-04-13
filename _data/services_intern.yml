@@ -36,6 +36,7 @@ es:
     text: "Te invitamos a solicitar una demostración sin ningún compromiso"
   rpa_ipa3_1_titulo:
     text: "Quiero ser parte"
+
   llave_titulo:
     text: "PROYECTOS LLÁVE EN MANO"
   llave1_titulo:
@@ -57,6 +58,7 @@ es:
     text: "Te invitamos a solicitar una demostración sin ningún compromiso"
   llave3_1_titulo:
     text: "Quiero ser parte"
+
   tdigital_titulo:
     text: "TRANSFORMACIÓN DIGITAL"
   tdigital1_titulo:
@@ -74,6 +76,7 @@ es:
     text: "Te invitamos a solicitar una demostración sin ningún compromiso"
   tdigital2_1_titulo:
     text: "Quiero ser parte"
+
   gproyectos_titulo:
     text: "GESTIÓN DE PROYECTOS"
   gproyectos1_titulo:
@@ -100,6 +103,7 @@ es:
     text: "Te invitamos a solicitar una demostración sin ningún compromiso"
   gproyectos4_1_titulo:
     text: "Quiero ser parte"
+
   robot_titulo:
     text: "ROBOT AS A SERVICE"
   robot1_titulo:
@@ -116,6 +120,7 @@ es:
     text: "Te invitamos a solicitar una demostración sin ningún compromiso"
   robot2_1_titulo:
     text: "Quiero ser parte"
+
   capacitacion_titulo:
     text: "CAPACITACIÓN"
   capacitacion1_titulo:
@@ -131,6 +136,7 @@ es:
     text: "Te invitamos a solicitar una demostración sin ningún compromiso"
   capacitacion2_1_titulo:
     text: "Quiero ser parte"
+
   boarding_titulo:
     text: "ON BOARDING"
   boarding1_titulo:
@@ -145,6 +151,9 @@ es:
     text: "Te invitamos a solicitar una demostración sin ningún compromiso"
   boarding2_1_titulo:
     text: "Quiero ser parte"
+  boarding_img:
+    src: 'OnBoarding-1.png'
+
   chatbot_titulo:
     text: "CHATBOTS"
   chatbot1_titulo:
@@ -160,7 +169,9 @@ es:
     text: "Te invitamos a solicitar una demostración sin ningún compromiso"
   chatbot2_1_titulo:
     text: "Quiero ser parte"
-
+        
+  llave_mano_img:
+    src: '2.png'
 en:
   servicios_titulo:
     text: "SERVICES"
@@ -196,6 +207,7 @@ en:
     text: "We invite you to request a demo with no commitment needed"
   rpa_ipa3_1_titulo:
     text: "I want to be part"
+
   llave_titulo:
     text: "KEY IN HAND PROJECTS"
   llave1_titulo:
@@ -213,6 +225,7 @@ en:
     text: "We invite you to request a demo with no commitment needed"
   llave3_1_titulo:
     text: "I want to be part"
+
   tdigital_titulo:
     text: "DIGITAL TRANSFORMATION"
   tdigital1_titulo:
@@ -227,6 +240,7 @@ en:
     text: "We invite you to request a demo with no commitment needed"
   tdigital2_1_titulo:
     text: "I want to be part"
+
   gproyectos_titulo:
     text: "Project Management"
   gproyectos1_titulo:
@@ -250,6 +264,7 @@ en:
     text: "We invite you to request a demo with no commitment needed"
   gproyectos4_1_titulo:
     text: "I want to be part"
+
   robot_titulo:
     text: "ROBOT AS A SERVICE"
   robot1_titulo:
@@ -264,6 +279,7 @@ en:
     text: "We invite you to request a demo with no commitment needed"
   robot2_1_titulo:
     text: "I want to be part"
+
   capacitacion_titulo:
     text: "TRAINING"
   capacitacion1_titulo:
@@ -278,6 +294,7 @@ en:
     text: "We invite you to request a demo with no commitment needed"
   capacitacion2_1_titulo:
     text: "I want to be part"
+
   boarding_titulo:
     text: "ON BOARDING"
   boarding1_titulo:
@@ -292,6 +309,9 @@ en:
     text: "We invite you to request a demo with no commitment needed"
   boarding2_1_titulo:
     text: "I want to be part"
+  boarding_img:
+    src: 'OnBoarding-1.png'
+
   chatbot_titulo:
     text: "CHATBOTS"
   chatbot1_titulo:
@@ -306,3 +326,6 @@ en:
     text: "We invite you to request a demo with no commitment needed"
   chatbot2_1_titulo:
     text: "I want to be part"
+
+  llave_mano_img:
+    src: '2.png'
