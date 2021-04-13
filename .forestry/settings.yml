@@ -9,6 +9,7 @@ sections:
   label: Images
   create: all
   match: "**/*"
+  new_doc_ext: ".png"
 - type: document
   path: _data/config.yml
   label: Config Variables
