@@ -1,34 +1,37 @@
+---
 es:
   index:
     url: "/index.html"
   nosotros:
-    texto: "Sobre nosotros"
+    texto: Sobre nosotros
     url: "/nosotros.html"
   servicios:
-    texto: "Servicios" 
+    texto: Servicios
     url: "/servicios.html"
   clientes:
-    texto: "Nuestros clientes" 
+    texto: Nuestros clientes
     url: "/clientes.html"
   socios:
-    texto: "Nuestros socios" 
+    texto: Nuestros socios
     url: "/socios.html"
   contactanos:
-    texto: "Contactanos" 
+    texto: Contactanos
+  nosotros_titulo:
+    text: fff
 en:
   index:
     url: "/en/index.html"
   nosotros:
-    texto: "About us" 
+    texto: About us
     url: "/en/about-us.html"
   servicios:
-    texto: "Services" 
+    texto: Services
     url: "/en/services.html"
   clientes:
-    texto: "Clients" 
+    texto: Clients
     url: "/en/clients.html"
   socios:
-    texto: "Partners" 
+    texto: Partners
     url: "/en/partners.html"
   contactanos:
-    texto: "Contact" 
+    texto: Contact
