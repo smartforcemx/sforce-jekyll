@@ -17,7 +17,7 @@ es:
   contactanos:
     texto: Contactanos
   nosotros_titulo:
-    text: fff
+    text: ''
 en:
   index:
     url: "/en/index.html"
