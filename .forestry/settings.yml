@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: assets/img
-  label: Images
-  create: all
-  match: "**/*"
-  new_doc_ext: ".png"
 - type: document
   path: _data/config.yml
   label: Config Variables
