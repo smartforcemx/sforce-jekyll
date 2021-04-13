@@ -2,33 +2,33 @@ es:
   index:
     url: "/index.html"
   nosotros:
-    text: "Sobre nosotros"
+    label: "Sobre nosotros"
     url: "/nosotros.html"
   servicios:
-    text: "Servicios" 
+    label: "Servicios" 
     url: "/servicios.html"
   clientes:
-    text: "Nuestros clientes" 
+    label: "Nuestros clientes" 
     url: "/clientes.html"
   socios:
-    text: "Nuestros socios" 
+    label: "Nuestros socios" 
     url: "/socios.html"
   contactanos:
-    text: "Contactanos" 
+    label: "Contactanos" 
 en:
   index:
     url: "/en/index.html"
   nosotros:
-    text: "About us" 
+    label: "About us" 
     url: "/en/about-us.html"
   servicios:
-    text: "Services" 
+    label: "Services" 
     url: "/en/services.html"
   clientes:
-    text: "Clients" 
+    label: "Clients" 
     url: "/en/clients.html"
   socios:
-    text: "Partners" 
+    label: "Partners" 
     url: "/en/partners.html"
   contactanos:
-    text: "Contact" 
+    label: "Contact" 
