@@ -24,7 +24,7 @@ sections:
   path: _data
   label: Data
   create: documents
-  match: "**/*"
+  match: "*"
   exclude: config.yml
   new_doc_ext: yml
 upload_dir: assets/img
