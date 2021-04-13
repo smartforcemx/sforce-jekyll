@@ -66,11 +66,13 @@
         </div>
     </div>
 </div>
+{% if site.data.videos.clientes_interna.src != '' %}
 <div class="row py-2 p-md-5">
     <div class="col-md-8 py-2 p-md-5 mx-auto">
         <div class="embed-responsive embed-responsive-16by9 px-md-5">
-            <iframe allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/1aV5BwdHB5U?rel=0"></iframe>
+            <iframe allowfullscreen="" class="embed-responsive-item" src="{{site.data.videos.clientes_interna.src}}"></iframe>
         </div>
     </div>
 </div>
+{% endif %}
 </div>

@@ -1,0 +1,23 @@
+nosotros_interna:
+  src: 'https://www.youtube.com/embed/1aV5BwdHB5U?rel=0'
+clientes_interna:
+  src: 'https://www.youtube.com/embed/1aV5BwdHB5U?rel=0'
+
+servicios_interna:
+  automatizaciones:
+    src: ''
+  proyectos:
+    src: ''
+  transformacion_digital:
+    src: ''
+  gestion_proyectos:
+    src: 'https://www.youtube.com/embed/1aV5BwdHB5U?rel=0'
+  robot_service:
+    src: ''
+  capacitacion:
+    src: ''
+  on_boarding:
+    src: ''
+  chatbot:
+    src: 'https://www.youtube.com/embed/d_K3dmWPjGA?rel=0'
+  
