@@ -1,37 +1,37 @@
----
-es:
-  index:
-    url: "/index.html"
-  nosotros:
-    texto: Sobre nosotros
-    url: "/nosotros.html"
-  servicios:
-    texto: Servicios
-    url: "/servicios.html"
-  clientes:
-    texto: Nuestros clientes
-    url: "/clientes.html"
-  socios:
-    texto: Nuestros socios
-    url: "/socios.html"
-  contactanos:
-    texto: Contactanos
-  nosotros_titulo:
-    text: ''
-en:
-  index:
-    url: "/en/index.html"
-  nosotros:
-    texto: About us
-    url: "/en/about-us.html"
-  servicios:
-    texto: Services
-    url: "/en/services.html"
-  clientes:
-    texto: Clients
-    url: "/en/clients.html"
-  socios:
-    texto: Partners
-    url: "/en/partners.html"
-  contactanos:
-    texto: Contact
+header:
+  es:
+    index:
+      url: "/index.html"
+    nosotros:
+      texto: Sobre nosotros
+      url: "/nosotros.html"
+    servicios:
+      texto: Servicios
+      url: "/servicios.html"
+    clientes:
+      texto: Nuestros clientes
+      url: "/clientes.html"
+    socios:
+      texto: Nuestros socios
+      url: "/socios.html"
+    contactanos:
+      texto: Contactanos
+    nosotros_titulo:
+      text: ''
+  en:
+    index:
+      url: "/en/index.html"
+    nosotros:
+      texto: About us
+      url: "/en/about-us.html"
+    servicios:
+      texto: Services
+      url: "/en/services.html"
+    clientes:
+      texto: Clients
+      url: "/en/clients.html"
+    socios:
+      texto: Partners
+      url: "/en/partners.html"
+    contactanos:
+      texto: Contact

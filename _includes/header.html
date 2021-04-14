@@ -48,7 +48,7 @@
 </div>
 <div class="bg-main py-4 site-header sticky-top">
     <header class="container navbar navbar-expand-lg">
-        <a class="navbar-brand mr-0" href="{{site.data.header[page.lang]['index']['url']}}"><img src="{{ site.baseurl }}/assets/img/small-logo.png" alt="" class="w-75"></a>
+        <a class="navbar-brand mr-0" href="{{site.data.header.header[page.lang]['index']['url']}}"><img src="{{ site.baseurl }}/assets/img/small-logo.png" alt="" class="w-75"></a>
         <button class="navbar-toggler border-white" type="button" data-toggle="collapse" data-target="#navbarTop"
             aria-controls="navbarTop" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars text-white"></i>
@@ -57,34 +57,34 @@
             id="navbarTop">
             <li class="nav-item">
                 {% if page.name_ref == "nosotros" %}
-                    <a class="nav-link active" href="{{site.data.header[page.lang]['nosotros']['url']}}">{{ site.data.header[page.lang]['nosotros']['texto']}} </a>
+                    <a class="nav-link active" href="{{site.data.header.header[page.lang]['nosotros']['url']}}">{{ site.data.header.header[page.lang]['nosotros']['texto']}} </a>
                 {% else %}
-                    <a class="nav-link" href="{{site.data.header[page.lang]['nosotros']['url']}}">{{ site.data.header[page.lang]['nosotros']['texto']}} </a>
+                    <a class="nav-link" href="{{site.data.header.header[page.lang]['nosotros']['url']}}">{{ site.data.header.header[page.lang]['nosotros']['texto']}} </a>
                 {% endif %}
             </li>
             <li class="nav-item">
                 {% if page.name_ref == "servicios" %}
-                <a class="nav-link active" href="{{site.data.header[page.lang]['servicios']['url']}}">{{ site.data.header[page.lang]['servicios']['texto']}} </a>
+                <a class="nav-link active" href="{{site.data.header.header[page.lang]['servicios']['url']}}">{{ site.data.header.header[page.lang]['servicios']['texto']}} </a>
                 {% else %}
-                    <a class="nav-link" href="{{site.data.header[page.lang]['servicios']['url']}}">{{ site.data.header[page.lang]['servicios']['texto']}} </a>
+                    <a class="nav-link" href="{{site.data.header.header[page.lang]['servicios']['url']}}">{{ site.data.header.header[page.lang]['servicios']['texto']}} </a>
                 {% endif %}
             </li>
             <li class="nav-item">
                 {% if page.name_ref == "clientes" %}
-                <a class="nav-link active" href="{{site.data.header[page.lang]['clientes']['url']}}">{{ site.data.header[page.lang]['clientes']['texto']}} </a>
+                <a class="nav-link active" href="{{site.data.header.header[page.lang]['clientes']['url']}}">{{ site.data.header.header[page.lang]['clientes']['texto']}} </a>
                 {% else %}
-                    <a class="nav-link" href="{{site.data.header[page.lang]['clientes']['url']}}">{{ site.data.header[page.lang]['clientes']['texto']}} </a>
+                    <a class="nav-link" href="{{site.data.header.header[page.lang]['clientes']['url']}}">{{ site.data.header.header[page.lang]['clientes']['texto']}} </a>
                 {% endif %}
             </li>
             <li class="nav-item">
                 {% if page.name_ref == "socios" %}
-                <a class="nav-link active" href="{{site.data.header[page.lang]['socios']['url']}}">{{ site.data.header[page.lang]['socios']['texto']}} </a>
+                <a class="nav-link active" href="{{site.data.header.header[page.lang]['socios']['url']}}">{{ site.data.header.header[page.lang]['socios']['texto']}} </a>
                 {% else %}
-                    <a class="nav-link" href="{{site.data.header[page.lang]['socios']['url']}}">{{ site.data.header[page.lang]['socios']['texto']}} </a>
+                    <a class="nav-link" href="{{site.data.header.header[page.lang]['socios']['url']}}">{{ site.data.header.header[page.lang]['socios']['texto']}} </a>
                 {% endif %}
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#contactanos">{{ site.data.header[page.lang]['contactanos']['texto']}}</a>
+                <a class="nav-link" href="#contactanos">{{ site.data.header.header[page.lang]['contactanos']['texto']}}</a>
             </li>
         </ul>
     </header>
