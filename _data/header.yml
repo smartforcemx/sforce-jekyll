@@ -17,7 +17,7 @@ header:
     contactanos:
       texto: Contactanos
     nosotros_titulo:
-      text: ''
+      texto: ''
   en:
     index:
       url: "/en/index.html"

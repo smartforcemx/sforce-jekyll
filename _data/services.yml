@@ -1,113 +1,113 @@
 services:
   es:
     rpa_ipa_titulo:
-      text: "AUTOMATIZACIONES CON RPA / IPA"
+      texto: "AUTOMATIZACIONES CON RPA / IPA"
     rpa_ipa1_titulo:
-      text: "RPA es el término que usa la industria para 
+      texto: "RPA es el término que usa la industria para 
       programas de cómputo que ayudan a automatizar 
       funciones imitando el como los usuarios interactúan..."
     rpa_ipa1_1_titulo:
-      text: "leer más "
+      texto: "leer más "
     chatbot_titulo:
-      text: "CHATBOTS"
+      texto: "CHATBOTS"
     chatbot1_titulo:
-      text: "Te ayudamos en la estrategia de desarrollar
+      texto: "Te ayudamos en la estrategia de desarrollar
       Chatbots conversacionales complejos con capacidad de 
       procesamiento de Lenguaje Natural (NLP)..."
     chatbot1_1_titulo:
-      text: "leer más "
+      texto: "leer más "
     tdigital_titulo:
-      text: "TRANSFORMACIÓN DIGITAL"
+      texto: "TRANSFORMACIÓN DIGITAL"
     tdigital1_titulo:
-      text: "Abordamos en conjunto con nuestros clientes 
+      texto: "Abordamos en conjunto con nuestros clientes 
       los retos de transformación de procesos, evaluando 
       las tecnologías que permitirán mejores resultados..."
     tdigital1_1_titulo:
-      text: "leer más "
+      texto: "leer más "
     boarding_titulo:
-      text: "ON BOARDING"
+      texto: "ON BOARDING"
     boarding1_titulo:
-      text: "Servicios empaquetados con alcances definidos,
+      texto: "Servicios empaquetados con alcances definidos,
       diseñados para desarrollar las capacidades internas 
       en nuestros clientes y asociados..."
     boarding1_1_titulo:
-      text: "leer más "
+      texto: "leer más "
     llave_titulo:
-      text: "PROYECTOS LLAVE EN MANO"
+      texto: "PROYECTOS LLAVE EN MANO"
     llave1_titulo:
-      text: "Nos involucramos en todo el proceso de 
+      texto: "Nos involucramos en todo el proceso de 
       transformación de nuestros clientes, analizando, 
       diseñando y desarrollando las automatizaciones..."
     llave1_1_titulo:
-      text: "leer más "
+      texto: "leer más "
     robot_titulo:
-      text: "ROBOT AS A SERVICE"
+      texto: "ROBOT AS A SERVICE"
     robot1_titulo:
-      text: "Para clientes que no tiene el personal o la 
+      texto: "Para clientes que no tiene el personal o la 
       infraestructura para una operación compleja, pero 
       igualmente se enfrentan a los retos de las 
       actividades..."
     robot1_1_titulo:
-      text: "leer más "
+      texto: "leer más "
     anterior_titulo:
-      text: "anterior"
+      texto: "anterior"
     siguiente_titulo:
-      text: "siguiente"
+      texto: "siguiente"
 
   en:
     rpa_ipa_titulo:
-      text: "RPA / IPA AUTOMATIONS"
+      texto: "RPA / IPA AUTOMATIONS"
     rpa_ipa1_titulo:
-      text: "RPA is a concept used in the industry to 
+      texto: "RPA is a concept used in the industry to 
       describe computing programs that helps users to 
       automate activites by imitating how users interact
       with systems and applicatIons..."
     rpa_ipa1_1_titulo:
-      text: "read more "
+      texto: "read more "
     chatbot_titulo:
-      text: "CHATBOTS"
+      texto: "CHATBOTS"
     chatbot1_titulo:
-      text: "We help you with a more complete commercial 
+      texto: "We help you with a more complete commercial 
       and customer service strategy, using bot that can 
       have conversations with a Natural Language 
       Processing (NLP)..."
     chatbot1_1_titulo:
-      text: "read more "
+      texto: "read more "
     tdigital_titulo:
-      text: "DIGITAL TRANSFORMATION"
+      texto: "DIGITAL TRANSFORMATION"
     tdigital1_titulo:
-      text: "We get onboard with our customers to face 
+      texto: "We get onboard with our customers to face 
       challenges on their processes, evaluating the best 
       technologies to improve results..."
     tdigital1_1_titulo:
-      text: "read more "
+      texto: "read more "
     boarding_titulo:
-      text: "ON BOARDING"
+      texto: "ON BOARDING"
     boarding1_titulo:
-      text: "Bundle of services with a defined scope,
+      texto: "Bundle of services with a defined scope,
       designed to develop internal capabilities within 
       our customers and business partners teams..."
     boarding1_1_titulo:
-      text: "read more  "
+      texto: "read more  "
     llave_titulo:
-      text: "KEY IN HAND PROJECTS"
+      texto: "KEY IN HAND PROJECTS"
     llave1_titulo:
-      text: "We get involved in the whole transformation
+      texto: "We get involved in the whole transformation
       process of our customers, analyzing, designing and 
       developing the automations..."
     llave1_1_titulo:
-      text: "read more "
+      texto: "read more "
     robot_titulo:
-      text: "ROBOT AS A SERVICE"
+      texto: "ROBOT AS A SERVICE"
     robot1_titulo:
-      text: "In order for the customers to face the day 
+      texto: "In order for the customers to face the day 
       to day challenges within a complex operation, and 
       have no infrastructure or staff, we can provide a 
       managed service to add value..."
     robot1_1_titulo:
-      text: "read more "
+      texto: "read more "
     anterior_titulo:
-      text: "previous"
+      texto: "previous"
     siguiente_titulo:
-      text: "next"
+      texto: "next"
     

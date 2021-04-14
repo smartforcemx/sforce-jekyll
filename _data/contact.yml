@@ -1,61 +1,61 @@
 contact:
   es:
     hablemos_titulo:
-      text: "HABLEMOS"
+      texto: "HABLEMOS"
     hablemos1_titulo:
-      text: "Agenda una asesoria con nuestros expertos
+      texto: "Agenda una asesoria con nuestros expertos
       y empieza a transformar tu negocio."
     hablemos1_1_titulo:
-      text: "Si estas interesado en formar parte de 
+      texto: "Si estas interesado en formar parte de 
       nuestras alianzas, un colaborador revisará tu 
       solicitud."
     hablemos1_2_titulo:
-      text: "política de privacidad "
+      texto: "política de privacidad "
     datos_titulo:
-      text: "LLENA LOS CAMPOS CON TUS DATOS"
+      texto: "LLENA LOS CAMPOS CON TUS DATOS"
     datos1_titulo:
-      text: "¿CÓMO TE PODEMOS AYUDAR?"
+      texto: "¿CÓMO TE PODEMOS AYUDAR?"
     datos1_1_titulo:
-      text: "enviar "
+      texto: "enviar "
     nombre_titulo:
-      text: "Nombre"
+      texto: "Nombre"
     apellido_titulo:
-      text: "Apellido"
+      texto: "Apellido"
     telefono_titulo:
-      text: "Teléfono celular"
+      texto: "Teléfono celular"
     empresa_titulo:
-      text: "Empresa"
+      texto: "Empresa"
     correo_titulo:
-      text: "Correo electrónico"
+      texto: "Correo electrónico"
     mensaje_titulo:
-      text: "Mensaje"
+      texto: "Mensaje"
 
   en:
     hablemos_titulo:
-      text: "Let’s talk"
+      texto: "Let’s talk"
     hablemos1_titulo:
-      text: "Schedule a meeting with our experts and 
+      texto: "Schedule a meeting with our experts and 
       begin your business’ digital."
     hablemos1_1_titulo:
-      text: "If you are interested in being part of our 
+      texto: "If you are interested in being part of our 
       partnerships, we will evaluate your application."
     hablemos1_2_titulo:
-      text: "privacy policy "
+      texto: "privacy policy "
     datos_titulo:
-      text: "FILL OUT THE FORM WITHYOUR DATA"
+      texto: "FILL OUT THE FORM WITHYOUR DATA"
     datos1_titulo:
-      text: "HOW CAN WE HELP?"
+      texto: "HOW CAN WE HELP?"
     datos1_1_titulo:
-      text: "send "
+      texto: "send "
     nombre_titulo:
-      text: "Firstname"
+      texto: "Firstname"
     apellido_titulo:
-      text: "Lastname"
+      texto: "Lastname"
     telefono_titulo:
-      text: "Cellphone"
+      texto: "Cellphone"
     empresa_titulo:
-      text: "Company"
+      texto: "Company"
     correo_titulo:
-      text: "Email"
+      texto: "Email"
     mensaje_titulo:
-      text: "Message"
+      texto: "Message"

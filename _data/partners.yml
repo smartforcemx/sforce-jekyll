@@ -1,15 +1,15 @@
 partners:
   es:
     socios_titulo:
-      text: "NUESTROS SOCIOS"
+      texto: "NUESTROS SOCIOS"
     socios_descripcion:
-      text: "Somos aliados de la mejor plataforma de RPA del mercado la más implementada en el mundo."
+      texto: "Somos aliados de la mejor plataforma de RPA del mercado la más implementada en el mundo."
     socios_link:
-      text: "Casos de éxito"
+      texto: "Casos de éxito"
   en:
     socios_titulo:
-      text: "OUR PARTNERS"
+      texto: "OUR PARTNERS"
     socios_descripcion:
-      text: "We are allies of the best RPA platform on the market the most implemented in the world."
+      texto: "We are allies of the best RPA platform on the market the most implemented in the world."
     socios_link:
-      text: "Success stories"
+      texto: "Success stories"

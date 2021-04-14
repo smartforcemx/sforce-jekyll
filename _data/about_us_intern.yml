@@ -1,125 +1,125 @@
 about_us_intern:
   es:
     nosotros_titulo:
-      text: "SOBRE NOSOTROS"
+      texto: "SOBRE NOSOTROS"
     quienes_somos_titulo:
-      text: "Quienes somos -"
+      texto: "Quienes somos -"
     smart_titulo:
-      text: "SMART FORCE"
+      texto: "SMART FORCE"
     smart2_titulo:
-      text: "Nuestro equipo está integrado por colaboradores altamente compro
+      texto: "Nuestro equipo está integrado por colaboradores altamente compro
       metidos con el éxito de nuestros clientes."
     smart3_titulo:
-      text: "Nuestro enfoque principal es ayudar a nuestros clientes a "
+      texto: "Nuestro enfoque principal es ayudar a nuestros clientes a "
     smart3_1_titulo:
-      text: "transformar sus operaciones actuales para transicionar a un modelo 
+      texto: "transformar sus operaciones actuales para transicionar a un modelo 
       digital,"
     smart3_2_titulo:
-      text: "donde los asistentes virtuales permitan que los humanos se en
+      texto: "donde los asistentes virtuales permitan que los humanos se en
       foquen en actividades de más valor dentro de su rol y las actividades 
       repetitivas -de alto volumen bajo valor- pero necesarias, sean completadas
       por asistentes virtuales."
     rpa_titulo:
-      text: "ROBOTIC PROCESS AUTOMATION"
+      texto: "ROBOTIC PROCESS AUTOMATION"
     rpa2_titulo:
-      text: "Mas allá del Robotic Process Automation (RPA), combinamos tecno
+      texto: "Mas allá del Robotic Process Automation (RPA), combinamos tecno
       logías de Inteligencia artificial (IA), visión de computadora (CV) y 
       aprendizaje de maquina (ML) para lograr una automatización de Procesos 
       Inteligente (IPA)."
     rpa3_titulo:
-      text: "La combinación de estas nuevas tecnologías, con sus inversiones 
+      texto: "La combinación de estas nuevas tecnologías, con sus inversiones 
       actuales en tecnología logran capacidades aumentadas, para responder 
       mejor, mas rápido y de forma mas eficiente los cambios del mercado, al 
       tener al recurso humano enfocado en actividades de valor para los 
       clientes y la empresa."
     rpa3_1_titulo:
-      text: "Complementamos nuestros servicios de transformación digital con
+      texto: "Complementamos nuestros servicios de transformación digital con
       una práctica de administración de proyectos, para ayudar a nuestros 
       clientes a lograr sus objetivos con uso de metodologías agiles."
     metodo_agil_titulo:
-      text: "MÉTODO ÁGIL"
+      texto: "MÉTODO ÁGIL"
     metodo_agil2_titulo:
-      text: "El método ágil permite hacer entregas periódicas en forma rápida,
+      texto: "El método ágil permite hacer entregas periódicas en forma rápida,
       mostrando resultados al negocio, aportando resultados desde etapas 
       tempranas de los proyectos, mejorando así el retorno de inversión al ir 
       obteniendo valor del proyecto de forma incremental."
     nuestra_cultura_titulo:
-      text: "NUESTRA CULTURA"
+      texto: "NUESTRA CULTURA"
     nuestra_cultura2_titulo:
-      text: "Buscamos siempre el bien colectivo, tanto de nuestros colaboradores
+      texto: "Buscamos siempre el bien colectivo, tanto de nuestros colaboradores
       como de nuestros clientes y entorno, es la razón por la que siempre 
       buscamos tener clientes satisfechos en un modelo de negocio donde entre
       guemos valor a nuestros clientes a un precio competitivo, que nos permita
       seguir generando bienestar a nuestros empleados, accionistas y a la sociedad,
       bajo normas de operación éticas."
     nuestra_cultura3_titulo:
-      text: "Mantenemos una estructura organizacional simple que nos permite tener
+      texto: "Mantenemos una estructura organizacional simple que nos permite tener
       una comunicación fluida y sencilla con todos nuestros colaboradores, modelo 
       que llevamos a la ejecución de los proyectos con nuestros clientes y socios."
     crecimiento_titulo:
-      text: "CRECIMIENTO"
+      texto: "CRECIMIENTO"
     crecimiento2_titulo:
-      text: "Nos retamos constantemente a adquirir nuevas habilidades y conocimien
+      texto: "Nos retamos constantemente a adquirir nuevas habilidades y conocimien
       tos, para crecer como organización, personas y entorno, y contar con mejores
       perspectivas de abordar los retos de negocio que constantemente se nos presen
       tan en la ejecución de proyectos con nuestros clientes."
 
   en:
     nosotros_titulo:
-      text: "ABOUT US"
+      texto: "ABOUT US"
     quienes_somos_titulo:
-      text: "Who we are -"
+      texto: "Who we are -"
     smart_titulo:
-      text: "SMART FORCE"
+      texto: "SMART FORCE"
     smart2_titulo:
-      text: "Our team is composed of members that are highly committed to our
+      texto: "Our team is composed of members that are highly committed to our
       customers’ success."
     smart3_titulo:
-      text: "Our focus is to help our customers " 
+      texto: "Our focus is to help our customers " 
     smart3_1_titulo:
-      text: "transform their existing operations and  transition to a digital 
+      texto: "transform their existing operations and  transition to a digital 
       model,"
     smart3_2_titulo:
-      text: "where virtual assistants allow humans to focus on activities of 
+      texto: "where virtual assistants allow humans to focus on activities of 
       greater value in their role and the necessary repetitive high-volume acti
       vities are completed by these virtual assistants."
     rpa_titulo:
-      text: "ROBOTIC PROCESS AUTOMATION"
+      texto: "ROBOTIC PROCESS AUTOMATION"
     rpa2_titulo:
-      text: "Beyond  Robotic Process Automation (RPA), we combine Artificial 
+      texto: "Beyond  Robotic Process Automation (RPA), we combine Artificial 
       Intelligence (AI) Computer Vision (CV) and Machine Learning (ML) to 
       accomplish an Intelligent Process Automation (IPA)."
     rpa3_titulo:
-      text: "The combination of these new technologies with the existing techno
+      texto: "The combination of these new technologies with the existing techno
       logy investments create increased capacities, to respond efficiently, 
       better and faster, to market changes with human resources focused on 
       activities that add value to the customers and the company."
     rpa3_1_titulo:
-      text: "Our team is composed of members that are highly committed to our
+      texto: "Our team is composed of members that are highly committed to our
       customers’ success."
     metodo_agil_titulo:
-      text: "AGILE METHODOLOGY"
+      texto: "AGILE METHODOLOGY"
     metodo_agil2_titulo:
-      text: "Agile methodology allows us to deliver incremental products 
+      texto: "Agile methodology allows us to deliver incremental products 
       periodically. This is fast and allows us to show results to the business,
       getting quick wins early on in the project and improving the return on 
       investment with each incremental delivery."
     nuestra_cultura_titulo:
-      text: "OUR CULTURE"
+      texto: "OUR CULTURE"
     nuestra_cultura2_titulo:
-      text: "We are always looking for the collective good, for our team as well
+      texto: "We are always looking for the collective good, for our team as well
       as for our customers and the environment, this is the reason why we strive 
       to have satisfied customers within a business model where we deliver value 
       for a competitive price,  and continue to generate wellbeing for our 
       employees, stockholders and community within an ethical environment."
     nuestra_cultura3_titulo:
-      text: "We maintain a lean organizational structure that allows for a fluid
+      texto: "We maintain a lean organizational structure that allows for a fluid
       and simple communication with our team members. We replicate this model 
       for the execution of all our projects with customers and partners."
     crecimiento_titulo:
-      text: "GROWTH"
+      texto: "GROWTH"
     crecimiento2_titulo:
-      text: "We challenge ourselves to acquiring new skills and knowledge, to 
+      texto: "We challenge ourselves to acquiring new skills and knowledge, to 
       grow as an organization, people and environment, and to have a better 
       perspective to approach to new business challenges that are brought to us 
       by our customers´s needs."

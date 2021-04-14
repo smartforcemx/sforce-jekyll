@@ -1,86 +1,86 @@
 customers_intern:
   es:
     interna_titulo:
-      text: "NUESTROS CLIENTES"
+      texto: "NUESTROS CLIENTES"
     algunos_de_nuestros_titulo:
-      text: "ALGUNOS DE NUESTROS -"
+      texto: "ALGUNOS DE NUESTROS -"
     casos_exito_titulo:
-      text: "CASOS DE ÉXITO"
+      texto: "CASOS DE ÉXITO"
     cliente_titulo:
-      text: "CLIENTE: Corporativo Hospital Satélite."
+      texto: "CLIENTE: Corporativo Hospital Satélite."
     hospital_titulo:
-      text: "Hospital privado de Alta Especialidad con una trayectoria desde 1986 que se ha
+      texto: "Hospital privado de Alta Especialidad con una trayectoria desde 1986 que se ha
       distinguido por su estabilidad, seguridad, calidad y atención humana en sus servicios,
       lo que los ha posicionado como el hospital número uno en el norte del área metropolitana
       en la Ciudad de México."
     hospital2_titulo:
-      text: "Se ha distinguido por su amplia trayectoria, atendiendo de manera integral a cada
+      texto: "Se ha distinguido por su amplia trayectoria, atendiendo de manera integral a cada
       uno de sus pacientes, quienes han colocado su vida en manos de este gran equipo médico,
       operativo y administrativo, mismos que trabajan en la búsqueda continua de “la salud con 
       sentido humano”, y que han logrado un lugar de calidez, seguridad y calidad."
     desafio_titulo:
-      text: "DESAFÍO"
+      texto: "DESAFÍO"
     desafio2_titulo:
-      text: "Anteriormente Hospital Satélite se apoyaba en la comunidad de becarios del TEC para
+      texto: "Anteriormente Hospital Satélite se apoyaba en la comunidad de becarios del TEC para
       atender actividades de alto volúmen y repetitivas que consumian tiempo del personal adminis
       trativo."
     desafio3_titulo:
-      text: "El uso de becarios permitía que el personal administrativo se enfocara en actividades
+      texto: "El uso de becarios permitía que el personal administrativo se enfocara en actividades
       de toma de decisión y análisis."
     desafio4_titulo:
-      text: "Derivado del tema de la pandemia tuvieron que suspender el programa de becarios; lo 
+      texto: "Derivado del tema de la pandemia tuvieron que suspender el programa de becarios; lo 
       cual generó una carga excesiva de trabajo para el equipo administrativo, afectando 56 procesos
       administrativos y requiriendo extender las jornadas laborales de los colaboradores."
     solucion_titulo:
-      text: "SOLUCIÓN"
+      texto: "SOLUCIÓN"
     solucion2_titulo:
-      text: "Después de realizar un piloto exitoso y evaluar la tecnología de Automation Anywhere 
+      texto: "Después de realizar un piloto exitoso y evaluar la tecnología de Automation Anywhere 
       y las capacidades de su socio de negocio SMART FORCE, se decidió arrancar un proyecto piloto
       para mostrar a la organización los beneficios del uso de la tecnología RPA."
     solucion3_titulo:
-      text: "Ya con resultados tangibles, se tiene un programa de automatización de todos aquellos
+      texto: "Ya con resultados tangibles, se tiene un programa de automatización de todos aquellos
       procesos administrativos que permitirán al Hospital, ser más eficiente, mejorar tiempos de 
       atención a clientes y pacientes, así como acelerar procesos de recuperación de cartera con 
       aseguradoras."
 
   en:
     interna_titulo:
-      text: "OUR CUSTOMERS"
+      texto: "OUR CUSTOMERS"
     algunos_de_nuestros_titulo:
-      text: "SOME OF OUR -"
+      texto: "SOME OF OUR -"
     casos_exito_titulo:
-      text: "SUCCESS CASES"
+      texto: "SUCCESS CASES"
     cliente_titulo:
-      text: "CUSTOMER: Corporativo Hospital Satélite."
+      texto: "CUSTOMER: Corporativo Hospital Satélite."
     hospital_titulo:
-      text: "Private Hospital of high level of specialty with a trajectory since 1986 that has
+      texto: "Private Hospital of high level of specialty with a trajectory since 1986 that has
       been distinguished by its stability, security and quality, and humanized care within its
       services, which place them as the number one hospital in northern Mexico City."
     hospital2_titulo:
-      text: "Has been characterized by the personal attention to everyone of its patients, who
+      texto: "Has been characterized by the personal attention to everyone of its patients, who
       trust their lifes to this great medical team, as well as operation and management team,
       who work in the continuous search of “health woth human sense” and who hav accomplished 
       to have a warmthm secured and quality place."
     desafio_titulo:
-      text: "CHALLENGE"
+      texto: "CHALLENGE"
     desafio2_titulo:
-      text: "Previously, Hospital Satélite was leaning on the help of college scholarship 
+      texto: "Previously, Hospital Satélite was leaning on the help of college scholarship 
       holders, to attend management activities with high volume and repetitive, which used to 
       consume significant time of the management team."
     desafio3_titulo:
-      text: "This would allow them to focus on decision making and analysis."
+      texto: "This would allow them to focus on decision making and analysis."
     desafio4_titulo:
-      text: "Due to the pandemic contingency, they had to suspend the program, which brought
+      texto: "Due to the pandemic contingency, they had to suspend the program, which brought
       an excessive backlog to the management team, affecting 56 management processes and 
       demanding extra labour days from the collaborators."
     solucion_titulo:
-      text: "SOLUTION"
+      texto: "SOLUTION"
     solucion2_titulo:
-      text: "After the analysis of a successful pilot, and the evaluation of the Automation 
+      texto: "After the analysis of a successful pilot, and the evaluation of the Automation 
       Anywhere technology, as well as the capabilities of Sforce team, a mayor project was 
       launched to benefit from the RPA technology."
     solucion3_titulo:
-      text: "With tangible results, an RPA program was created to automate all the management 
+      texto: "With tangible results, an RPA program was created to automate all the management 
       processes that will allow Hospital Satélite to be more efficient, improve response time
       to customers and patients, as well as to accelerate credit and collection processes with 
       insurance companies."

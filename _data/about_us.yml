@@ -1,12 +1,12 @@
 about_us:
   es:
     nosotros_titulo:
-      text: "SOBRE NOSOTROS"
+      texto: "SOBRE NOSOTROS"
     nosotros1_titulo:
-      text: "Nuestro equipo está integrado por colaboradores
+      texto: "Nuestro equipo está integrado por colaboradores
       altamente comprometidos con el éxito de nuestros clientes."
     nosotros1_1_titulo:
-      text: "Nuestro enfoque principal es ayudar a nuestros 
+      texto: "Nuestro enfoque principal es ayudar a nuestros 
       clientes a transformar sus operaciones actuales para 
       transicionar a un modelo digital, donde los asistentes
       virtuales permitan que los humanos se enfoquen en 
@@ -14,20 +14,20 @@ about_us:
       repetitivas -de alto volumen bajo valor- pero necesarias, 
       sean completadas por asistentes virtuales."
     nosotros1_2_titulo:
-      text: "Conoce más "
+      texto: "Conoce más "
 
   en:
     nosotros_titulo:
-      text: "ABOUT US"
+      texto: "ABOUT US"
     nosotros1_titulo:
-      text: "We are a team highly committed with our customer´s
+      texto: "We are a team highly committed with our customer´s
       success."
     nosotros1_1_titulo:
-      text: "Our main approach is to help our customers to 
+      texto: "Our main approach is to help our customers to 
       transform its current operations to transition towards a 
       digital model, where virtual assistants allow users to 
       focus on more valuable activities within its role; and 
       delegate the lower but necessary activities to virtual 
       assistants."
     nosotros1_2_titulo:
-      text: "Learn more "
+      texto: "Learn more "

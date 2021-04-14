@@ -1,48 +1,48 @@
 top_carousel:
   es:
     socio_titulo:
-      text: "SOMOS TU SOCIO DE"
+      texto: "SOMOS TU SOCIO DE"
     socio1_titulo:
-      text: "TRANSFORMACIÓN DIGITAL Y ADMINISTRACIÓN DE 
+      texto: "TRANSFORMACIÓN DIGITAL Y ADMINISTRACIÓN DE 
       PROYECTOS"
     socio1_1_titulo:
-      text: "Mejora tu negocio mediante la fuerza laboral 
+      texto: "Mejora tu negocio mediante la fuerza laboral 
       digital optimizando los procesos y reducionado el 
       error humano."
     socio1_2_titulo:
-      text: "Conoce más "
+      texto: "Conoce más "
     automation_titulo:
-      text: "AUTOMATION ANYWHERE"
+      texto: "AUTOMATION ANYWHERE"
     automation1_titulo:
-      text: "ÚNICO SOCIO DE ENTRENAMIENTO ACREDITADO EN 
+      texto: "ÚNICO SOCIO DE ENTRENAMIENTO ACREDITADO EN 
       MÉXICO"
     automation1_1_titulo:
-      text: "Mas allá del Robotic Process Automation (RPA), 
+      texto: "Mas allá del Robotic Process Automation (RPA), 
       combinamos tecnologías de Inteligencia Artificial (IA), 
       Visión de Computadora (CV) y aprendizaje de Máquina 
       (ML) para lograr una Automatización de Procesos 
       Inteligente (IPA)."
     automation1_2_titulo:
-      text: "Conoce más "
+      texto: "Conoce más "
 
   en:
     socio_titulo:
-      text: "Your partner in "
+      texto: "Your partner in "
     socio1_titulo:
-      text: "digital transformation and project management"
+      texto: "digital transformation and project management"
     socio1_1_titulo:
-      text: "Grow your business with digital work force and 
+      texto: "Grow your business with digital work force and 
       removing human error."
     socio1_2_titulo:
-      text: "Learn more "
+      texto: "Learn more "
     automation_titulo:
-      text: "AUTOMATION ANYWHERE"
+      texto: "AUTOMATION ANYWHERE"
     automation1_titulo:
-      text: "ONLY CERTIFIED TRAINING PARTNER IN MÉXICO"
+      texto: "ONLY CERTIFIED TRAINING PARTNER IN MÉXICO"
     automation1_1_titulo:
-      text: "Beyond  Robotic Process Automation (RPA), we 
+      texto: "Beyond  Robotic Process Automation (RPA), we 
       combine Artificial Intelligence (AI) Computer Vision 
       (CV) and Machine Learning (ML) to accomplish an 
       Intelligent Process Automation (IPA)."
     automation1_2_titulo:
-      text: "Learn more "
+      texto: "Learn more "

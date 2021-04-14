@@ -1,14 +1,14 @@
 join_us:
   es:
     transformacion_titulo:
-      text: "TE ACOMPAÑAMOS EN LA TRANSFORMACIÓN DIGITAL DE 
+      texto: "TE ACOMPAÑAMOS EN LA TRANSFORMACIÓN DIGITAL DE 
       TU EMPRESAHABLEMOS"
     transformacion1_titulo:
-      text: "Quiero ser parte"
+      texto: "Quiero ser parte"
 
   en:
     transformacion_titulo:
-      text: "WE WORK WITH YOU ON YOUR COMPANY’S DIGITAL 
+      texto: "WE WORK WITH YOU ON YOUR COMPANY’S DIGITAL 
       TRANSFORMATION JOURNEY"
     transformacion1_titulo:
-      text: "WANT TO BE A PART OF"
+      texto: "WANT TO BE A PART OF"

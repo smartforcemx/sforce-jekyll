@@ -1,46 +1,46 @@
 footer:
   es:
     nosotros_link:
-      text: "Acerca de nosotros"
+      texto: "Acerca de nosotros"
       url: "nosotros.html"
     terminos_link:
-      text: "Términos y condiciones"
+      texto: "Términos y condiciones"
       url: "#"
     politicas_link:
-      text: "Politicas de privacidad"
+      texto: "Politicas de privacidad"
       # url: "#politicasModal"
     mapa_sitio_link:
-      text: "Mapa del sitio"
+      texto: "Mapa del sitio"
       url: "#"
     mas_info_link:
-      text: "Quiero más información"
+      texto: "Quiero más información"
       url: "#"
     btn_cerrar:
-      text: "Cerrar"
+      texto: "Cerrar"
     derechos_reservados:
-      text: "TODOS LOS DERECHOS RESERVADOS"
+      texto: "TODOS LOS DERECHOS RESERVADOS"
     descripcion:
-      text: "Smart Force es una empresa fundada en 2020, dedicada a la automatización de procesos."
+      texto: "Smart Force es una empresa fundada en 2020, dedicada a la automatización de procesos."
 
   en:
     nosotros_link:
-      text: "About us"
+      texto: "About us"
       url: "about-us.html"
     terminos_link:
-      text: "Terms and conditions"
+      texto: "Terms and conditions"
       url: "#"
     politicas_link:
-      text: "Privacy policies"
+      texto: "Privacy policies"
       # url: "#politicasModal"    
     mapa_sitio_link:
-      text: "Site map"
+      texto: "Site map"
       url: "#"    
     mas_info_link:
-      text: "More information"
+      texto: "More information"
       url: "#"    
     btn_cerrar:
-      text: "Close"
+      texto: "Close"
     derechos_reservados:
-      text: "ALL RIGHTS RESERVED"
+      texto: "ALL RIGHTS RESERVED"
     descripcion:
-      text: "Smart Force is a company founded in 2020, dedicated to process automation. "
+      texto: "Smart Force is a company founded in 2020, dedicated to process automation. "

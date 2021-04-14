@@ -1,12 +1,12 @@
 news:
   es:
     noticias_titulo:
-      text: "ÚLTIMAS NOTICIAS"
+      texto: "ÚLTIMAS NOTICIAS"
     noticias1_titulo:
-      text: "siguenos "
+      texto: "siguenos "
 
   en:
     noticias_titulo:
-      text: "LAST NEWS"
+      texto: "LAST NEWS"
     noticias1_titulo:
-      text: "follow us "
+      texto: "follow us "
