@@ -1,16 +1,39 @@
-<div class="bg-black">
-    <header id="header" class="container">
-        <nav class="row py-2">
-            <div class="col d-none d-sm-block d-md-none">
-                <a href="https://www.facebook.com/SmartForceMx" target="_blank"><img class="h-75 sf-grey-img"
-                        src="{{ site.baseurl }}/assets/img/icons/facebook-white.png" alt=""> </a>
-                <a href="https://www.instagram.com/smartforcemx/" target="_blank"><img class="h-75 sf-grey-img"
-                        src="{{ site.baseurl }}/assets/img/icons/instagram-white.png" alt=""> </a>
-                <a href="https://www.linkedin.com/company/smartforcemx" target="_blank"><img class="h-75 sf-grey-img"
-                        src="{{ site.baseurl }}/assets/img/icons/linkedin-white.png" alt=""> </a>
-                <a href="https://www.youtube.com/channel/UC5cmjrzpOQK0YVaFz4Yzr8g" target="_blank"><img class="h-75 sf-grey-img"
-                        src="{{ site.baseurl }}/assets/img/icons/youtube-white.png" alt=""> </a>
-                <div class="float-right">
+<div class="sticky-top">
+    <div class="bg-black">
+        <header id="header" class="container">
+            <nav class="row py-2">
+                <div class="col d-none d-sm-block d-md-none">
+                    <a href="https://www.facebook.com/SmartForceMx" target="_blank"><img class="h-75 sf-grey-img"
+                            src="{{ site.baseurl }}/assets/img/icons/facebook-white.png" alt=""> </a>
+                    <a href="https://www.instagram.com/smartforcemx/" target="_blank"><img class="h-75 sf-grey-img"
+                            src="{{ site.baseurl }}/assets/img/icons/instagram-white.png" alt=""> </a>
+                    <a href="https://www.linkedin.com/company/smartforcemx" target="_blank"><img class="h-75 sf-grey-img"
+                            src="{{ site.baseurl }}/assets/img/icons/linkedin-white.png" alt=""> </a>
+                    <a href="https://www.youtube.com/channel/UC5cmjrzpOQK0YVaFz4Yzr8g" target="_blank"><img class="h-75 sf-grey-img"
+                            src="{{ site.baseurl }}/assets/img/icons/youtube-white.png" alt=""> </a>
+                    <div class="float-right">
+                        {% if page.lang == 'es' %}
+                        <span class="language-selection pt-4 dinpro-bold">Seleccionar idioma</span>
+                        <a href="/"> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img"> </a>
+                        <a href="/en/"> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img unselected"> </a>
+                        {% else %}
+                        <span class="language-selection pt-4 dinpro-bold">Select language</span>
+                        <a href="/"> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img unselected"> </a>
+                        <a href="/en/"> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img"> </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6 col-lg-3 d-none d-md-block">
+                    <a href= "https://www.facebook.com/SmartForceMx" target="_blank"><img class="h-75 sf-grey-img"
+                            src="{{ site.baseurl }}/assets/img/icons/facebook-white.png" alt="" > </a>
+                    <a href="https://www.instagram.com/smartforcemx/" target="_blank"><img class="h-75 sf-grey-img"
+                            src="{{ site.baseurl }}/assets/img/icons/instagram-white.png" alt=""> </a>
+                    <a href="https://www.linkedin.com/company/smartforcemx" target="_blank"><img class="h-75 sf-grey-img"
+                            src="{{ site.baseurl }}/assets/img/icons/linkedin-white.png" alt=""> </a>
+                    <a href="https://www.youtube.com/channel/UC5cmjrzpOQK0YVaFz4Yzr8g" target="_blank"><img class="h-75 sf-grey-img"
+                            src="{{ site.baseurl }}/assets/img/icons/youtube-white.png" alt=""> </a>
+                </div>
+                <div class="col-sm-6 col-md-6 offset-lg-6 col-lg-3 d-none d-md-block">
                     {% if page.lang == 'es' %}
                     <span class="language-selection pt-4 dinpro-bold">Seleccionar idioma</span>
                     <a href="/"> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img"> </a>
@@ -21,71 +44,50 @@
                     <a href="/en/"> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img"> </a>
                     {% endif %}
                 </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 d-none d-md-block">
-                <a href= "https://www.facebook.com/SmartForceMx" target="_blank"><img class="h-75 sf-grey-img"
-                        src="{{ site.baseurl }}/assets/img/icons/facebook-white.png" alt="" > </a>
-                <a href="https://www.instagram.com/smartforcemx/" target="_blank"><img class="h-75 sf-grey-img"
-                        src="{{ site.baseurl }}/assets/img/icons/instagram-white.png" alt=""> </a>
-                <a href="https://www.linkedin.com/company/smartforcemx" target="_blank"><img class="h-75 sf-grey-img"
-                        src="{{ site.baseurl }}/assets/img/icons/linkedin-white.png" alt=""> </a>
-                <a href="https://www.youtube.com/channel/UC5cmjrzpOQK0YVaFz4Yzr8g" target="_blank"><img class="h-75 sf-grey-img"
-                        src="{{ site.baseurl }}/assets/img/icons/youtube-white.png" alt=""> </a>
-            </div>
-            <div class="col-sm-6 col-md-6 offset-lg-6 col-lg-3 d-none d-md-block">
-                {% if page.lang == 'es' %}
-                <span class="language-selection pt-4 dinpro-bold">Seleccionar idioma</span>
-                <a href="/"> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img"> </a>
-                <a href="/en/"> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img unselected"> </a>
-                {% else %}
-                <span class="language-selection pt-4 dinpro-bold">Select language</span>
-                <a href="/"> <img src="{{ site.baseurl }}/assets/img/lan-mexico.png" alt="" class="h-75 sf-grey-img unselected"> </a>
-                <a href="/en/"> <img src="{{ site.baseurl }}/assets/img/lan-usa.png" alt="" class="h-75 sf-grey-img"> </a>
-                {% endif %}
-            </div>
-        </nav>
-    </header>
-</div>
-<div class="bg-main py-4 site-header sticky-top">
-    <header class="container navbar navbar-expand-lg">
-        <a class="navbar-brand mr-0" href="{{site.data.header.header[page.lang]['index']['url']}}"><img src="{{ site.baseurl }}/assets/img/small-logo.png" alt="" class="w-75"></a>
-        <button class="navbar-toggler border-white" type="button" data-toggle="collapse" data-target="#navbarTop"
-            aria-controls="navbarTop" aria-expanded="false" aria-label="Toggle navigation">
-            <i class="fa fa-bars text-white"></i>
-        </button>
-        <ul class="navbar-fixed-top nav-justified main-sf-navbar dinpro-bold collapse navbar-collapse  mr-auto mt-2 mt-lg-0"
-            id="navbarTop">
-            <li class="nav-item">
-                {% if page.name_ref == "nosotros" %}
-                    <a class="nav-link active" href="{{site.data.header.header[page.lang]['nosotros']['url']}}">{{ site.data.header.header[page.lang]['nosotros']['texto']}} </a>
-                {% else %}
-                    <a class="nav-link" href="{{site.data.header.header[page.lang]['nosotros']['url']}}">{{ site.data.header.header[page.lang]['nosotros']['texto']}} </a>
-                {% endif %}
-            </li>
-            <li class="nav-item">
-                {% if page.name_ref == "servicios" %}
-                <a class="nav-link active" href="{{site.data.header.header[page.lang]['servicios']['url']}}">{{ site.data.header.header[page.lang]['servicios']['texto']}} </a>
-                {% else %}
-                    <a class="nav-link" href="{{site.data.header.header[page.lang]['servicios']['url']}}">{{ site.data.header.header[page.lang]['servicios']['texto']}} </a>
-                {% endif %}
-            </li>
-            <li class="nav-item">
-                {% if page.name_ref == "clientes" %}
-                <a class="nav-link active" href="{{site.data.header.header[page.lang]['clientes']['url']}}">{{ site.data.header.header[page.lang]['clientes']['texto']}} </a>
-                {% else %}
-                    <a class="nav-link" href="{{site.data.header.header[page.lang]['clientes']['url']}}">{{ site.data.header.header[page.lang]['clientes']['texto']}} </a>
-                {% endif %}
-            </li>
-            <li class="nav-item">
-                {% if page.name_ref == "socios" %}
-                <a class="nav-link active" href="{{site.data.header.header[page.lang]['socios']['url']}}">{{ site.data.header.header[page.lang]['socios']['texto']}} </a>
-                {% else %}
-                    <a class="nav-link" href="{{site.data.header.header[page.lang]['socios']['url']}}">{{ site.data.header.header[page.lang]['socios']['texto']}} </a>
-                {% endif %}
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#contactanos">{{ site.data.header.header[page.lang]['contactanos']['texto']}}</a>
-            </li>
-        </ul>
-    </header>
+            </nav>
+        </header>
+    </div>
+    <div class="bg-main py-4 site-header">
+        <header class="container navbar navbar-expand-lg">
+            <a class="navbar-brand mr-0" href="{{site.data.header.header[page.lang]['index']['url']}}"><img src="{{ site.baseurl }}/assets/img/small-logo.png" alt="" class="w-75"></a>
+            <button class="navbar-toggler border-white" type="button" data-toggle="collapse" data-target="#navbarTop"
+                aria-controls="navbarTop" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fa fa-bars text-white"></i>
+            </button>
+            <ul class="navbar-fixed-top nav-justified main-sf-navbar dinpro-bold collapse navbar-collapse  mr-auto mt-2 mt-lg-0"
+                id="navbarTop">
+                <li class="nav-item">
+                    {% if page.name_ref == "nosotros" %}
+                        <a class="nav-link active" href="{{site.data.header.header[page.lang]['nosotros']['url']}}">{{ site.data.header.header[page.lang]['nosotros']['texto']}} </a>
+                    {% else %}
+                        <a class="nav-link" href="{{site.data.header.header[page.lang]['nosotros']['url']}}">{{ site.data.header.header[page.lang]['nosotros']['texto']}} </a>
+                    {% endif %}
+                </li>
+                <li class="nav-item">
+                    {% if page.name_ref == "servicios" %}
+                    <a class="nav-link active" href="{{site.data.header.header[page.lang]['servicios']['url']}}">{{ site.data.header.header[page.lang]['servicios']['texto']}} </a>
+                    {% else %}
+                        <a class="nav-link" href="{{site.data.header.header[page.lang]['servicios']['url']}}">{{ site.data.header.header[page.lang]['servicios']['texto']}} </a>
+                    {% endif %}
+                </li>
+                <li class="nav-item">
+                    {% if page.name_ref == "clientes" %}
+                    <a class="nav-link active" href="{{site.data.header.header[page.lang]['clientes']['url']}}">{{ site.data.header.header[page.lang]['clientes']['texto']}} </a>
+                    {% else %}
+                        <a class="nav-link" href="{{site.data.header.header[page.lang]['clientes']['url']}}">{{ site.data.header.header[page.lang]['clientes']['texto']}} </a>
+                    {% endif %}
+                </li>
+                <li class="nav-item">
+                    {% if page.name_ref == "socios" %}
+                    <a class="nav-link active" href="{{site.data.header.header[page.lang]['socios']['url']}}">{{ site.data.header.header[page.lang]['socios']['texto']}} </a>
+                    {% else %}
+                        <a class="nav-link" href="{{site.data.header.header[page.lang]['socios']['url']}}">{{ site.data.header.header[page.lang]['socios']['texto']}} </a>
+                    {% endif %}
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contactanos">{{ site.data.header.header[page.lang]['contactanos']['texto']}}</a>
+                </li>
+            </ul>
+        </header>
+    </div>
 </div>
