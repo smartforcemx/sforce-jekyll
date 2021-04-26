@@ -1,7 +1,7 @@
 <div class="bg-gray p-sm-2 p-md-5">
     <div class="container bg-white" id="nuestros-socios">
         <div class="row m-sm-0 p-sm-0 m-md-5 p-md-5">
-            <div class="col-sm-12 col-md-6 pb-5 carousel slide carousel-fade" id="carouselPartners.partners"
+            <div class="col-sm-12 col-md-6 pb-5 carousel slide carousel-fade" id="carouselPartners"
                 data-ride="carousel" direction="left" data-interval="3000">
                 <div class="carousel-inner mx-auto d-block">
                     <div class="carousel-item active">
@@ -26,15 +26,15 @@
             </div>
             <div class="col-sm-12 col-md-6 text-justify dinpro-regular">
                 <h3 class="txt-color-primary good-times-rg pt-5 pb-sm-3">
-                    {{site.data.partners.partners[page.lang]['socios_titulo']['texto']}}
+                    {{site.data.partners.socios_titulo.texto[page.lang]}}
                 </h3>
                 <h5>
-                    {{site.data.partners.partners[page.lang]['socios_descripcion']['texto']}}
+                    {{site.data.partners.socios_descripcion.texto[page.lang]}}
                 </h5>
                 <a
                     href="{{site.data.header.socios.url[page.lang]}}"
                     class="btn btn-outline-primary float-right border-primary dinpro-bold m-sm-6">
-                    {{site.data.partners.partners[page.lang]['socios_link']['texto']}}
+                    {{site.data.partners.socios_link.texto[page.lang]}}
                     <i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
