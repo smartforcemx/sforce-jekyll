@@ -1,33 +1,29 @@
-about_us:
-  es:
-    nosotros_titulo:
-      texto: "SOBRE NOSOTROS"
-    nosotros1_titulo:
-      texto: "Nuestro equipo está integrado por colaboradores
-      altamente comprometidos con el éxito de nuestros clientes."
-    nosotros1_1_titulo:
-      texto: "Nuestro enfoque principal es ayudar a nuestros 
-      clientes a transformar sus operaciones actuales para 
-      transicionar a un modelo digital, donde los asistentes
-      virtuales permitan que los humanos se enfoquen en 
-      actividades de más valor dentro de su rol y las actividades 
-      repetitivas -de alto volumen bajo valor- pero necesarias, 
-      sean completadas por asistentes virtuales."
-    nosotros1_2_titulo:
-      texto: "Conoce más "
-
-  en:
-    nosotros_titulo:
-      texto: "ABOUT US"
-    nosotros1_titulo:
-      texto: "We are a team highly committed with our customer´s
-      success."
-    nosotros1_1_titulo:
-      texto: "Our main approach is to help our customers to 
-      transform its current operations to transition towards a 
-      digital model, where virtual assistants allow users to 
-      focus on more valuable activities within its role; and 
-      delegate the lower but necessary activities to virtual 
-      assistants."
-    nosotros1_2_titulo:
-      texto: "Learn more "
+nosotros_titulo:
+  texto: 
+    es: "SOBRE NOSOTROS"
+    en: "ABOUT US"
+nosotros1_titulo:
+  texto: 
+    es: "Nuestro equipo está integrado por colaboradores
+        altamente comprometidos con el éxito de nuestros clientes."
+    en: "We are a team highly committed with our customer´s
+        success."
+nosotros1_1_titulo:
+  texto: 
+    es: "Nuestro enfoque principal es ayudar a nuestros 
+        clientes a transformar sus operaciones actuales para 
+        transicionar a un modelo digital, donde los asistentes
+        virtuales permitan que los humanos se enfoquen en 
+        actividades de más valor dentro de su rol y las actividades 
+        repetitivas -de alto volumen bajo valor- pero necesarias, 
+        sean completadas por asistentes virtuales."
+    en: "Our main approach is to help our customers to 
+        transform its current operations to transition towards a 
+        digital model, where virtual assistants allow users to 
+        focus on more valuable activities within its role; and 
+        delegate the lower but necessary activities to virtual 
+        assistants."
+nosotros1_2_titulo:
+  texto: 
+    es: "Conoce más "
+    en: "Learn more "
