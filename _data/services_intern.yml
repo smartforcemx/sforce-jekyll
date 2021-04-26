@@ -1,332 +1,239 @@
-services_intern:
-  es:
-    servicios_titulo:
-      texto: "NUESTROS SERVICIOS"
-    rpa_ipa_titulo:
-      texto: "AUTOMATIZACIONES CON RPA/IPA"
-    rpa_ipa1_titulo:
-      texto: "RPA es el término que usa la industria para programas de 
-      cómputo que ayudan a automatizar funciones imitando como los 
-      usuarios interactúan con el equipo de cómputo, el resultado es 
-      un programa de cómputo con lógica y reglas de operación que pueden 
-      automatizar tareas que hoy hacen los usuarios, a estos programas 
-      se les denominan Robots o asistentes virtuales."
-    rpa_ipa1_1_titulo:
-      texto: "IPA es el término para el desarrollo de Robots mas complejos
-      con la combinación de tecnologías de inteligencia artificial (IA), 
-      visión de computadora (CV) y aprendizaje de maquina (ML), para 
-      lograr automatizaciones de procesos mas complejos."
-    rpa_ipa2_titulo:
-      texto: "Algunos ejemplos de los procesos que se pueden automatizar:"
-    rpa_ipa2_1_titulo:
-      texto: "La recepción de facturas por parte de proveedores y el 
-      ingreso a los sistemas empresariales."
-    rpa_ipa2_2_titulo:
-      texto: "Verificación de proveedores contra listas negras de las 
-      autoridades tributarias o de justicia."
-    rpa_ipa2_3_titulo:
-      texto: "Verificación de antecedentes crediticios de un cliente."
-    rpa_ipa2_4_titulo:
-      texto: "Automatización de la captura de datos personales a partir 
-      de archivos PDF, JPG o PNG, para alta de clientes o candidatos de 
-      empleo."
-    rpa_ipa2_5_titulo:
-      texto: "Conciliación de pagos recibidos contra facturas y notas de 
-      crédito."
-    rpa_ipa3_titulo:
-      texto: "Te invitamos a solicitar una demostración sin ningún compromiso"
-    rpa_ipa3_1_titulo:
-      texto: "Quiero ser parte"
+servicios_titulo:
+  texto:
+    es: "NUESTROS SERVICIOS"
+    en: "SERVICES"
+rpa_ipa_titulo:
+  texto:
+    es: "AUTOMATIZACIONES CON RPA/IPA"
+    en: "RPA / IPA AUTOMATIONS"
+rpa_ipa1_titulo:
+  texto:
+    es: "RPA es el término que usa la industria para programas de cómputo que ayudan a automatizar funciones imitando como los usuarios interactúan con el equipo de cómputo, el resultado es un programa de cómputo con lógica y reglas de operación que pueden automatizar tareas que hoy hacen los usuarios, a estos programas se les denominan Robots o asistentes virtuales."
+    en: "RPA is a concept used in the industry to describe computing programs that helps users to automate activites by imitating how users interact with systems and applications. These computer programs can be turned into a virtual assistan model."
+rpa_ipa1_1_titulo:
+  texto:
+    es: "IPA es el término para el desarrollo de Robots mas complejos con la combinación de tecnologías de inteligencia artificial (IA), visión de computadora (CV) y aprendizaje de maquina (ML), para lograr automatizaciones de procesos mas complejos."
+    en: "IPA is a concept to address more complex automations with more complex processes that combine different types of technology such as Artificial Intelligence (AI) Computer Vision (CV) and Machine Learning (ML) to accomplish an Intelligent Process Automation (IPA)."
+rpa_ipa2_titulo:
+  texto:
+    es: "Algunos ejemplos de los procesos que se pueden automatizar:"
+    en: "Some examples of processes that can be automated are:"
+rpa_ipa2_1_titulo:
+  texto:
+    es: "La recepción de facturas por parte de proveedores y el ingreso a los sistemas empresariales."
+    en: "Invoice reception from vendors and its input into enterprise systems."
+rpa_ipa2_2_titulo:
+  texto:
+    es: "Verificación de proveedores contra listas negras de las autoridades tributarias o de justicia."
+    en: "Vendors validation into blacklists."
+rpa_ipa2_3_titulo:
+  texto:
+    es: "Verificación de antecedentes crediticios de un cliente."
+    en: "Customer´s credit check."
+rpa_ipa2_4_titulo:
+  texto:
+    es: "Automatización de la captura de datos personales a partir de archivos PDF, JPG o PNG, para alta de clientes o candidatos de empleo."
+    en: "Automation of Data capture of customer´s personal data from PDF, JPG or PNG files."
+rpa_ipa2_5_titulo:
+  texto:
+    es: "Conciliación de pagos recibidos contra facturas y notas de crédito."
+    en: "Reconciliation of payments received versus invoices and credit notes."
+rpa_ipa3_titulo:
+  texto:
+    es: "Te invitamos a solicitar una demostración sin ningún compromiso"
+    en: "We invite you to request a demo with no commitment needed"
+rpa_ipa3_1_titulo:
+  texto:
+    es: "Quiero ser parte"
+    en: "I want to be part"
+llave_titulo:
+  texto:
+    es: "PROYECTOS LLÁVE EN MANO"
+    en: "KEY IN HAND PROJECTS"
+llave1_titulo:
+  texto:
+    es: "Nos involucramos en todo el proceso de transformación de nuestros clientes, analizando, diseñando y desarrollando las automatizaciones y desplegando los asistentes virtuales para potenciar las capacidades del recurso humano, permitiendo que el equipo de TI de la organización se centre en la operación, mientras nuestro equipo actúa como una extensión de los equipos internos."
+    en: "We get involved in the whole transformation process of our customers, analyzing, designing and developing the automations. Then we release the virtual assistans into the operation to improve user´s capabilities, allowing the to be focused on the operation."
+llave2_titulo:
+  texto:
+    es: "Entrega:"
+    en: "Delivery:"
+llave2_1_titulo:
+  texto:
+    es: "Al concluir las automatizaciones podemos hacer transferen cia de conocimiento a los equipos internos para continuar la ope ración o establecer modelos híbridos con equipos mixtos que ayuden a soportar la operación de los asistentes virtuales."
+    en: "When automations are finished, we can transfer the knowledge to the internal teams to continue with the operations and establish hybrid models with mixed teams that helps with the operation support."
+llave3_titulo:
+  texto:
+    es: "Te invitamos a solicitar una demostración sin ningún compromiso"
+    en: "We invite you to request a demo with no commitment needed"
+llave3_1_titulo:
+  texto:
+    es: "Quiero ser parte"
+    en: "I want to be part"
 
-    llave_titulo:
-      texto: "PROYECTOS LLÁVE EN MANO"
-    llave1_titulo:
-      texto: "Nos involucramos en todo el proceso de transformación de 
-      nuestros clientes, analizando, diseñando y desarrollando las 
-      automatizaciones y desplegando los asistentes virtuales para 
-      potenciar las capacidades del recurso humano, permitiendo que el 
-      equipo de TI de la organización se centre en la operación, 
-      mientras nuestro equipo actúa como una extensión de los equipos 
-      internos."
-    llave2_titulo:
-      texto: "Entrega:"
-    llave2_1_titulo:
-      texto: "Al concluir las automatizaciones podemos hacer transferen
-      cia de conocimiento a los equipos internos para continuar la ope
-      ración o establecer modelos híbridos con equipos mixtos que 
-      ayuden a soportar la operación de los asistentes virtuales."
-    llave3_titulo:
-      texto: "Te invitamos a solicitar una demostración sin ningún compromiso"
-    llave3_1_titulo:
-      texto: "Quiero ser parte"
+tdigital_titulo:
+  texto:
+    es: "TRANSFORMACIÓN DIGITAL"
+    en: "DIGITAL TRANSFORMATION"
+tdigital1_titulo:
+  texto:
+    es: "Abordamos en conjunto con nuestros clientes los retos de transformación de procesos, evaluando las tecnologías que permi tirán mejores resultados, buscando la automatización de sus procesos."
+    en: "We get onboard with our customers to face challenges on their processes, evaluating the best technologies to improve results."
+tdigital1_1_titulo:
+  texto:
+    es: "Realizamos una evaluación de la madurez de las capacidades y recursos de nuestros clientes para llevar a cabo una transfor mación digital."
+    en: "We carry out a maturity assessment of our clients' capabilities and resources to carry out a digital transformation. "
+tdigital1_2_titulo:
+  texto:
+    es: "Formación de Centro de Excelencia de Robotización"
+    en: "Robotization Center of Excellence Formation"
+tdigital2_titulo:
+  texto:
+    es: "Te invitamos a solicitar una demostración sin ningún compromiso"
+    en: "We invite you to request a demo with no commitment needed"
+tdigital2_1_titulo:
+  texto:
+    es: "Quiero ser parte"
+    en: "I want to be part"
 
-    tdigital_titulo:
-      texto: "TRANSFORMACIÓN DIGITAL"
-    tdigital1_titulo:
-      texto: "Abordamos en conjunto con nuestros clientes los retos de 
-      transformación de procesos, evaluando las tecnologías que permi
-      tirán mejores resultados, buscando la automatización de sus
-      procesos."
-    tdigital1_1_titulo:
-      texto: "Realizamos una evaluación de la madurez de las capacidades
-      y recursos de nuestros clientes para llevar a cabo una transfor
-      mación digital."
-    tdigital1_2_titulo:
-      texto: "Formación de Centro de Excelencia de Robotización"
-    tdigital2_titulo:
-      texto: "Te invitamos a solicitar una demostración sin ningún compromiso"
-    tdigital2_1_titulo:
-      texto: "Quiero ser parte"
+gproyectos_titulo:
+  texto:
+    es: "GESTIÓN DE PROYECTOS"
+    en: "Project Management"
+gproyectos1_titulo:
+  texto:
+    es: "Contamos con un equipo de profesionales certificados en metodologías de administración de proyectos para ayudarlos en la gestión de proyectos de TI, implementación de modelos de gobierno de TI, para el adecuado seguimiento logro de resultados."
+    en: "We have a professional team certified in project management to help you with IT projects, IT governance model implementations, to have a suitable follow up until results"
+gproyectos2_titulo:
+  texto:
+    es: "Metodologías Ágiles"
+    en: "Agile Methodology"
+gproyectos2_1_titulo:
+  texto:
+    es: "Nuestros recursos están certificados en la metodología "
+    en: "Our team is certified in "
+gproyectos2_2_titulo:
+  texto:
+    es: "SCRUM "
+    en: "SCRUM "
+gproyectos2_3_titulo:
+  texto:
+    es: "para ayudar en la implementación de modelos agiles de administración de proyectos."
+    en: "methodology to help with agile execution."
+gproyectos3_titulo:
+  texto:
+    es: "PMI"
+    en: "PMI"
+gproyectos3_1_titulo:
+  texto:
+    es: "Nuestros administradores de proyecto cuentan con certifi cación por parte del Project Management Institute, para la eje cución de proyectos tradicionales."
+    en: "Our projet managers have the PMP certification by the Project Management Institute."
+gproyectos4_titulo:
+  texto:
+    es: "Te invitamos a solicitar una demostración sin ningún compromiso"
+    en: "We invite you to request a demo with no commitment needed"
+gproyectos4_1_titulo:
+  texto:
+    es: "Quiero ser parte"
+    en: "I want to be part"
 
-    gproyectos_titulo:
-      texto: "GESTIÓN DE PROYECTOS"
-    gproyectos1_titulo:
-      texto: "Contamos con un equipo de profesionales certificados en 
-      metodologías de administración de proyectos para ayudarlos en la
-      gestión de proyectos de TI, implementación de modelos de gobierno 
-      de TI, para el adecuado seguimiento logro de resultados."
-    gproyectos2_titulo:
-      texto: "Metodologías Ágiles"
-    gproyectos2_1_titulo:
-      texto: "Nuestros recursos están certificados en la metodología "
-    gproyectos2_2_titulo:
-      texto: "SCRUM "
-    gproyectos2_3_titulo:
-      texto: "para ayudar en la implementación de modelos agiles de 
-      administración de proyectos."
-    gproyectos3_titulo:
-      texto: "PMI"
-    gproyectos3_1_titulo:
-      texto: "Nuestros administradores de proyecto cuentan con certifi
-      cación por parte del Project Management Institute, para la eje
-      cución de proyectos tradicionales."
-    gproyectos4_titulo:
-      texto: "Te invitamos a solicitar una demostración sin ningún compromiso"
-    gproyectos4_1_titulo:
-      texto: "Quiero ser parte"
+robot_titulo:
+  texto:
+    es: "ROBOT AS A SERVICE"
+    en: "ROBOT AS A SERVICE"
+robot1_titulo:
+  texto:
+    es: "Para clientes que no tienen el personal o la infraestructura para una operación compleja, pero igualmente se enfrentan a los retos de las actividades rutinarias y de alto volumen, podemos ofrecer el servicio de automatización por transacción o por un número de horas al mes."
+    en: "In order for the customers to face the day to day challenges within a complex operation, and have no infrastructure or staff, we can provide a managed service to add value, we can offer a model based on volume, transactions, hours per month, and others."
+robot1_1_titulo:
+  texto:
+    es: "El cliente tiene la flexibilidad de pagos mensuales, de acuerdo a su requerimiento operativo, sin tener que realizar una alta inversión inicial para la automatización de sus procesos."
+    en: "The customer has the flexibility to pay on a monthly basis, according to its operations, woth no need of investing in technology."
+robot2_titulo:
+  texto:
+    es: "Te invitamos a solicitar una demostración sin ningún compromiso"
+    en: "We invite you to request a demo with no commitment needed"
+robot2_1_titulo:
+  texto:
+    es: "Quiero ser parte"
+    en: "I want to be part"
 
-    robot_titulo:
-      texto: "ROBOT AS A SERVICE"
-    robot1_titulo:
-      texto: "Para clientes que no tienen el personal o la infraestructura
-      para una operación compleja, pero igualmente se enfrentan a los
-      retos de las actividades rutinarias y de alto volumen, podemos 
-      ofrecer el servicio de automatización por transacción o por un 
-      número de horas al mes."
-    robot1_1_titulo:
-      texto: "El cliente tiene la flexibilidad de pagos mensuales, de 
-      acuerdo a su requerimiento operativo, sin tener que realizar una 
-      alta inversión inicial para la automatización de sus procesos."
-    robot2_titulo:
-      texto: "Te invitamos a solicitar una demostración sin ningún compromiso"
-    robot2_1_titulo:
-      texto: "Quiero ser parte"
+capacitacion_titulo:
+  texto:
+    es: "CAPACITACIÓN"
+    en: "TRAINING"
+capacitacion1_titulo:
+  texto:
+    es: "Smart Force es socio autorizado de capacitación de "
+    en: "Smart Force is an "
+capacitacion1_1_titulo:
+  texto:
+    es: "Automation Anywhere, "
+    en: "Automation Anywhere, "
+capacitacion1_2_titulo:
+  texto:
+    es: "por lo que podemos dar cursos con reconocimiento del fabri cante a nivel de certificación, para lograr que sus equipos cuen ten con las herramientas necesarias para la Automatización de sus procesos."
+    en: "authorized training partner; therefore, we can offer training with the vendor´s validation and certification, so you can be confident that your team will have the right tools to automate your processes."
+capacitacion2_titulo:
+  texto:
+    es: "Te invitamos a solicitar una demostración sin ningún compromiso"
+    en: "We invite you to request a demo with no commitment needed"
+capacitacion2_1_titulo:
+  texto:
+    es: "Quiero ser parte"
+    en: "I want to be part"
 
-    capacitacion_titulo:
-      texto: "CAPACITACIÓN"
-    capacitacion1_titulo:
-      texto: "Smart Force es socio autorizado de capacitación de "
-    capacitacion1_1_titulo:
-      texto: "Automation Anywhere, "
-    capacitacion1_2_titulo:
-      texto: "por lo que podemos dar cursos con reconocimiento del fabri
-      cante a nivel de certificación, para lograr que sus equipos cuen
-      ten con las herramientas necesarias para la Automatización de sus 
-      procesos."
-    capacitacion2_titulo:
-      texto: "Te invitamos a solicitar una demostración sin ningún compromiso"
-    capacitacion2_1_titulo:
-      texto: "Quiero ser parte"
+boarding_titulo:
+  texto:
+    es: "ON BOARDING"
+    en: "ON BOARDING"
+boarding1_titulo:
+  texto:
+    es: "Servicios empaquetados con alcances definidos, "
+    en: "Bundle of services with a defined scope, "
+boarding1_1_titulo:
+  texto:
+    es: "diseñados para desarrollar las capacidades internas en nuestros clientes y asociados, buscando transmitir uso de la metodología, buenas prácticas en desarrollo de robots y generar las habilidades para poder acelerar la transformación digital con recursos internos o una combinación de recursos internos y externos."
+    en: "designed to develop the internal capabilities of our customers and business partners that are looking to adopt methodology and best practices in the developing of robots and the adoption of skills to accelerate the digital transformation with internal resources or a combination of internal and external resources."
+boarding2_titulo:
+  texto:
+    es: "Te invitamos a solicitar una demostración sin ningún compromiso"
+    en: "We invite you to request a demo with no commitment needed"
+boarding2_1_titulo:
+  texto:
+    es: "Quiero ser parte"
+    en: "I want to be part"
+boarding_img:
+  src:
+    es: 'OnBoarding-1.png'
+    en: 'OnBoarding-1.png'
 
-    boarding_titulo:
-      texto: "ON BOARDING"
-    boarding1_titulo:
-      texto: "Servicios empaquetados con alcances definidos, "
-    boarding1_1_titulo:
-      texto: "diseñados para desarrollar las capacidades internas en
-      nuestros clientes y asociados, buscando transmitir uso de la 
-      metodología, buenas prácticas en desarrollo de robots y generar las
-      habilidades para poder acelerar la transformación digital con 
-      recursos internos o una combinación de recursos internos y externos."
-    boarding2_titulo:
-      texto: "Te invitamos a solicitar una demostración sin ningún compromiso"
-    boarding2_1_titulo:
-      texto: "Quiero ser parte"
-    boarding_img:
-      src: 'OnBoarding-1.png'
-
-    chatbot_titulo:
-      texto: "CHATBOTS"
-    chatbot1_titulo:
-      texto: "Te ayudamos en la estrategia de desarrollar "
-    chatbot1_1_titulo:
-      texto: "Chatbots conversacionales complejos "
-    chatbot1_2_titulo:
-      texto: "con capacidad de procesamiento de Lenguaje Natural (NLP),
-      entendimiento de lenguaje natural (NLU) y técnicas de manejo de 
-      dialogo para lograr un alto grado de automatización sin sacrificar
-      precisión."
-    chatbot2_titulo:
-      texto: "Te invitamos a solicitar una demostración sin ningún compromiso"
-    chatbot2_1_titulo:
-      texto: "Quiero ser parte"
-          
-    llave_mano_img:
-      src: '2.png'
-  en:
-    servicios_titulo:
-      texto: "SERVICES"
-    rpa_ipa_titulo:
-      texto: "RPA / IPA AUTOMATIONS"
-    rpa_ipa1_titulo:
-      texto: "RPA is a concept used in the industry to describe computing
-      programs that helps users to automate activites by imitating how 
-      users interact with systems and applications. These computer 
-      programs can be turned into a virtual assistan model."
-    rpa_ipa1_1_titulo:
-      texto: "IPA is a concept to address more complex automations with
-      more complex processes that combine different types of technology 
-      such as Artificial Intelligence (AI) Computer Vision (CV) and 
-      Machine Learning (ML) to accomplish an Intelligent Process 
-      Automation (IPA)."
-    rpa_ipa2_titulo:
-      texto: "Some examples of processes that can be automated are:"
-    rpa_ipa2_1_titulo:
-      texto: "Invoice reception from vendors and its input into enterprise
-      systems."
-    rpa_ipa2_2_titulo:
-      texto: "Vendors validation into blacklists."
-    rpa_ipa2_3_titulo:
-      texto: "Customer´s credit check."
-    rpa_ipa2_4_titulo:
-      texto: "Automation of Data capture of customer´s personal data from
-      PDF, JPG or PNG files."
-    rpa_ipa2_5_titulo:
-      texto: "Reconciliation of payments received versus invoices and 
-      credit notes."
-    rpa_ipa3_titulo:
-      texto: "We invite you to request a demo with no commitment needed"
-    rpa_ipa3_1_titulo:
-      texto: "I want to be part"
-
-    llave_titulo:
-      texto: "KEY IN HAND PROJECTS"
-    llave1_titulo:
-      texto: "We get involved in the whole transformation process of our 
-      customers, analyzing, designing and developing the automations. 
-      Then we release the virtual assistans into the operation to improve
-      user´s capabilities, allowing the to be focused on the operation."
-    llave2_titulo:
-      texto: "Delivery:"
-    llave2_1_titulo:
-      texto: "When automations are finished, we can transfer the knowledge
-      to the internal teams to continue with the operations and establish 
-      hybrid models with mixed teams that helps with the operation support."
-    llave3_titulo:
-      texto: "We invite you to request a demo with no commitment needed"
-    llave3_1_titulo:
-      texto: "I want to be part"
-
-    tdigital_titulo:
-      texto: "DIGITAL TRANSFORMATION"
-    tdigital1_titulo:
-      texto: "We get onboard with our customers to face challenges on 
-      their processes, evaluating the best technologies to improve 
-      results."
-    tdigital1_1_titulo:
-      texto: ""
-    tdigital1_2_titulo:
-      texto: "Robotization Center of Excellence Formation"
-    tdigital2_titulo:
-      texto: "We invite you to request a demo with no commitment needed"
-    tdigital2_1_titulo:
-      texto: "I want to be part"
-
-    gproyectos_titulo:
-      texto: "Project Management"
-    gproyectos1_titulo:
-      texto: "We have a professional team certified in project management 
-      to help you with IT projects, IT governance model implementations, 
-      to have a suitable follow up until results"
-    gproyectos2_titulo:
-      texto: "Agile Methodology"
-    gproyectos2_1_titulo:
-      texto: "Our team is certified in "
-    gproyectos2_2_titulo:
-      texto: "SCRUM "
-    gproyectos2_3_titulo:
-      texto: "methodology to help with agile execution."
-    gproyectos3_titulo:
-      texto: "PMI"
-    gproyectos3_1_titulo:
-      texto: "Our projet managers have the PMP certification by the Project
-      Management Institute."
-    gproyectos4_titulo:
-      texto: "We invite you to request a demo with no commitment needed"
-    gproyectos4_1_titulo:
-      texto: "I want to be part"
-
-    robot_titulo:
-      texto: "ROBOT AS A SERVICE"
-    robot1_titulo:
-      texto: "In order for the customers to face the day to day challenges
-      within a complex operation, and have no infrastructure or staff, we 
-      can provide a managed service to add value, we can offer a model based
-      on volume, transactions, hours per month, and others."
-    robot1_1_titulo:
-      texto: "The customer has the flexibility to pay on a monthly basis, 
-      according to its operations, woth no need of investing in technology."
-    robot2_titulo:
-      texto: "We invite you to request a demo with no commitment needed"
-    robot2_1_titulo:
-      texto: "I want to be part"
-
-    capacitacion_titulo:
-      texto: "TRAINING"
-    capacitacion1_titulo:
-      texto: "Smart Force is an "
-    capacitacion1_1_titulo:
-      texto: "Automation Anywhere, "
-    capacitacion1_2_titulo:
-      texto: "authorized training partner; therefore, we can offer training 
-      with the vendor´s validation and certification, so you can be confident 
-      that your team will have the right tools to automate your processes."
-    capacitacion2_titulo:
-      texto: "We invite you to request a demo with no commitment needed"
-    capacitacion2_1_titulo:
-      texto: "I want to be part"
-
-    boarding_titulo:
-      texto: "ON BOARDING"
-    boarding1_titulo:
-      texto: "Bundle of services with a defined scope, "
-    boarding1_1_titulo:
-      texto: "designed to develop the internal capabilities of our customers
-      and business partners that are looking to adopt methodology and best 
-      practices in the developing of robots and the adoption of skills to 
-      accelerate the digital transformation with internal resources or a 
-      combination of internal and external resources."
-    boarding2_titulo:
-      texto: "We invite you to request a demo with no commitment needed"
-    boarding2_1_titulo:
-      texto: "I want to be part"
-    boarding_img:
-      src: 'OnBoarding-1.png'
-
-    chatbot_titulo:
-      texto: "CHATBOTS"
-    chatbot1_titulo:
-      texto: "We help you with your strategy of developing "
-    chatbot1_1_titulo:
-      texto: "conversational complex robots "
-    chatbot1_2_titulo:
-      texto: "with the capacity of Processing Natural Language (NLP), 
-      Natural Language Understanding (NLU) and handling dialogue skills to
-      accomplish a high level of automation without sacrificing precision."
-    chatbot2_titulo:
-      texto: "We invite you to request a demo with no commitment needed"
-    chatbot2_1_titulo:
-      texto: "I want to be part"
-
-    llave_mano_img:
-      src: '2.png'
+chatbot_titulo:
+  texto:
+    es: "CHATBOTS"
+    en: "CHATBOTS"
+chatbot1_titulo:
+  texto:
+    es: "Te ayudamos en la estrategia de desarrollar "
+    en: "We help you with your strategy of developing "
+chatbot1_1_titulo:
+  texto:
+    es: "Chatbots conversacionales complejos "
+    en: "conversational complex robots "
+chatbot1_2_titulo:
+  texto:
+    es: "con capacidad de procesamiento de Lenguaje Natural (NLP), entendimiento de lenguaje natural (NLU) y técnicas de manejo de dialogo para lograr un alto grado de automatización sin sacrificar precisión."
+    en: "with the capacity of Processing Natural Language (NLP), Natural Language Understanding (NLU) and handling dialogue skills to accomplish a high level of automation without sacrificing precision."
+chatbot2_titulo:
+  texto:
+    es: "Te invitamos a solicitar una demostración sin ningún compromiso"
+    en: "We invite you to request a demo with no commitment needed"
+chatbot2_1_titulo:
+  texto:
+    es: "Quiero ser parte"
+    en: "I want to be part"
+      
+llave_mano_img:
+  src:
+    es: '2.png'
+    en: '2.png'
