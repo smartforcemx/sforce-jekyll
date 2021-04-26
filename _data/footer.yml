@@ -1,46 +1,44 @@
-footer:
-  es:
-    nosotros_link:
-      texto: "Acerca de nosotros"
-      url: "nosotros.html"
-    terminos_link:
-      texto: "Términos y condiciones"
-      url: "#"
-    politicas_link:
-      texto: "Politicas de privacidad"
-      # url: "#politicasModal"
-    mapa_sitio_link:
-      texto: "Mapa del sitio"
-      url: "#"
-    mas_info_link:
-      texto: "Quiero más información"
-      url: "#contactanos"
-    btn_cerrar:
-      texto: "Cerrar"
-    derechos_reservados:
-      texto: "TODOS LOS DERECHOS RESERVADOS"
-    descripcion:
-      texto: "Smart Force es una empresa fundada en 2020, dedicada a la automatización de procesos."
-
-  en:
-    nosotros_link:
-      texto: "About us"
-      url: "about-us.html"
-    terminos_link:
-      texto: "Terms and conditions"
-      url: "#"
-    politicas_link:
-      texto: "Privacy policies"
-      # url: "#politicasModal"    
-    mapa_sitio_link:
-      texto: "Site map"
-      url: "#"    
-    mas_info_link:
-      texto: "More information"
-      url: "#"    
-    btn_cerrar:
-      texto: "Close"
-    derechos_reservados:
-      texto: "ALL RIGHTS RESERVED"
-    descripcion:
-      texto: "Smart Force is a company founded in 2020, dedicated to process automation. "
+nosotros_link:
+  texto:
+    es: "Acerca de nosotros"
+    en:  "About us"
+  url:
+    es: "nosotros.html"
+    en: "about-us.html"
+terminos_link:
+  texto:
+    es: "Términos y condiciones"
+    en:  "Terms and conditions"
+  url:
+    es: "#"
+    en: "#"
+politicas_link:
+  texto:
+    es: "Politicas de privacidad"
+    en:  "Privacy policies"
+mapa_sitio_link:
+  texto:
+    es: "Mapa del sitio"
+    en:  "Site map"
+  url:
+    es: "#"
+    en: "#"
+mas_info_link:
+  texto:
+    es: "Quiero más información"
+    en:  "More information"
+  url:
+    es: "#contactanos"
+    en: "#"
+btn_cerrar:
+  texto:
+    es: "Cerrar"
+    en:  "Close"
+derechos_reservados:
+  texto:
+    es: "TODOS LOS DERECHOS RESERVADOS"
+    en:  "ALL RIGHTS RESERVED"
+descripcion:
+  texto:
+    es: "Smart Force es una empresa fundada en 2020, dedicada a la automatización de procesos."
+    en:  "Smart Force is a company founded in 2020, dedicated to process automation."

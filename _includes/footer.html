@@ -6,7 +6,7 @@
             </div>
             <div class="col-sm-12 col-md-4">
                 <div class="m-3">
-                    <p>{{site.data.footer.footer[page.lang]['descripcion']['texto']}}
+                    <p>{{site.data.footer.descripcion.texto[page.lang]}}
                     </p>
                     <p>
                         <a class="nav-item" href="mailto:contacto@smart-force.com">contacto@smart-force.com</a>
@@ -27,21 +27,21 @@
             <div class="col-sm-12 col-md-4">
                 <ul class="nav flex-column">
                     <li class="nav-item">
-                        <a class="nav-link" href="{{site.data.footer.footer[page.lang]['nosotros_link']['url']}}">{{site.data.footer.footer[page.lang]['nosotros_link']['texto']}}</a>
+                        <a class="nav-link" href="{{site.data.footer.nosotros_link.url[page.lang]}}">{{site.data.footer.nosotros_link.texto[page.lang]}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{site.data.footer.footer[page.lang]['terminos_link']['url']}}">{{site.data.footer.footer[page.lang]['terminos_link']['texto']}}</a>
+                        <a class="nav-link" href="{{site.data.footer.terminos_link.url[page.lang]}}">{{site.data.footer.terminos_link.texto[page.lang]}}</a>
                     </li>
                     <li class="nav-item">
                         <button type="button" class="btn btn-link nav-link" data-toggle="modal"
-                            data-target="#politicasModal">{{site.data.footer.footer[page.lang]['politicas_link']['texto']}}</button>
+                            data-target="#politicasModal">{{site.data.footer.politicas_link.texto[page.lang]}}</button>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{site.data.footer.footer[page.lang]['mapa_sitio_link']['url']}}">{{site.data.footer.footer[page.lang]['mapa_sitio_link']['texto']}}</a>
+                        <a class="nav-link" href="{{site.data.footer.mapa_sitio_link.url[page.lang]}}">{{site.data.footer.mapa_sitio_link.texto[page.lang]}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-outline-primary border-primary dinpro-bold m-3" href="{{site.data.footer.footer[page.lang]['mas_info_link']['url']}}"><span
-                                class="text-white">{{site.data.footer.footer[page.lang]['mas_info_link']['texto']}} &nbsp;</span><i
+                        <a class="btn btn-outline-primary border-primary dinpro-bold m-3" href="{{site.data.footer.mas_info_link.url[page.lang]}}"><span
+                                class="text-white">{{site.data.footer.mas_info_link.texto[page.lang]}} &nbsp;</span><i
                                 class="fas fa-arrow-right"></i></a>
                     </li>
                 </ul>
@@ -56,7 +56,7 @@
         </div>
     </div>
     <div class="col bg-black">
-        <div class="text-center text-light">SMART FORCE {{site.data.footer.footer[page.lang]['derechos_reservados']['texto']}} 2020</div>
+        <div class="text-center text-light">SMART FORCE {{site.data.footer.derechos_reservados.texto[page.lang]}} 2020</div>
     </div>
 
 </footer>
@@ -65,7 +65,7 @@
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="politicasModalLabel">{{site.data.footer.footer[page.lang]['politicas_link']['texto']}}</h5>
+                <h5 class="modal-title" id="politicasModalLabel">{{site.data.footer.politicas_link.texto[page.lang]}}</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -143,7 +143,7 @@ C. Visite el siguiente link: http://www.ifai.org.mx
             </pre>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">{{site.data.footer.footer[page.lang]['btn_cerrar']['texto']}}</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">{{site.data.footer.btn_cerrar.texto[page.lang]}}</button>
             </div>
         </div>
     </div>
