@@ -1,61 +1,52 @@
-contact:
-  es:
-    hablemos_titulo:
-      texto: "HABLEMOS"
-    hablemos1_titulo:
-      texto: "Agenda una asesoria con nuestros expertos
-      y empieza a transformar tu negocio."
-    hablemos1_1_titulo:
-      texto: "Si estas interesado en formar parte de 
-      nuestras alianzas, un colaborador revisará tu 
-      solicitud."
-    hablemos1_2_titulo:
-      texto: "política de privacidad "
-    datos_titulo:
-      texto: "LLENA LOS CAMPOS CON TUS DATOS"
-    datos1_titulo:
-      texto: "¿CÓMO TE PODEMOS AYUDAR?"
-    datos1_1_titulo:
-      texto: "enviar "
-    nombre_titulo:
-      texto: "Nombre"
-    apellido_titulo:
-      texto: "Apellido"
-    telefono_titulo:
-      texto: "Teléfono celular"
-    empresa_titulo:
-      texto: "Empresa"
-    correo_titulo:
-      texto: "Correo electrónico"
-    mensaje_titulo:
-      texto: "Mensaje"
-
-  en:
-    hablemos_titulo:
-      texto: "Let’s talk"
-    hablemos1_titulo:
-      texto: "Schedule a meeting with our experts and 
-      begin your business’ digital."
-    hablemos1_1_titulo:
-      texto: "If you are interested in being part of our 
-      partnerships, we will evaluate your application."
-    hablemos1_2_titulo:
-      texto: "privacy policy "
-    datos_titulo:
-      texto: "FILL OUT THE FORM WITHYOUR DATA"
-    datos1_titulo:
-      texto: "HOW CAN WE HELP?"
-    datos1_1_titulo:
-      texto: "send "
-    nombre_titulo:
-      texto: "Firstname"
-    apellido_titulo:
-      texto: "Lastname"
-    telefono_titulo:
-      texto: "Cellphone"
-    empresa_titulo:
-      texto: "Company"
-    correo_titulo:
-      texto: "Email"
-    mensaje_titulo:
-      texto: "Message"
+hablemos_titulo:
+  texto: 
+    es: "HABLEMOS"
+    en: "Let’s talk"
+hablemos1_titulo:
+  texto: 
+    es: "Agenda una asesoria con nuestros expertos y empieza a transformar tu negocio."
+    en: "Schedule a meeting with our experts and begin your business’ digital."
+hablemos1_1_titulo:
+  texto: 
+    es: "Si estas interesado en formar parte de nuestras alianzas, un colaborador revisará tu solicitud."
+    en: "If you are interested in being part of our partnerships, we will evaluate your application."
+hablemos1_2_titulo:
+  texto: 
+    es: "política de privacidad "
+    en: "privacy policy "
+datos_titulo:
+  texto: 
+    es: "LLENA LOS CAMPOS CON TUS DATOS"
+    en: "FILL OUT THE FORM WITHYOUR DATA"
+datos1_titulo:
+  texto: 
+    es: "¿CÓMO TE PODEMOS AYUDAR?"
+    en: "HOW CAN WE HELP?"
+datos1_1_titulo:
+  texto: 
+    es: "enviar "
+    en: "send "
+nombre_titulo:
+  texto: 
+    es: "Nombre"
+    en: "Firstname"
+apellido_titulo:
+  texto: 
+    es: "Apellido"
+    en: "Lastname"
+telefono_titulo:
+  texto: 
+    es: "Teléfono celular"
+    en: "Cellphone"
+empresa_titulo:
+  texto: 
+    es: "Empresa"
+    en: "Company"
+correo_titulo:
+  texto: 
+    es: "Correo electrónico"
+    en: "Email"
+mensaje_titulo:
+  texto: 
+    es: "Mensaje"
+    en: "Message"

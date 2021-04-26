@@ -2,45 +2,45 @@
     <div class="container py-5" id="contactanos">
         <div class="row text-justify">
             <div class="col-sm-12 col-md-6 dinpro-light px-4 py-3">
-                <h4 class="txt-color-primary good-times-rg">{{site.data.contact.contact[page.lang]['hablemos_titulo']['texto']}}</h4>
-                <h4>{{site.data.contact.contact[page.lang]['hablemos1_titulo']['texto']}}</h4>
-                <h4>{{site.data.contact.contact[page.lang]['hablemos1_1_titulo']['texto']}}
+                <h4 class="txt-color-primary good-times-rg">{{site.data.contact.hablemos_titulo.texto[page.lang]}}</h4>
+                <h4>{{site.data.contact.hablemos1_titulo.texto[page.lang]}}</h4>
+                <h4>{{site.data.contact.hablemos1_1_titulo.texto[page.lang]}}
                 </h4>
 
                 <button type="button" class="btn btn-outline-primary border-black dinpro-bold mt-4 mb-4"
-                    data-toggle="modal" data-target="#politicasModal">{{site.data.contact.contact[page.lang]['hablemos1_2_titulo']['texto']}} <i
+                    data-toggle="modal" data-target="#politicasModal">{{site.data.contact.hablemos1_2_titulo.texto[page.lang]}} <i
                         class="fas fa-arrow-right"></i></button>
 
             </div>
             <div class="col-sm-12 col-md-6 dinpro-bold py-3">
                 <form onsubmit="event.preventDefault(); submitForm();" >
-                    <h4>{{site.data.contact.contact[page.lang]['datos_titulo']['texto']}}</h4>
+                    <h4>{{site.data.contact.datos_titulo.texto[page.lang]}}</h4>
                     <div class="form-row dinpro-regular">
                         <div class="form-group col-md-6">
-                            <input type="text" class="form-control" placeholder="{{site.data.contact.contact[page.lang]['nombre_titulo']['texto']}}" name="firstname"
+                            <input type="text" class="form-control" placeholder="{{site.data.contact.nombre_titulo.texto[page.lang]}}" name="firstname"
                                 required id="inputName">
                         </div>
                         <div class="form-group col-md-6">
-                            <input type="text" class="form-control" placeholder="{{site.data.contact.contact[page.lang]['apellido_titulo']['texto']}}" name="lastname"
+                            <input type="text" class="form-control" placeholder="{{site.data.contact.apellido_titulo.texto[page.lang]}}" name="lastname"
                                 required id="inputLastName">
                         </div>
                         <div class="form-group col-md-6">
-                            <input type="tel" class="form-control" placeholder="{{site.data.contact.contact[page.lang]['telefono_titulo']['texto']}}" name="mobilephone" 
+                            <input type="tel" class="form-control" placeholder="{{site.data.contact.telefono_titulo.texto[page.lang]}}" name="mobilephone" 
                                 required id="inputCellphone">
                         </div>
                         <div class="form-group col-md-6">
-                            <input type="text" class="form-control" id="inputCompany" placeholder="{{site.data.contact.contact[page.lang]['empresa_titulo']['texto']}}" name="company" 
+                            <input type="text" class="form-control" id="inputCompany" placeholder="{{site.data.contact.empresa_titulo.texto[page.lang]}}" name="company" 
                                 required>
                         </div>
                         <div class="form-group col-md-12">
                             <input type="email" class="form-control" id="inputEmail" name="email" required
-                                placeholder="{{site.data.contact.contact[page.lang]['correo_titulo']['texto']}}">
+                                placeholder="{{site.data.contact.correo_titulo.texto[page.lang]}}">
                         </div>
                     </div>
-                    <h4>{{site.data.contact.contact[page.lang]['datos1_titulo']['texto']}}</h4>
+                    <h4>{{site.data.contact.datos1_titulo.texto[page.lang]}}</h4>
                     <div class="form-row">
                         <div class="form-group w-100">
-                            <textarea class="form-control" placeholder="{{site.data.contact.contact[page.lang]['mensaje_titulo']['texto']}}" name="message" required
+                            <textarea class="form-control" placeholder="{{site.data.contact.mensaje_titulo.texto[page.lang]}}" name="message" required
                                 id="inputMessage"></textarea>
                         </div>
                     </div>
@@ -53,7 +53,7 @@
                             </script>
                         </div>
                     </div>
-                    <button type="submit" value="Submit" class="btn btn-outline-primary float-right border-primary">{{site.data.contact.contact[page.lang]['datos1_1_titulo']['texto']}} <i
+                    <button type="submit" value="Submit" class="btn btn-outline-primary float-right border-primary">{{site.data.contact.datos1_1_titulo.texto[page.lang]}} <i
                             class="fas fa-arrow-right"></i></button>
                 </form>
             </div>
