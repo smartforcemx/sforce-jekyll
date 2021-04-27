@@ -1,44 +1,46 @@
+---
 nosotros_link:
   texto:
-    es: "Acerca de nosotros"
-    en:  "About us"
+    es: Acerca de nosotros
+    en: About us
   url:
-    es: "nosotros.html"
-    en: "about-us.html"
+    es: nosotros.html
+    en: about-us.html
 terminos_link:
   texto:
-    es: "Términos y condiciones"
-    en:  "Terms and conditions"
+    es: Términos y condiciones
+    en: Terms and conditions
   url:
     es: "#"
     en: "#"
 politicas_link:
   texto:
-    es: "Politicas de privacidad"
-    en:  "Privacy policies"
+    es: Politicas de privacidad
+    en: Privacy policies
 mapa_sitio_link:
   texto:
-    es: "Mapa del sitio"
-    en:  "Site map"
+    es: Mapa del sitio
+    en: Site map
   url:
     es: "#"
     en: "#"
 mas_info_link:
   texto:
-    es: "Quiero más información"
-    en:  "More information"
+    es: Quiero más información
+    en: More information
   url:
     es: "#contactanos"
-    en: "#"
+    en: "#contactanos"
 btn_cerrar:
   texto:
-    es: "Cerrar"
-    en:  "Close"
+    es: Cerrar
+    en: Close
 derechos_reservados:
   texto:
-    es: "TODOS LOS DERECHOS RESERVADOS"
-    en:  "ALL RIGHTS RESERVED"
+    es: TODOS LOS DERECHOS RESERVADOS
+    en: ALL RIGHTS RESERVED
 descripcion:
   texto:
-    es: "Smart Force es una empresa fundada en 2020, dedicada a la automatización de procesos."
-    en:  "Smart Force is a company founded in 2020, dedicated to process automation."
+    es: Smart Force es una empresa fundada en 2020, dedicada a la automatización de
+      procesos.
+    en: Smart Force is a company founded in 2020, dedicated to process automation.
