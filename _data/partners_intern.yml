@@ -1,44 +1,63 @@
+---
 socios_titulo:
   texto:
-    es: "NUESTROS SOCIOS"
-    en: "Our business partners"
+    es: NUESTROS SOCIOS
+    en: Our business partners
 smart_titulo:
   texto:
-    es: "SMART FORCE -"
-    en: "SMART FORCE -"
+    es: SMART FORCE -
+    en: SMART FORCE -
 smart1_titulo:
   texto:
-    es: "PARTNER OFICIAL DE AUTOMATION ANYWHERE"
-    en: "Official partner of Automation Anywhere"
+    es: PARTNER OFICIAL DE AUTOMATION ANYWHERE
+    en: Official partner of Automation Anywhere
 smart1_1_titulo:
   texto:
-    es: "Nuestro enfoque principal es ayudar a nuestros clientes a transformar sus operaciones actuales para transicionar a un modelo digital, donde los asistentes virtuales permitan que los humanos se enfoquen en actividades de mas valor dentro de su rol y las actividades repetitivas -de alto volumen bajo valor- pero necesarias, sean completadas por asistentes virtuales."
-    en: "Our main focus is to help our customers with their transition to a digital model, where the virtual assistants empower humans to focus on their highest value activities within its role and repetitive activities with high volume with lower value but still necessary, to be completed."
+    es: Nuestro enfoque principal es ayudar a nuestros clientes a transformar sus
+      operaciones actuales para transicionar a un modelo digital, donde los asistentes
+      virtuales permitan que los humanos se enfoquen en actividades de mas valor dentro
+      de su rol y las actividades repetitivas -de alto volumen bajo valor- pero necesarias,
+      sean completadas por asistentes virtuales.
+    en: Our main focus is to help our customers with their transition to a digital
+      model, where the virtual assistants empower humans to focus on their highest
+      value activities within its role and repetitive activities with high volume
+      with lower value but still necessary, to be completed.
 smart1_2_titulo:
   texto:
-    es: "Especializados en tecnologias disrruptivas que transforman la manera de operar de las organizaciones (RPA, ML, Chat-Bot, NLP)."
-    en: "Specialized in disruptive technology that transform the organizations way of operating  (RPA, ML, Chat-Bot, NLP)."
+    es: Especializados en tecnologias disrruptivas que transforman la manera de operar
+      de las organizaciones (RPA, ML, Chat-Bot, NLP).
+    en: Specialized in disruptive technology that transform the organizations way
+      of operating  (RPA, ML, Chat-Bot, NLP).
 smart1_3_titulo:
   texto:
-    es: "Modelos de trabajo basado en metodologias ágiles."
-    en: "Work models based on agile methodology."
+    es: Modelos de trabajo basado en metodologias ágiles.
+    en: Work models based on agile methodology.
 smart1_4_titulo:
   texto:
-    es: "Único partner con reconocimiento de venta y con certificación para dar capacitación de la plataforma AA en México."
-    en: "Only recognized training partner in Mexico."
+    es: Único partner con reconocimiento de venta y con certificación para dar capacitación
+      de la plataforma AA en México.
+    en: Only recognized training partner in Mexico.
 aliados_titulo:
   texto:
-    es: "ALIADOS DE LOS MEJORES"
-    en: "ALLY OF THE BEST"
+    es: ALIADOS DE LOS MEJORES
+    en: ALLY OF THE BEST
 aliados1_titulo:
   texto:
-    es: "Logramos interacciones en tiempo real con clientes y usuarios para resolver solicitudes y preguntas, combinando la tecnología de RPA con la de Chatbots."
-    en: "We enable real time interactions with customers and users to solve questions and requests, combining RPA and Chatbot technology."
+    es: Logramos interacciones en tiempo real con clientes y usuarios para resolver
+      solicitudes y preguntas, combinando la tecnología de RPA con la de Chatbots.
+    en: We enable real time interactions with customers and users to solve questions
+      and requests, combining RPA and Chatbot technology.
 aliados1_1_titulo:
   texto:
-    es: "Automatizamos procesos cuya fuente se encuentra en documentos y archivos de trabajo con información no estructurada apalancándonos de una plataforma de procesamiento inteligente de datos."
-    en: "We automate processes whose origin information is found in work papers with unstructured data, leveraged with a platform of intelligent data processing."
+    es: Automatizamos procesos cuya fuente se encuentra en documentos y archivos de
+      trabajo con información no estructurada apalancándonos de una plataforma de
+      procesamiento inteligente de datos.
+    en: We automate processes whose origin information is found in work papers with
+      unstructured data, leveraged with a platform of intelligent data processing.
 aliados1_2_titulo:
   texto:
-    es: "Trabajamos con diferentes empresas del sector PAC para brindar la mejor solución final a nuestros clientes dentro de los procesos de facturación y contabilidad de sus empresas."
-    en: "We work with different organizations from the PAC Sector to deliver the best final solution to our customers within invoicing and accounting processes."
+    es: Trabajamos con diferentes empresas del sector PAC para brindar la mejor solución
+      final a nuestros clientes dentro de los procesos de facturación y contabilidad
+      de sus empresas.
+    en: We work with different vendors of electronic invoice, to deliver the best
+      final solution to our customers within invoicing and accounting processes.
