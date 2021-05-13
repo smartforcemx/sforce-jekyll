@@ -257,8 +257,8 @@ boarding2_1_titulo:
     en: I want to be part
 boarding_img:
   src:
-    es: OnBoarding-1.png
-    en: onboarding-en.png
+    es: /assets/img/servicios/ON BOARDING/OnBoarding-1.png
+    en: /assets/img/onboarding-en.png
 chatbot_titulo:
   texto:
     es: CHATBOTS
@@ -289,5 +289,5 @@ chatbot2_1_titulo:
     en: I want to be part
 llave_mano_img:
   src:
-    es: 2.png
-    en: 2.png
+    es: /assets/img/servicios/LLAVE EN MANO/2.png
+    en: /assets/img/llave-en-mano-grafica-en.png
