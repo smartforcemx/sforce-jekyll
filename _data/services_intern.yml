@@ -258,7 +258,7 @@ boarding2_1_titulo:
 boarding_img:
   src:
     es: OnBoarding-1.png
-    en: OnBoarding-1.png
+    en: onboarding-en.png
 chatbot_titulo:
   texto:
     es: CHATBOTS
