@@ -1,32 +1,38 @@
+---
 socio_titulo:
   texto:
-    es: "SOMOS TU SOCIO DE"
-    en: "Your partner in "
+    es: SOMOS TU SOCIO DE
+    en: 'Your partner in '
 socio1_titulo:
   texto:
-    es: "TRANSFORMACIÓN DIGITAL Y ADMINISTRACIÓN DE PROYECTOS"
-    en: "digital transformation and project management"
+    es: TRANSFORMACIÓN DIGITAL Y ADMINISTRACIÓN DE PROYECTOS
+    en: digital transformation and project management
 socio1_1_titulo:
   texto:
-    es: "Mejora tu negocio mediante la fuerza laboral digital optimizando los procesos y reducionado el error humano."
-    en: "Grow your business with digital work force and removing human error."
+    es: Mejora tu negocio mediante la fuerza laboral digital optimizando los procesos
+      y reduciendo el error humano.
+    en: Grow your business with digital work force and removing human error.
 socio1_2_titulo:
   texto:
-    es: "Conoce más "
-    en: "Learn more "
+    es: 'Conoce más '
+    en: 'Learn more '
 automation_titulo:
   texto:
-    es: "AUTOMATION ANYWHERE"
-    en: "AUTOMATION ANYWHERE"
+    es: AUTOMATION ANYWHERE
+    en: AUTOMATION ANYWHERE
 automation1_titulo:
   texto:
-    es: "ÚNICO SOCIO DE ENTRENAMIENTO ACREDITADO EN MÉXICO"
-    en: "ONLY CERTIFIED TRAINING PARTNER IN MÉXICO"
+    es: ÚNICO SOCIO DE ENTRENAMIENTO ACREDITADO EN MÉXICO
+    en: ONLY CERTIFIED TRAINING PARTNER IN MÉXICO
 automation1_1_titulo:
   texto:
-    es: "Mas allá del Robotic Process Automation (RPA), combinamos tecnologías de Inteligencia Artificial (IA), Visión de Computadora (CV) y aprendizaje de Máquina (ML) para lograr una Automatización de Procesos Inteligente (IPA)."
-    en: "Beyond  Robotic Process Automation (RPA), we combine Artificial Intelligence (AI) Computer Vision (CV) and Machine Learning (ML) to accomplish an Intelligent Process Automation (IPA)."
+    es: Mas allá del Robotic Process Automation (RPA), combinamos tecnologías de Inteligencia
+      Artificial (IA), Visión de Computadora (CV) y aprendizaje de Máquina (ML) para
+      lograr una Automatización de Procesos Inteligente (IPA).
+    en: Beyond  Robotic Process Automation (RPA), we combine Artificial Intelligence
+      (AI) Computer Vision (CV) and Machine Learning (ML) to accomplish an Intelligent
+      Process Automation (IPA).
 automation1_2_titulo:
   texto:
-    es: "Conoce más "
-    en: "Learn more "
+    es: 'Conoce más '
+    en: 'Learn more '
