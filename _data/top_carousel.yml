@@ -12,7 +12,7 @@ socio1_1_titulo:
     es: Mejora tu negocio mediante la fuerza laboral digital optimizando los procesos
       y reduciendo el error humano.
     en: Grow your business with digital work force and removing human error.
-socio1_enlace:
+socio1_link:
   texto:
     es: 'Conoce más '
     en: 'Learn more '
@@ -32,7 +32,7 @@ automation1_1_titulo:
     en: Beyond  Robotic Process Automation (RPA), we combine Artificial Intelligence
       (AI) Computer Vision (CV) and Machine Learning (ML) to accomplish an Intelligent
       Process Automation (IPA).
-automation1_enlace:
+automation1_link:
   texto:
     es: 'Conoce más '
     en: 'Learn more '
