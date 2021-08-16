@@ -2,13 +2,13 @@ nosotros_titulo:
   texto: 
     es: "SOBRE NOSOTROS"
     en: "ABOUT US"
-nosotros1_titulo:
+nosotros1_parrafo:
   texto: 
     es: "Nuestro equipo está integrado por colaboradores
         altamente comprometidos con el éxito de nuestros clientes."
     en: "We are a team highly committed with our customer´s
         success."
-nosotros1_1_titulo:
+nosotros1_1_parrafo:
   texto: 
     es: "Nuestro enfoque principal es ayudar a nuestros 
         clientes a transformar sus operaciones actuales para 
@@ -23,7 +23,7 @@ nosotros1_1_titulo:
         focus on more valuable activities within its role; and 
         delegate the lower but necessary activities to virtual 
         assistants."
-nosotros1_2_titulo:
+nosotros1_2_link:
   texto: 
     es: "Conoce más "
     en: "Learn more "
