@@ -7,7 +7,7 @@ rpa_ipa_titulo:
   texto:
     es: AUTOMATIZACIONES CON RPA/IPA
     en: RPA / IPA AUTOMATIONS
-rpa_ipa1_titulo:
+rpa_ipa1_parrafo:
   texto:
     es: RPA es el término que usa la industria para programas de cómputo que ayudan
       a automatizar funciones imitando como los usuarios interactúan con el equipo
@@ -18,7 +18,7 @@ rpa_ipa1_titulo:
       helps users to automate activites by imitating how users interact with systems
       and applications. These computer programs can be turned into a virtual assistan
       model.
-rpa_ipa1_1_titulo:
+rpa_ipa1_1_parrafo:
   texto:
     es: IPA es el término para el desarrollo de Robots mas complejos con la combinación
       de tecnologías de inteligencia artificial (IA), visión de computadora (CV) y
@@ -27,39 +27,39 @@ rpa_ipa1_1_titulo:
       that combine different types of technology such as Artificial Intelligence (AI)
       Computer Vision (CV) and Machine Learning (ML) to accomplish an Intelligent
       Process Automation (IPA).
-rpa_ipa2_titulo:
+rpa_ipa2_subtitulo:
   texto:
     es: 'Algunos ejemplos de los procesos que se pueden automatizar:'
     en: 'Some examples of processes that can be automated are:'
-rpa_ipa2_1_titulo:
+rpa_ipa2_1_puntos:
   texto:
     es: La recepción de facturas por parte de proveedores y el ingreso a los sistemas
       empresariales.
     en: Invoice reception from vendors and its input into enterprise systems.
-rpa_ipa2_2_titulo:
+rpa_ipa2_2_puntos:
   texto:
     es: Verificación de proveedores contra listas negras de las autoridades tributarias
       o de justicia.
     en: Vendors validation into blacklists.
-rpa_ipa2_3_titulo:
+rpa_ipa2_3_puntos:
   texto:
     es: Verificación de antecedentes crediticios de un cliente.
     en: Customer´s credit check.
-rpa_ipa2_4_titulo:
+rpa_ipa2_4_puntos:
   texto:
     es: Automatización de la captura de datos personales a partir de archivos PDF,
       JPG o PNG, para alta de clientes o candidatos de empleo.
     en: Automation of Data capture of customer´s personal data from PDF, JPG or PNG
       files.
-rpa_ipa2_5_titulo:
+rpa_ipa2_5_puntos:
   texto:
     es: Conciliación de pagos recibidos contra facturas y notas de crédito.
     en: Reconciliation of payments received versus invoices and credit notes.
-rpa_ipa3_titulo:
+rpa_ipa3_invitacion:
   texto:
     es: Te invitamos a solicitar una demostración sin ningún compromiso
     en: We invite you to request a demo with no commitment needed
-rpa_ipa3_1_titulo:
+rpa_ipa3_1_invitacion:
   texto:
     es: Quiero ser parte
     en: I want to be part
@@ -67,7 +67,7 @@ llave_titulo:
   texto:
     es: PROYECTOS LLÁVE EN MANO
     en: TURN KEY PROJECTS
-llave1_titulo:
+llave1_parrafo:
   texto:
     es: Nos involucramos en todo el proceso de transformación de nuestros clientes,
       analizando, diseñando y desarrollando las automatizaciones y desplegando los
@@ -78,11 +78,11 @@ llave1_titulo:
       designing and developing the automations. Then we release the virtual assistans
       into the operation to improve user´s capabilities, allowing the to be focused
       on the operation.
-llave2_titulo:
+llave2_subtitulo:
   texto:
     es: 'Entrega:'
     en: 'Delivery:'
-llave2_1_titulo:
+llave2_1_parrafo:
   texto:
     es: Al concluir las automatizaciones podemos hacer transferen cia de conocimiento
       a los equipos internos para continuar la ope ración o establecer modelos híbridos
@@ -90,11 +90,11 @@ llave2_1_titulo:
     en: When automations are finished, we can transfer the knowledge to the internal
       teams to continue with the operations and establish hybrid models with mixed
       teams that helps with the operation support.
-llave3_titulo:
+llave3_invitacion:
   texto:
     es: Te invitamos a solicitar una demostración sin ningún compromiso
     en: We invite you to request a demo with no commitment needed
-llave3_1_titulo:
+llave3_1_invitacion:
   texto:
     es: Quiero ser parte
     en: I want to be part
@@ -102,28 +102,28 @@ tdigital_titulo:
   texto:
     es: TRANSFORMACIÓN DIGITAL
     en: DIGITAL TRANSFORMATION
-tdigital1_titulo:
+tdigital1_parrafo:
   texto:
     es: Abordamos en conjunto con nuestros clientes los retos de transformación de
       procesos, evaluando las tecnologías que permi tirán mejores resultados, buscando
       la automatización de sus procesos.
     en: We get onboard with our customers to face challenges on their processes, evaluating
       the best technologies to improve results.
-tdigital1_1_titulo:
+tdigital1_1_parrafo:
   texto:
     es: Realizamos una evaluación de la madurez de las capacidades y recursos de nuestros
       clientes para llevar a cabo una transfor mación digital.
     en: 'We carry out a maturity assessment of our clients'' capabilities and resources
       to carry out a digital transformation. '
-tdigital1_2_titulo:
+tdigital1_2_subtitulo:
   texto:
     es: Formación de Centro de Excelencia de Robotización
     en: Robotization Center of Excellence Formation
-tdigital2_titulo:
+tdigital2_invitacion:
   texto:
     es: Te invitamos a solicitar una demostración sin ningún compromiso
     en: We invite you to request a demo with no commitment needed
-tdigital2_1_titulo:
+tdigital2_1_invitacion:
   texto:
     es: Quiero ser parte
     en: I want to be part
@@ -131,7 +131,7 @@ gproyectos_titulo:
   texto:
     es: GESTIÓN DE PROYECTOS
     en: Project Management
-gproyectos1_titulo:
+gproyectos1_parrafo:
   texto:
     es: Contamos con un equipo de profesionales certificados en metodologías de administración
       de proyectos para ayudarlos en la gestión de proyectos de TI, implementación
@@ -139,36 +139,36 @@ gproyectos1_titulo:
     en: We have a professional team certified in project management to help you with
       IT projects, IT governance model implementations, to have a suitable follow
       up until results
-gproyectos2_titulo:
+gproyectos2_subtitulo:
   texto:
     es: Metodologías Ágiles
     en: Agile Methodology
-gproyectos2_1_titulo:
+gproyectos2_1_parrafo:
   texto:
     es: 'Nuestros recursos están certificados en la metodología '
     en: 'Our team is certified in '
-gproyectos2_2_titulo:
+gproyectos2_2_palabra:
   texto:
     es: 'SCRUM '
     en: 'SCRUM '
-gproyectos2_3_titulo:
+gproyectos2_3_parrafo:
   texto:
     es: para ayudar en la implementación de modelos agiles de administración de proyectos.
     en: methodology to help with agile execution.
-gproyectos3_titulo:
+gproyectos3_subtitulo:
   texto:
     es: PMI
     en: PMI
-gproyectos3_1_titulo:
+gproyectos3_1_parrafo:
   texto:
     es: Nuestros administradores de proyecto cuentan con certifi cación por parte
       del Project Management Institute, para la eje cución de proyectos tradicionales.
     en: Our projet managers have the PMP certification by the Project Management Institute.
-gproyectos4_titulo:
+gproyectos4_invitacion:
   texto:
     es: Te invitamos a solicitar una demostración sin ningún compromiso
     en: We invite you to request a demo with no commitment needed
-gproyectos4_1_titulo:
+gproyectos4_1_invitacion:
   texto:
     es: Quiero ser parte
     en: I want to be part
@@ -176,7 +176,7 @@ robot_titulo:
   texto:
     es: ROBOT AS A SERVICE
     en: ROBOT AS A SERVICE
-robot1_titulo:
+robot1_parrafo:
   texto:
     es: Para clientes que no tienen el personal o la infraestructura para una operación
       compleja, pero igualmente se enfrentan a los retos de las actividades rutinarias
@@ -186,18 +186,18 @@ robot1_titulo:
       operation, and have no infrastructure or staff, we can provide a managed service
       to add value, we can offer a model based on volume, transactions, hours per
       month, and others.
-robot1_1_titulo:
+robot1_1_parrafo:
   texto:
     es: El cliente tiene la flexibilidad de pagos mensuales, de acuerdo a su requerimiento
       operativo, sin tener que realizar una alta inversión inicial para la automatización
       de sus procesos.
     en: The customer has the flexibility to pay on a monthly basis, according to its
       operations, woth no need of investing in technology.
-robot2_titulo:
+robot2_invitacion:
   texto:
     es: Te invitamos a solicitar una demostración sin ningún compromiso
     en: We invite you to request a demo with no commitment needed
-robot2_1_titulo:
+robot2_1_invitacion:
   texto:
     es: Quiero ser parte
     en: I want to be part
@@ -205,15 +205,15 @@ capacitacion_titulo:
   texto:
     es: CAPACITACIÓN
     en: TRAINING
-capacitacion1_titulo:
+capacitacion1_parrafo:
   texto:
     es: 'Smart Force es socio autorizado de capacitación de '
     en: 'Smart Force is an '
-capacitacion1_1_titulo:
+capacitacion1_1_palabra:
   texto:
     es: 'Automation Anywhere, '
     en: 'Automation Anywhere, '
-capacitacion1_2_titulo:
+capacitacion1_2_parrafo:
   texto:
     es: por lo que podemos dar cursos con reconocimiento del fabri cante a nivel de
       certificación, para lograr que sus equipos cuen ten con las herramientas necesarias
@@ -221,11 +221,11 @@ capacitacion1_2_titulo:
     en: authorized training partner; therefore, we can offer training with the vendor´s
       validation and certification, so you can be confident that your team will have
       the right tools to automate your processes.
-capacitacion2_titulo:
+capacitacion2_invitacion:
   texto:
     es: Te invitamos a solicitar una demostración sin ningún compromiso
     en: We invite you to request a demo with no commitment needed
-capacitacion2_1_titulo:
+capacitacion2_1_invitacion:
   texto:
     es: Quiero ser parte
     en: I want to be part
@@ -233,11 +233,11 @@ boarding_titulo:
   texto:
     es: ON BOARDING
     en: ON BOARDING
-boarding1_titulo:
+boarding1_subtitulo:
   texto:
     es: 'Servicios empaquetados con alcances definidos, '
     en: 'Bundle of services with a defined scope, '
-boarding1_1_titulo:
+boarding1_1_parrafo:
   texto:
     es: diseñados para desarrollar las capacidades internas en nuestros clientes y
       asociados, buscando transmitir uso de la metodología, buenas prácticas en desarrollo
@@ -247,11 +247,11 @@ boarding1_1_titulo:
       partners that are looking to adopt methodology and best practices in the developing
       of robots and the adoption of skills to accelerate the digital transformation
       with internal resources or a combination of internal and external resources.
-boarding2_titulo:
+boarding2_invitacion:
   texto:
     es: Te invitamos a solicitar una demostración sin ningún compromiso
     en: We invite you to request a demo with no commitment needed
-boarding2_1_titulo:
+boarding2_1_invitacion:
   texto:
     es: Quiero ser parte
     en: I want to be part
@@ -263,15 +263,15 @@ chatbot_titulo:
   texto:
     es: CHATBOTS
     en: CHATBOTS
-chatbot1_titulo:
+chatbot1_parrafo:
   texto:
     es: 'Te ayudamos en la estrategia de desarrollar '
     en: 'We help you with your strategy of developing '
-chatbot1_1_titulo:
+chatbot1_1_subtitulo:
   texto:
     es: 'Chatbots conversacionales complejos '
     en: 'conversational complex robots '
-chatbot1_2_titulo:
+chatbot1_2_parrafo:
   texto:
     es: con capacidad de procesamiento de Lenguaje Natural (NLP), entendimiento de
       lenguaje natural (NLU) y técnicas de manejo de dialogo para lograr un alto grado
@@ -279,11 +279,11 @@ chatbot1_2_titulo:
     en: with the capacity of Processing Natural Language (NLP), Natural Language Understanding
       (NLU) and handling dialogue skills to accomplish a high level of automation
       without sacrificing precision.
-chatbot2_titulo:
+chatbot2_invitacion:
   texto:
     es: Te invitamos a solicitar una demostración sin ningún compromiso
     en: We invite you to request a demo with no commitment needed
-chatbot2_1_titulo:
+chatbot2_1_invitacion:
   texto:
     es: Quiero ser parte
     en: I want to be part
