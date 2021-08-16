@@ -1,22 +1,22 @@
 ---
-socio_titulo:
+socio1_titulo:
   texto:
     es: SOMOS TU SOCIO DE
     en: 'Your partner in '
-socio1_titulo:
+socio1_subtitulo:
   texto:
     es: TRANSFORMACIÓN DIGITAL Y ADMINISTRACIÓN DE PROYECTOS
-    en: digital transformation and project management
+    en: DIGITAL TRANSFORMATION AND PROJECT MANAGEMENT
 socio1_1_titulo:
   texto:
     es: Mejora tu negocio mediante la fuerza laboral digital optimizando los procesos
       y reduciendo el error humano.
     en: Grow your business with digital work force and removing human error.
-socio1_2_titulo:
+socio1_enlace:
   texto:
     es: 'Conoce más '
     en: 'Learn more '
-automation_titulo:
+automation1_titulo:
   texto:
     es: AUTOMATION ANYWHERE
     en: AUTOMATION ANYWHERE
@@ -32,7 +32,7 @@ automation1_1_titulo:
     en: Beyond  Robotic Process Automation (RPA), we combine Artificial Intelligence
       (AI) Computer Vision (CV) and Machine Learning (ML) to accomplish an Intelligent
       Process Automation (IPA).
-automation1_2_titulo:
+automation1_enlace:
   texto:
     es: 'Conoce más '
     en: 'Learn more '
