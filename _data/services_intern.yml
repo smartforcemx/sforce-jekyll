@@ -55,14 +55,6 @@ rpa_ipa2_5_puntos:
   texto:
     es: Conciliación de pagos recibidos contra facturas y notas de crédito.
     en: Reconciliation of payments received versus invoices and credit notes.
-rpa_ipa3_invitacion:
-  texto:
-    es: Te invitamos a solicitar una demostración sin ningún compromiso
-    en: We invite you to request a demo with no commitment needed
-rpa_ipa3_1_invitacion:
-  texto:
-    es: Quiero ser parte
-    en: I want to be part
 llave_titulo:
   texto:
     es: PROYECTOS LLÁVE EN MANO
@@ -90,14 +82,6 @@ llave2_1_parrafo:
     en: When automations are finished, we can transfer the knowledge to the internal
       teams to continue with the operations and establish hybrid models with mixed
       teams that helps with the operation support.
-llave3_invitacion:
-  texto:
-    es: Te invitamos a solicitar una demostración sin ningún compromiso
-    en: We invite you to request a demo with no commitment needed
-llave3_1_invitacion:
-  texto:
-    es: Quiero ser parte
-    en: I want to be part
 tdigital_titulo:
   texto:
     es: TRANSFORMACIÓN DIGITAL
@@ -119,14 +103,6 @@ tdigital1_2_subtitulo:
   texto:
     es: Formación de Centro de Excelencia de Robotización
     en: Robotization Center of Excellence Formation
-tdigital2_invitacion:
-  texto:
-    es: Te invitamos a solicitar una demostración sin ningún compromiso
-    en: We invite you to request a demo with no commitment needed
-tdigital2_1_invitacion:
-  texto:
-    es: Quiero ser parte
-    en: I want to be part
 gproyectos_titulo:
   texto:
     es: GESTIÓN DE PROYECTOS
@@ -164,14 +140,6 @@ gproyectos3_1_parrafo:
     es: Nuestros administradores de proyecto cuentan con certifi cación por parte
       del Project Management Institute, para la eje cución de proyectos tradicionales.
     en: Our projet managers have the PMP certification by the Project Management Institute.
-gproyectos4_invitacion:
-  texto:
-    es: Te invitamos a solicitar una demostración sin ningún compromiso
-    en: We invite you to request a demo with no commitment needed
-gproyectos4_1_invitacion:
-  texto:
-    es: Quiero ser parte
-    en: I want to be part
 robot_titulo:
   texto:
     es: ROBOT AS A SERVICE
@@ -193,14 +161,6 @@ robot1_1_parrafo:
       de sus procesos.
     en: The customer has the flexibility to pay on a monthly basis, according to its
       operations, woth no need of investing in technology.
-robot2_invitacion:
-  texto:
-    es: Te invitamos a solicitar una demostración sin ningún compromiso
-    en: We invite you to request a demo with no commitment needed
-robot2_1_invitacion:
-  texto:
-    es: Quiero ser parte
-    en: I want to be part
 capacitacion_titulo:
   texto:
     es: CAPACITACIÓN
@@ -221,14 +181,6 @@ capacitacion1_2_parrafo:
     en: authorized training partner; therefore, we can offer training with the vendor´s
       validation and certification, so you can be confident that your team will have
       the right tools to automate your processes.
-capacitacion2_invitacion:
-  texto:
-    es: Te invitamos a solicitar una demostración sin ningún compromiso
-    en: We invite you to request a demo with no commitment needed
-capacitacion2_1_invitacion:
-  texto:
-    es: Quiero ser parte
-    en: I want to be part
 boarding_titulo:
   texto:
     es: ON BOARDING
@@ -247,14 +199,6 @@ boarding1_1_parrafo:
       partners that are looking to adopt methodology and best practices in the developing
       of robots and the adoption of skills to accelerate the digital transformation
       with internal resources or a combination of internal and external resources.
-boarding2_invitacion:
-  texto:
-    es: Te invitamos a solicitar una demostración sin ningún compromiso
-    en: We invite you to request a demo with no commitment needed
-boarding2_1_invitacion:
-  texto:
-    es: Quiero ser parte
-    en: I want to be part
 boarding_img:
   src:
     es: /assets/img/servicios/ON BOARDING/OnBoarding-1.png
@@ -279,15 +223,15 @@ chatbot1_2_parrafo:
     en: with the capacity of Processing Natural Language (NLP), Natural Language Understanding
       (NLU) and handling dialogue skills to accomplish a high level of automation
       without sacrificing precision.
-chatbot2_invitacion:
-  texto:
-    es: Te invitamos a solicitar una demostración sin ningún compromiso
-    en: We invite you to request a demo with no commitment needed
-chatbot2_1_invitacion:
-  texto:
-    es: Quiero ser parte
-    en: I want to be part
 llave_mano_img:
   src:
     es: /assets/img/servicios/LLAVE EN MANO/2.png
     en: /assets/img/llave-en-mano-grafica-en.png
+services_invitacion_parrafo:
+  texto:
+    es: Te invitamos a solicitar una demostración sin ningún compromiso
+    en: We invite you to request a demo with no commitment needed
+services_invitacion_link:
+  texto:
+    es: Quiero ser parte
+    en: I want to be part
