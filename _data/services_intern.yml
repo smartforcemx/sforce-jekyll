@@ -19,13 +19,13 @@ rpa_ipa1_parrafo:
       These computer programs can be turned into a virtual assistan model.
 rpa_ipa1_1_parrafo:
   texto:
-    es: IPA es el término para el desarrollo de Robots mas complejos con la combinación
-      de tecnologías de inteligencia artificial (IA), visión de computadora (CV) y
-      aprendizaje de maquina (ML), para lograr automatizaciones de procesos mas complejos.
-    en: IPA is a concept to address more complex automations with more complex processes
-      that combine different types of technology such as Artificial Intelligence (AI)
-      Computer Vision (CV) and Machine Learning (ML) to accomplish an Intelligent
-      Process Automation (IPA).
+    es: IPA es el término para el desarrollo de Robots que combinan tecnología de
+      inteligencia artificial (IA), visión de computadora (CV) y aprendizaje de maquina
+      (ML), para lograr automatizaciones de procesos mas complejos.
+    en: IPA is a concept to address automations with more complex processes that combine
+      different types of technology such as Artificial Intelligence (AI) Computer
+      Vision (CV) and Machine Learning (ML) to accomplish an Intelligent Process Automation
+      (IPA).
 rpa_ipa2_subtitulo:
   texto:
     es: 'Algunos ejemplos de los procesos que se pueden automatizar:'
