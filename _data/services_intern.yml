@@ -9,15 +9,14 @@ rpa_ipa_titulo:
     en: RPA / IPA AUTOMATIONS
 rpa_ipa1_parrafo:
   texto:
-    es: RPA es el término que usa la industria para programas de cómputo que ayudan
-      a automatizar funciones imitando como los usuarios interactúan con el equipo
-      de cómputo, el resultado es un programa de cómputo con lógica y reglas de operación
-      que pueden automatizar tareas que hoy hacen los usuarios, a estos programas
-      se les denominan Robots o asistentes virtuales.
-    en: RPA is a concept used in the industry to describe computing programs that
-      helps users to automate activites by imitating how users interact with systems
-      and applications. These computer programs can be turned into a virtual assistan
-      model.
+    es: RPA es el término que usa la industria para software que ayuda a automatizar
+      funciones imitando la manera en la que los usuarios interactúan con el equipo
+      de cómputo, el resultado es un proceso robotizado con lógica y reglas de operación
+      que ejecuta tareas como lo hacen los usuarios, a estos programas se les denominan
+      Robots o Asistentes Virtuales.
+    en: RPA is a concept used in the industry to describe sfotware that helps users
+      to automate activites by imitating how users interact with systems and applications.
+      These computer programs can be turned into a virtual assistan model.
 rpa_ipa1_1_parrafo:
   texto:
     es: IPA es el término para el desarrollo de Robots mas complejos con la combinación
@@ -201,8 +200,8 @@ boarding1_1_parrafo:
       with internal resources or a combination of internal and external resources.
 boarding_img:
   src:
-    es: /assets/img/servicios/ON BOARDING/OnBoarding-1.png
-    en: /assets/img/onboarding-en.png
+    es: "/assets/img/servicios/ON BOARDING/OnBoarding-1.png"
+    en: "/assets/img/onboarding-en.png"
 chatbot_titulo:
   texto:
     es: CHATBOTS
@@ -225,8 +224,8 @@ chatbot1_2_parrafo:
       without sacrificing precision.
 llave_mano_img:
   src:
-    es: /assets/img/servicios/LLAVE EN MANO/2.png
-    en: /assets/img/llave-en-mano-grafica-en.png
+    es: "/assets/img/servicios/LLAVE EN MANO/2.png"
+    en: "/assets/img/llave-en-mano-grafica-en.png"
 services_invitacion_parrafo:
   texto:
     es: Te invitamos a solicitar una demostración sin ningún compromiso
