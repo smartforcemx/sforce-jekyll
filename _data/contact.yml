@@ -1,52 +1,55 @@
+---
 hablemos_titulo:
-  texto: 
-    es: "HABLEMOS"
-    en: "Let’s talk"
+  texto:
+    es: HABLEMOS
+    en: Let’s talk
 hablemos1_titulo:
-  texto: 
-    es: "Agenda una asesoria con nuestros expertos y empieza a transformar tu negocio."
-    en: "Schedule a meeting with our experts and begin your business’ digital."
+  texto:
+    es: Agenda una asesoría con nuestros expertos y empieza a transformar tu negocio.
+    en: Schedule a meeting with our experts and begin your business’ digital.
 hablemos1_1_titulo:
-  texto: 
-    es: "Si estas interesado en formar parte de nuestras alianzas, un colaborador revisará tu solicitud."
-    en: "If you are interested in being part of our partnerships, we will evaluate your application."
+  texto:
+    es: Si estas interesado en formar parte de nuestras alianzas, un colaborador revisará
+      tu solicitud.
+    en: If you are interested in being part of our partnerships, we will evaluate
+      your application.
 hablemos1_2_titulo:
-  texto: 
-    es: "política de privacidad "
-    en: "privacy policy "
+  texto:
+    es: 'política de privacidad '
+    en: 'privacy policy '
 datos_titulo:
-  texto: 
-    es: "LLENA LOS CAMPOS CON TUS DATOS"
-    en: "FILL OUT THE FORM WITHYOUR DATA"
+  texto:
+    es: LLENA LOS CAMPOS CON TUS DATOS
+    en: FILL OUT THE FORM WITHYOUR DATA
 datos1_titulo:
-  texto: 
+  texto:
     es: "¿CÓMO TE PODEMOS AYUDAR?"
-    en: "HOW CAN WE HELP?"
+    en: HOW CAN WE HELP?
 datos1_1_titulo:
-  texto: 
-    es: "enviar "
-    en: "send "
+  texto:
+    es: 'enviar '
+    en: 'send '
 nombre_titulo:
-  texto: 
-    es: "Nombre"
-    en: "Firstname"
+  texto:
+    es: Nombre
+    en: Firstname
 apellido_titulo:
-  texto: 
-    es: "Apellido"
-    en: "Lastname"
+  texto:
+    es: Apellido
+    en: Lastname
 telefono_titulo:
-  texto: 
-    es: "Teléfono celular"
-    en: "Cellphone"
+  texto:
+    es: Teléfono celular
+    en: Cellphone
 empresa_titulo:
-  texto: 
-    es: "Empresa"
-    en: "Company"
+  texto:
+    es: Empresa
+    en: Company
 correo_titulo:
-  texto: 
-    es: "Correo electrónico"
-    en: "Email"
+  texto:
+    es: Correo electrónico
+    en: Email
 mensaje_titulo:
-  texto: 
-    es: "Mensaje"
-    en: "Message"
+  texto:
+    es: Mensaje
+    en: Message
