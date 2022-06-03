@@ -146,10 +146,11 @@ robot_titulo:
     en: ROBOT AS A SERVICE
 robot1_parrafo:
   texto:
-    es: Para clientes que no tienen el personal o la infraestructura para una operación
-      compleja, pero igualmente se enfrentan a los retos de las actividades rutinarias
-      y de alto volumen, podemos ofrecer el servicio de automatización por transacción
-      o por un número de horas al mes.
+    es: Para clientes que no tienen el personal técnico o la infraestructura para
+      operar Asistentes Virtuales, pero enfrentan retos de actividades rutinarias
+      y de alto volumen en su operación susceptibles a robotizarse, podemos ofrecer
+      el servicio administrado de automatización por transacción o por un número de
+      horas al mes.
     en: In order for the customers to face the day to day challenges within a complex
       operation, and have no infrastructure or staff, we can provide a managed service
       to add value, we can offer a model based on volume, transactions, hours per
