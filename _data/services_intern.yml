@@ -129,8 +129,8 @@ gproyectos2_2_palabra:
     en: 'SCRUM '
 gproyectos2_3_parrafo:
   texto:
-    es: para ayudar en la implementación de modelos agiles de administración de proyectos.
-    en: methodology to help with agile execution.
+    es: Para ayudar en la implementación de modelos ágiles de administración de proyectos.
+    en: Methodology to help with agile execution.
 gproyectos3_subtitulo:
   texto:
     es: PMI
