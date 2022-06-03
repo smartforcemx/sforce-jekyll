@@ -77,8 +77,9 @@ robot_titulo:
     en: ROBOT AS A SERVICE
 robot1_titulo:
   texto:
-    es: Para clientes que no tiene el personal o la infraestructura para una operación
-      compleja, pero igualmente se enfrentan a los retos de las actividades...
+    es: Para clientes que no tiene el personal técnico o la infraestructura para operar
+      asistentes virtuales, pero enfrentan retos en su operación con actividades manuales
+      y repetitivas de alto volumen que pueden robotizarse...
     en: In order for the customers to face the day to day challenges within a complex
       operation, and have no infrastructure or staff, we can provide a managed service
       to add value...
