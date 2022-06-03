@@ -214,8 +214,8 @@ chatbot1_parrafo:
     en: 'We help you with your strategy of developing '
 chatbot1_1_subtitulo:
   texto:
-    es: 'Chatbots conversacionales complejos '
-    en: 'conversational complex robots '
+    es: 'Chatbots conversacionales '
+    en: 'conversational robots '
 chatbot1_2_parrafo:
   texto:
     es: con capacidad de procesamiento de Lenguaje Natural (NLP), entendimiento de
