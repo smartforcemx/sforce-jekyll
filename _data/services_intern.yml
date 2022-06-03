@@ -230,8 +230,8 @@ llave_mano_img:
     en: "/assets/img/llave-en-mano-grafica-en.png"
 services_invitacion_parrafo:
   texto:
-    es: Te invitamos a solicitar una demostración sin ningún compromiso
-    en: We invite you to request a demo with no commitment needed
+    es: Te invitamos a solicitar una demostración sin compromisos.
+    en: We invite you to request a demo with no commitment.
 services_invitacion_link:
   texto:
     es: Quiero ser parte
