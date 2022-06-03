@@ -1,52 +1,87 @@
+---
 interna_titulo:
   texto:
-    es: "NUESTROS CLIENTES"
-    en: "OUR CUSTOMERS"
+    es: NUESTROS CLIENTES
+    en: OUR CUSTOMERS
 algunos_de_nuestros_titulo:
   texto:
-    es: "ALGUNOS DE NUESTROS -"
-    en: "SOME OF OUR -"
+    es: ALGUNOS DE NUESTROS -
+    en: SOME OF OUR -
 casos_exito_titulo:
   texto:
-    es: "CASOS DE ÉXITO"
-    en: "SUCCESS CASES"
+    es: CASOS DE ÉXITO
+    en: SUCCESS CASES
 cliente_titulo:
   texto:
-    es: "CLIENTE: Corporativo Hospital Satélite."
-    en: "CUSTOMER: Corporativo Hospital Satélite."
+    es: 'CLIENTE: Corporativo Hospital Satélite.'
+    en: 'CUSTOMER: Corporativo Hospital Satélite.'
 hospital_parrafo:
   texto:
-    es: "Hospital privado de Alta Especialidad con una trayectoria desde 1986 que se ha distinguido por su estabilidad, seguridad, calidad y atención humana en sus servicios, lo que los ha posicionado como el hospital número uno en el norte del área metropolitana en la Ciudad de México."
-    en: "Private Hospital of high level of specialty with a trajectory since 1986 that has been distinguished by its stability, security and quality, and humanized care within its services, which place them as the number one hospital in northern Mexico City."
+    es: Hospital privado de Alta Especialidad con una trayectoria desde 1986 que se
+      ha distinguido por su estabilidad, seguridad, calidad y atención humana en sus
+      servicios, lo que los ha posicionado como el hospital número uno en el norte
+      del área metropolitana en la Ciudad de México.
+    en: Private Hospital of high level of specialty with a trajectory since 1986 that
+      has been distinguished by its stability, security and quality, and humanized
+      care within its services, which place them as the number one hospital in northern
+      Mexico City.
 hospital2_parrafo:
   texto:
-    es: "Se ha distinguido por su amplia trayectoria, atendiendo de manera integral a cada uno de sus pacientes, quienes han colocado su vida en manos de este gran equipo médico, operativo y administrativo, mismos que trabajan en la búsqueda continua de “la salud con sentido humano”, y que han logrado un lugar de calidez, seguridad y calidad."
-    en: "Has been characterized by the personal attention to everyone of its patients, who trust their lifes to this great medical team, as well as operation and management team, who work in the continuous search of “health woth human sense” and who hav accomplished to have a warmthm secured and quality place."
+    es: Se ha distinguido por su amplia trayectoria, atendiendo de manera integral
+      a cada uno de sus pacientes, quienes han colocado su vida en manos de este gran
+      equipo médico, operativo y administrativo, mismos que trabajan en la búsqueda
+      continua de “la salud con sentido humano”, y que han logrado un lugar de calidez,
+      seguridad y calidad.
+    en: Has been characterized by the personal attention to everyone of its patients,
+      who trust their lifes to this great medical team, as well as operation and management
+      team, who work in the continuous search of “health woth human sense” and who
+      hav accomplished to have a warmthm secured and quality place.
 desafio_titulo:
   texto:
-    es: "DESAFÍO"
-    en: "CHALLENGE"
+    es: DESAFÍO
+    en: CHALLENGE
 desafio2_parrafo:
   texto:
-    es: "Anteriormente Hospital Satélite se apoyaba en la comunidad de becarios del TEC para atender actividades de alto volúmen y repetitivas que consumian tiempo del personal adminis trativo."
-    en: "Previously, Hospital Satélite was leaning on the help of college scholarship holders, to attend management activities with high volume and repetitive, which used to consume significant time of the management team."
+    es: Anteriormente Hospital Satélite se apoyaba en la comunidad de becarios del
+      TEC para atender actividades de alto volumen y repetitivas que consumían tiempo
+      del personal administrativo.
+    en: Previously, Hospital Satélite was leaning on the help of college scholarship
+      holders, to attend management activities with high volume and repetitive, which
+      used to consume significant time of the management team.
 desafio3_parrafo:
   texto:
-    es: "El uso de becarios permitía que el personal administrativo se enfocara en actividades de toma de decisión y análisis."
-    en: "This would allow them to focus on decision making and analysis."
+    es: El uso de becarios permitía que el personal administrativo se enfocara en
+      actividades de toma de decisión y análisis.
+    en: This would allow them to focus on decision making and analysis.
 desafio4_parrafo:
   texto:
-    es: "Derivado del tema de la pandemia tuvieron que suspender el programa de becarios; lo cual generó una carga excesiva de trabajo para el equipo administrativo, afectando 56 procesos administrativos y requiriendo extender las jornadas laborales de los colaboradores."
-    en: "Due to the pandemic contingency, they had to suspend the program, which brought an excessive backlog to the management team, affecting 56 management processes and demanding extra labour days from the collaborators."
+    es: Derivado del tema de la pandemia tuvieron que suspender el programa de becarios;
+      lo cual generó una carga excesiva de trabajo para el equipo administrativo,
+      afectando 56 procesos administrativos y requiriendo extender las jornadas laborales
+      de los colaboradores.
+    en: Due to the pandemic contingency, they had to suspend the program, which brought
+      an excessive backlog to the management team, affecting 56 management processes
+      and demanding extra labour days from the collaborators.
 solucion_titulo:
   texto:
-    es: "SOLUCIÓN"
-    en: "SOLUTION"
+    es: SOLUCIÓN
+    en: SOLUTION
 solucion2_parrafo:
   texto:
-    es: "Después de realizar un piloto exitoso y evaluar la tecnología de Automation Anywhere y las capacidades de su socio de negocio SMART FORCE, se decidió arrancar un proyecto piloto para mostrar a la organización los beneficios del uso de la tecnología RPA."
-    en: "After the analysis of a successful pilot, and the evaluation of the Automation Anywhere technology, as well as the capabilities of Sforce team, a mayor project was launched to benefit from the RPA technology."
+    es: Después de realizar un piloto exitoso y evaluar la tecnología de Automation
+      Anywhere y las capacidades de su socio de negocio SMART FORCE, se decidió arrancar
+      un proyecto piloto para mostrar a la organización los beneficios del uso de
+      la tecnología RPA.
+    en: After the analysis of a successful pilot, and the evaluation of the Automation
+      Anywhere technology, as well as the capabilities of Sforce team, a mayor project
+      was launched to benefit from the RPA technology.
 solucion3_parrafo:
   texto:
-    es: "Ya con resultados tangibles, se tiene un programa de automatización de todos aquellos procesos administrativos que permitirán al Hospital, ser más eficiente, mejorar tiempos de atención a clientes y pacientes, así como acelerar procesos de recuperación de cartera con aseguradoras."
-    en: "With tangible results, an RPA program was created to automate all the management processes that will allow Hospital Satélite to be more efficient, improve response time to customers and patients, as well as to accelerate credit and collection processes with insurance companies."
+    es: Ya con resultados tangibles, se tiene un programa de automatización de todos
+      aquellos procesos administrativos que permitirán al Hospital, ser más eficiente,
+      mejorar tiempos de atención a clientes y pacientes, así como acelerar procesos
+      de recuperación de cartera con aseguradoras.
+    en: With tangible results, an RPA program was created to automate all the management
+      processes that will allow Hospital Satélite to be more efficient, improve response
+      time to customers and patients, as well as to accelerate credit and collection
+      processes with insurance companies.
