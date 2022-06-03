@@ -109,11 +109,12 @@ gproyectos_titulo:
 gproyectos1_parrafo:
   texto:
     es: Contamos con un equipo de profesionales certificados en metodologías de administración
-      de proyectos para ayudarlos en la gestión de proyectos de TI, implementación
-      de modelos de gobierno de TI, para el adecuado seguimiento logro de resultados.
-    en: We have a professional team certified in project management to help you with
-      IT projects, IT governance model implementations, to have a suitable follow
-      up until results
+      de proyectos y metodología ágil para ayudarlos en la gestión de proyectos de
+      TI, implementación de modelos de gobierno de TI, para el adecuado seguimiento
+      logro de resultados.
+    en: We have a professional team certified in project management and agile methodology
+      to help you with IT projects, IT governance model implementations, to have a
+      suitable follow up until results
 gproyectos2_subtitulo:
   texto:
     es: Metodologías Ágiles
