@@ -1,80 +1,95 @@
+---
 rpa_ipa_titulo:
   texto:
-    es: "AUTOMATIZACIONES CON RPA / IPA"
-    en: "RPA / IPA AUTOMATIONS"
+    es: AUTOMATIZACIÓN CON RPA / IPA
+    en: RPA / IPA AUTOMATIONS
 rpa_ipa1_titulo:
   texto:
-    es: "RPA es el término que usa la industria para programas de cómputo que ayudan a automatizar funciones imitando el como los usuarios interactúan..."
-    en: "RPA is a concept used in the industry to describe computing programs that helps users to automate activites by imitating how users interact with systems and applicatIons..."
+    es: RPA es el término que usa la industria para programas de cómputo que ayudan
+      a automatizar funciones imitando el como los usuarios interactúan...
+    en: RPA is a concept used in the industry to describe computing programs that
+      helps users to automate activites by imitating how users interact with systems
+      and applicatIons...
 rpa_ipa1_link:
   texto:
-    es: "leer más "
-    en: "read more "
+    es: 'leer más '
+    en: 'read more '
 chatbot_titulo:
   texto:
-    es: "CHATBOTS"
-    en: "CHATBOTS"
+    es: CHATBOTS
+    en: CHATBOTS
 chatbot1_titulo:
   texto:
-    es: "Te ayudamos en la estrategia de desarrollar Chatbots conversacionales complejos con capacidad de procesamiento de Lenguaje Natural (NLP)..."
-    en: "We help you with a more complete commercial and customer service strategy, using bot that can have conversations with a Natural Language Processing (NLP)..."
+    es: Te ayudamos en la estrategia de desarrollar Chatbots conversacionales complejos
+      con capacidad de procesamiento de Lenguaje Natural (NLP)...
+    en: We help you with a more complete commercial and customer service strategy,
+      using bot that can have conversations with a Natural Language Processing (NLP)...
 chatbot1_link:
   texto:
-    es: "leer más "
-    en: "read more "
+    es: 'leer más '
+    en: 'read more '
 tdigital_titulo:
   texto:
-    es: "TRANSFORMACIÓN DIGITAL"
-    en: "DIGITAL TRANSFORMATION"
+    es: TRANSFORMACIÓN DIGITAL
+    en: DIGITAL TRANSFORMATION
 tdigital1_titulo:
   texto:
-    es: "Abordamos en conjunto con nuestros clientes los retos de transformación de procesos, evaluando las tecnologías que permitirán mejores resultados..."
-    en: "We get onboard with our customers to face challenges on their processes, evaluating the best technologies to improve results..."
+    es: Abordamos en conjunto con nuestros clientes los retos de transformación de
+      procesos, evaluando las tecnologías que permitirán mejores resultados...
+    en: We get onboard with our customers to face challenges on their processes, evaluating
+      the best technologies to improve results...
 tdigital1_link:
   texto:
-    es: "leer más "
-    en: "read more "
+    es: 'leer más '
+    en: 'read more '
 boarding_titulo:
   texto:
-    es: "ON BOARDING"
-    en: "ON BOARDING"
+    es: ON BOARDING
+    en: ON BOARDING
 boarding1_titulo:
   texto:
-    es: "Servicios empaquetados con alcances definidos, diseñados para desarrollar las capacidades internas en nuestros clientes y asociados..."
-    en: "Bundle of services with a defined scope, designed to develop internal capabilities within our customers and business partners teams..."
+    es: Servicios empaquetados con alcances definidos, diseñados para desarrollar
+      las capacidades internas en nuestros clientes y asociados...
+    en: Bundle of services with a defined scope, designed to develop internal capabilities
+      within our customers and business partners teams...
 boarding1_link:
   texto:
-    es: "leer más "
-    en: "read more  "
+    es: 'leer más '
+    en: 'read more  '
 llave_titulo:
   texto:
-    es: "PROYECTOS LLAVE EN MANO"
-    en: "KEY IN HAND PROJECTS"
+    es: PROYECTOS LLAVE EN MANO
+    en: KEY IN HAND PROJECTS
 llave1_titulo:
   texto:
-    es: "Nos involucramos en todo el proceso de transformación de nuestros clientes, analizando, diseñando y desarrollando las automatizaciones..."
-    en: "We get involved in the whole transformation process of our customers, analyzing, designing and developing the automations..."
+    es: Nos involucramos en todo el proceso de transformación de nuestros clientes,
+      analizando, diseñando y desarrollando las automatizaciones...
+    en: We get involved in the whole transformation process of our customers, analyzing,
+      designing and developing the automations...
 llave1_link:
   texto:
-    es: "leer más "
-    en: "read more "
+    es: 'leer más '
+    en: 'read more '
 robot_titulo:
   texto:
-    es: "ROBOT AS A SERVICE"
-    en: "ROBOT AS A SERVICE"
+    es: ROBOT AS A SERVICE
+    en: ROBOT AS A SERVICE
 robot1_titulo:
   texto:
-    es: "Para clientes que no tiene el personal o la infraestructura para una operación compleja, pero igualmente se enfrentan a los retos de las actividades..."
-    en: "In order for the customers to face the day to day challenges within a complex operation, and have no infrastructure or staff, we can provide a managed service to add value..."
+    es: Para clientes que no tiene el personal o la infraestructura para una operación
+      compleja, pero igualmente se enfrentan a los retos de las actividades...
+    en: In order for the customers to face the day to day challenges within a complex
+      operation, and have no infrastructure or staff, we can provide a managed service
+      to add value...
 robot1_link:
   texto:
-    es: "leer más "
-    en: "read more "
+    es: 'leer más '
+    en: 'read more '
 anterior_titulo:
   texto:
-    es: "anterior"
-    en: "previous"
+    es: anterior
+    en: previous
 siguiente_titulo:
   texto:
-    es: "siguiente"
-    en: "next"
+    es: siguiente
+    en: next
