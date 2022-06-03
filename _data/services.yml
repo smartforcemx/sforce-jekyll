@@ -49,10 +49,10 @@ boarding_titulo:
     en: ONBOARDING
 boarding1_titulo:
   texto:
-    es: Servicios empaquetados con alcances definidos, diseñados para desarrollar
-      las capacidades internas en nuestros clientes y asociados...
-    en: Bundle of services with a defined scope, designed to develop internal capabilities
-      within our customers and business partners teams...
+    es: Capacitación de tu equipo interno + acompañamiento para la robotización +
+      coaching y creación de tu propio Centro de excelencia...
+    en: Training for your internal team + accompaniment in automation + coaching and
+      creation of you own Center of excellence...
 boarding1_link:
   texto:
     es: 'leer más '
