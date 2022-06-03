@@ -1,7 +1,7 @@
 ---
 socio1_titulo:
   texto:
-    es: SOMOS TU SOCIO DE
+    es: SOMOS TU SOCIO EN
     en: 'Your partner in '
 socio1_subtitulo:
   texto:
@@ -16,10 +16,6 @@ socio1_link:
   texto:
     es: 'Conoce más '
     en: 'Learn more '
-automation1_titulo:
-  texto:
-    es: AUTOMATION ANYWHERE
-    en: AUTOMATION ANYWHERE
 automation1_titulo:
   texto:
     es: ÚNICO SOCIO DE ENTRENAMIENTO ACREDITADO EN MÉXICO
