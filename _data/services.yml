@@ -20,10 +20,11 @@ chatbot_titulo:
     en: CHATBOTS
 chatbot1_titulo:
   texto:
-    es: Te ayudamos en la estrategia de desarrollar Chatbots conversacionales complejos
-      con capacidad de procesamiento de Lenguaje Natural (NLP)...
+    es: Te ayudamos con tu estrategia para desarrollar Chatbots conversacionales con
+      capacidad de procesamiento de Lenguaje Natural (NLP) complejo ...
     en: We help you with a more complete commercial and customer service strategy,
-      using bot that can have conversations with a Natural Language Processing (NLP)...
+      using bot that can have conversations with a complex Natural Language Processing
+      (NLP)...
 chatbot1_link:
   texto:
     es: 'leer más '
