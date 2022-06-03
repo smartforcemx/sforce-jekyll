@@ -1,122 +1,113 @@
+---
 nosotros_titulo:
   texto:
-    es: "SOBRE NOSOTROS"
-    en: "ABOUT US" 
+    es: SOBRE NOSOTROS
+    en: ABOUT US
 quienes_somos_titulo:
   texto:
-    es: "Quienes somos -"
-    en: "Who we are -" 
+    es: Quiénes somos -
+    en: Who we are -
 smart_titulo:
   texto:
-    es: "SMART FORCE"
-    en: "SMART FORCE" 
+    es: SMART FORCE
+    en: SMART FORCE
 smart2_parrafo:
   texto:
-    es: "Nuestro equipo está integrado por colaboradores altamente compro
-        metidos con el éxito de nuestros clientes."
-    en: "Our team is composed of members that are highly committed to our
-  customers’ success."
+    es: Nuestro equipo está integrado por colaboradores altamente compro metidos con
+      el éxito de nuestros clientes.
+    en: Our team is composed of members that are highly committed to our customers’
+      success.
 smart3_parrafo:
   texto:
-    es: "Nuestro enfoque principal es ayudar a nuestros clientes a "
-    en: "Our focus is to help our customers "
+    es: 'Nuestro enfoque principal es ayudar a nuestros clientes a '
+    en: 'Our focus is to help our customers '
 smart3_1_parrafo:
   texto:
-    es: "transformar sus operaciones actuales para transicionar a un modelo 
-        digital,"
-    en: "transform their existing operations and  transition to a digital 
-        model,"
+    es: transformar sus operaciones actuales para transicionar a un modelo digital,
+    en: transform their existing operations and  transition to a digital model,
 smart3_2_parrafo:
   texto:
-    es: "donde los asistentes virtuales permitan que los humanos se en
-        foquen en actividades de más valor dentro de su rol y las actividades 
-        repetitivas -de alto volumen bajo valor- pero necesarias, sean completadas
-        por asistentes virtuales."
-    en: "where virtual assistants allow humans to focus on activities of 
-        greater value in their role and the necessary repetitive high-volume acti
-        vities are completed by these virtual assistants."
+    es: donde los asistentes virtuales permitan que los humanos se en foquen en actividades
+      de más valor dentro de su rol y las actividades repetitivas -de alto volumen
+      bajo valor- pero necesarias, sean completadas por asistentes virtuales.
+    en: where virtual assistants allow humans to focus on activities of greater value
+      in their role and the necessary repetitive high-volume acti vities are completed
+      by these virtual assistants.
 rpa_titulo:
-  texto:
-    es: "ROBOTIC PROCESS AUTOMATION"
-    en: 
-  texto: "ROBOTIC PROCESS AUTOMATION"
+  texto: ROBOTIC PROCESS AUTOMATION
 rpa2_parrafo:
   texto:
-    es: "Mas allá del Robotic Process Automation (RPA), combinamos tecno
-        logías de Inteligencia artificial (IA), visión de computadora (CV) y 
-        aprendizaje de maquina (ML) para lograr una automatización de Procesos 
-        Inteligente (IPA)."
-    en: "Beyond  Robotic Process Automation (RPA), we combine Artificial 
-        Intelligence (AI) Computer Vision (CV) and Machine Learning (ML) to 
-        accomplish an Intelligent Process Automation (IPA)."
+    es: Mas allá del Robotic Process Automation (RPA), combinamos tecno logías de
+      Inteligencia artificial (IA), visión de computadora (CV) y aprendizaje de maquina
+      (ML) para lograr una automatización de Procesos Inteligente (IPA).
+    en: Beyond  Robotic Process Automation (RPA), we combine Artificial Intelligence
+      (AI) Computer Vision (CV) and Machine Learning (ML) to accomplish an Intelligent
+      Process Automation (IPA).
 rpa3_parrafo:
   texto:
-    es: "La combinación de estas nuevas tecnologías, con sus inversiones 
-        actuales en tecnología logran capacidades aumentadas, para responder 
-        mejor, mas rápido y de forma mas eficiente los cambios del mercado, al 
-        tener al recurso humano enfocado en actividades de valor para los 
-        clientes y la empresa."
-    en: "The combination of these new technologies with the existing techno
-        logy investments create increased capacities, to respond efficiently, 
-        better and faster, to market changes with human resources focused on 
-        activities that add value to the customers and the company."
+    es: La combinación de estas nuevas tecnologías, con sus inversiones actuales en
+      tecnología logran capacidades aumentadas, para responder mejor, mas rápido y
+      de forma mas eficiente los cambios del mercado, al tener al recurso humano enfocado
+      en actividades de valor para los clientes y la empresa.
+    en: The combination of these new technologies with the existing techno logy investments
+      create increased capacities, to respond efficiently, better and faster, to market
+      changes with human resources focused on activities that add value to the customers
+      and the company.
 rpa3_1_parrafo:
   texto:
-    es: "Complementamos nuestros servicios de transformación digital con
-        una práctica de administración de proyectos, para ayudar a nuestros 
-        clientes a lograr sus objetivos con uso de metodologías agiles."
-    en: "Our team is composed of members that are highly committed to our
-        customers’ success."
+    es: Complementamos nuestros servicios de transformación digital con una práctica
+      de administración de proyectos, para ayudar a nuestros clientes a lograr sus
+      objetivos con uso de metodologías agiles.
+    en: Our team is composed of members that are highly committed to our customers’
+      success.
 metodo_agil_titulo:
   texto:
-    es: "MÉTODO ÁGIL"
-    en: "AGILE METHODOLOGY"
+    es: MÉTODO ÁGIL
+    en: AGILE METHODOLOGY
 metodo_agil2_parrafo:
   texto:
-    es: "El método ágil permite hacer entregas periódicas en forma rápida,
-        mostrando resultados al negocio, aportando resultados desde etapas 
-        tempranas de los proyectos, mejorando así el retorno de inversión al ir 
-        obteniendo valor del proyecto de forma incremental."
-    en: "Agile methodology allows us to deliver incremental products 
-        periodically. This is fast and allows us to show results to the business,
-        getting quick wins early on in the project and improving the return on 
-        investment with each incremental delivery."
+    es: El método ágil permite hacer entregas periódicas en forma rápida, mostrando
+      resultados al negocio, aportando resultados desde etapas tempranas de los proyectos,
+      mejorando así el retorno de inversión al ir obteniendo valor del proyecto de
+      forma incremental.
+    en: Agile methodology allows us to deliver incremental products periodically.
+      This is fast and allows us to show results to the business, getting quick wins
+      early on in the project and improving the return on investment with each incremental
+      delivery.
 nuestra_cultura_titulo:
   texto:
-    es: "NUESTRA CULTURA"
-    en: "OUR CULTURE"
+    es: NUESTRA CULTURA
+    en: OUR CULTURE
 nuestra_cultura2_parrafo:
   texto:
-    es: "Buscamos siempre el bien colectivo, tanto de nuestros colaboradores
-        como de nuestros clientes y entorno, es la razón por la que siempre 
-        buscamos tener clientes satisfechos en un modelo de negocio donde entre
-        guemos valor a nuestros clientes a un precio competitivo, que nos permita
-        seguir generando bienestar a nuestros empleados, accionistas y a la sociedad,
-        bajo normas de operación éticas."
-    en: "We are always looking for the collective good, for our team as well
-        as for our customers and the environment, this is the reason why we strive 
-        to have satisfied customers within a business model where we deliver value 
-        for a competitive price,  and continue to generate wellbeing for our 
-        employees, stockholders and community within an ethical environment."
+    es: Buscamos siempre el bien colectivo, tanto de nuestros colaboradores como de
+      nuestros clientes y entorno, es la razón por la que siempre buscamos tener clientes
+      satisfechos en un modelo de negocio donde entre guemos valor a nuestros clientes
+      a un precio competitivo, que nos permita seguir generando bienestar a nuestros
+      empleados, accionistas y a la sociedad, bajo normas de operación éticas.
+    en: We are always looking for the collective good, for our team as well as for
+      our customers and the environment, this is the reason why we strive to have
+      satisfied customers within a business model where we deliver value for a competitive
+      price,  and continue to generate wellbeing for our employees, stockholders and
+      community within an ethical environment.
 nuestra_cultura3_parrafo:
   texto:
-    es: "Mantenemos una estructura organizacional simple que nos permite tener
-        una comunicación fluida y sencilla con todos nuestros colaboradores, modelo 
-        que llevamos a la ejecución de los proyectos con nuestros clientes y socios."
-    en: "We maintain a lean organizational structure that allows for a fluid
-        and simple communication with our team members. We replicate this model 
-        for the execution of all our projects with customers and partners."
+    es: Mantenemos una estructura organizacional simple que nos permite tener una
+      comunicación fluida y sencilla con todos nuestros colaboradores, modelo que
+      llevamos a la ejecución de los proyectos con nuestros clientes y socios.
+    en: We maintain a lean organizational structure that allows for a fluid and simple
+      communication with our team members. We replicate this model for the execution
+      of all our projects with customers and partners.
 crecimiento_titulo:
   texto:
-    es: "CRECIMIENTO"
-    en: "GROWTH"
+    es: CRECIMIENTO
+    en: GROWTH
 crecimiento2_parrafo:
   texto:
-    es: "Nos retamos constantemente a adquirir nuevas habilidades y conocimien
-        tos, para crecer como organización, personas y entorno, y contar con mejores
-        perspectivas de abordar los retos de negocio que constantemente se nos presen
-        tan en la ejecución de proyectos con nuestros clientes."
-    en: "We challenge ourselves to acquiring new skills and knowledge, to 
-        grow as an organization, people and environment, and to have a better 
-        perspective to approach to new business challenges that are brought to us 
-        by our customers´s needs."
+    es: Nos retamos constantemente a adquirir nuevas habilidades y conocimien tos,
+      para crecer como organización, personas y entorno, y contar con mejores perspectivas
+      de abordar los retos de negocio que constantemente se nos presen tan en la ejecución
+      de proyectos con nuestros clientes.
+    en: We challenge ourselves to acquiring new skills and knowledge, to grow as an
+      organization, people and environment, and to have a better perspective to approach
+      to new business challenges that are brought to us by our customers´s needs.
