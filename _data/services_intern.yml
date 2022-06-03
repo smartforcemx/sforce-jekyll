@@ -218,12 +218,12 @@ chatbot1_1_subtitulo:
     en: 'conversational robots '
 chatbot1_2_parrafo:
   texto:
-    es: con capacidad de procesamiento de Lenguaje Natural (NLP), entendimiento de
-      lenguaje natural (NLU) y técnicas de manejo de dialogo para lograr un alto grado
-      de automatización sin sacrificar precisión.
-    en: with the capacity of Processing Natural Language (NLP), Natural Language Understanding
-      (NLU) and handling dialogue skills to accomplish a high level of automation
-      without sacrificing precision.
+    es: con capacidad de procesamiento de un modelo complejo de Lenguaje Natural (NLP),
+      entendimiento de lenguaje natural (NLU) y técnicas de manejo de dialogo para
+      lograr un alto grado de automatización sin sacrificar precisión.
+    en: with the capacity of understanding a complex Processing Natural Language (NLP),
+      Natural Language Understanding (NLU) and handling dialogue skills to accomplish
+      a high level of automation without sacrificing precision.
 llave_mano_img:
   src:
     es: "/assets/img/servicios/LLAVE EN MANO/2.png"
