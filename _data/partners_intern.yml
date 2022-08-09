@@ -45,14 +45,9 @@ aliados1_parrafo:
   texto:
     es: Logramos interacciones en tiempo real con clientes y usuarios para resolver
       solicitudes y preguntas, combinando la tecnología de RPA con Plataformas Conversacionales
-      de Inteligencia Artificial. Además automatizamos procesos cuyos datos se encuentran
-      en imágenes y archivos de trabajo con información no estructurada, apalancándonos
-      de plataformas de procesamiento inteligente de imágenes.
-    en: We enable real time interactions with customers and users to solve questions
-      and requests, combining RPA and Conversational Platforms with Artificial Intelligence.
-      We also automate processes whose origin information is found in images and work
-      papers with unstructured data, leveraged with platforms of intelligent image
-      processing.
+      de Inteligencia Artificial.
+    en: 'We enable real time interactions with customers and users to solve questions
+      and requests, combining RPA and Conversational Platforms with Artificial Intelligence. '
 aliados1_1_parrafo:
   texto:
     es: Trabajamos con los mejores partners para lograr una experiencia de cliente
