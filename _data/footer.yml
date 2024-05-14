@@ -47,3 +47,10 @@ descripcion:
     en: Smart Force is a company founded in 2020, dedicated to process automation,
       located in Av. Revolución 1564 interior A, Colonia Guadalupe Inn, Alcaldía Álvaro
       Obregón, CP. 01020, Ciudad de México.
+codigo_etica:
+  texto:
+    es: Código de ética
+    en: Code of ethics
+  url:
+    es: "#"
+    en: "#"
